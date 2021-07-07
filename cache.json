@@ -1,656 +1,1316 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "/r/Technology",
+      "feedUrl": "https://www.reddit.com/r/technology/.rss",
+      "siteUrl": "https://www.reddit.com/r/technology/",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "id": "https://www.reddit.com/r/technology/comments/offwir/bmws_new_ev_concept_transforms_into_a_spacious/",
           "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 370,
-          "title": "v1.11.0"
+          "description": "submitted by    /u/thebelsnickle1991  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/offwir/bmws_new_ev_concept_transforms_into_a_spacious/",
+          "publishedOn": "2021-07-07T10:04:40.000Z",
+          "wordCount": 131,
+          "title": "BMW’s new EV concept transforms into a spacious room"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ofdrrq/broadcom_illegally_monopolized_tv_and_broadband/",
+          "author": null,
+          "description": "submitted by    /u/thatfiremonkey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ofdrrq/broadcom_illegally_monopolized_tv_and_broadband/",
+          "publishedOn": "2021-07-07T07:01:45.000Z",
+          "wordCount": 156,
+          "title": "Broadcom “illegally monopolized“ TV and broadband chip markets, FTC charges: Firm \"illegally\" dominated set-top box and modem chips, must stop exclusivity deals."
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ofcu39/tencent_deploys_facial_recognition_to_detect/",
+          "author": null,
+          "description": "submitted by    /u/sidcool1234  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ofcu39/tencent_deploys_facial_recognition_to_detect/",
+          "publishedOn": "2021-07-07T05:48:48.000Z",
+          "wordCount": 268,
+          "title": "Tencent Deploys Facial Recognition to Detect Minors Gaming at Night"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ofctm7/instant_water_cleaning_method_millions_of_times/",
+          "author": null,
+          "description": "submitted by    /u/sidcool1234  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ofctm7/instant_water_cleaning_method_millions_of_times/",
+          "publishedOn": "2021-07-07T05:47:51.000Z",
+          "wordCount": 289,
+          "title": "Instant water cleaning method ‘millions of times’ better than commercial approach"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ofaqkw/evidence_planted_on_laptops_of_jailed_indian/",
+          "author": null,
+          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ofaqkw/evidence_planted_on_laptops_of_jailed_indian/",
+          "publishedOn": "2021-07-07T03:25:24.000Z",
+          "wordCount": 191,
+          "title": "Evidence planted on laptops of jailed Indian activists, says forensics firm Arsenal Computing"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ofaq66/fired_by_bot_at_amazon_its_you_against_the/",
+          "author": null,
+          "description": "submitted by    /u/UnleashFun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ofaq66/fired_by_bot_at_amazon_its_you_against_the/",
+          "publishedOn": "2021-07-07T03:24:39.000Z",
+          "wordCount": 155,
+          "title": "Fired by Bot at Amazon: ‘It’s You Against the Machine’ - BNN Bloomberg"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ofa822/raytheon_bae_and_northrop_selected_for_darpa/",
+          "author": null,
+          "description": "submitted by    /u/Vailhem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ofa822/raytheon_bae_and_northrop_selected_for_darpa/",
+          "publishedOn": "2021-07-07T02:54:03.000Z",
+          "wordCount": 113,
+          "title": "Raytheon, BAE and Northrop selected for DARPA FENCE project"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of8nfv/jeff_bezos_hits_wealth_record_of_211_billion_on/",
+          "author": null,
+          "description": "submitted by    /u/Bammy-Soy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of8nfv/jeff_bezos_hits_wealth_record_of_211_billion_on/",
+          "publishedOn": "2021-07-07T01:17:38.000Z",
+          "wordCount": 685,
+          "title": "Jeff Bezos Hits Wealth Record of $211 Billion on Pentagon Move"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of5y08/what_audacitys_privacy_policy_update_actually/",
+          "author": null,
+          "description": "submitted by    /u/mrcanard  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of5y08/what_audacitys_privacy_policy_update_actually/",
+          "publishedOn": "2021-07-06T22:42:26.000Z",
+          "wordCount": 120,
+          "title": "What Audacity's Privacy Policy Update Actually Means"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of561i/microsoft_pushes_emergency_update_for_windows/",
+          "author": null,
+          "description": "submitted by    /u/WPHero  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of561i/microsoft_pushes_emergency_update_for_windows/",
+          "publishedOn": "2021-07-06T22:01:37.000Z",
+          "wordCount": 277,
+          "title": "Microsoft pushes emergency update for Windows PrintNightmare zero-day"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of3wxz/up_to_1500_businesses_infected_in_one_of_the/",
+          "author": null,
+          "description": "submitted by    /u/swingadmin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of3wxz/up_to_1500_businesses_infected_in_one_of_the/",
+          "publishedOn": "2021-07-06T20:55:19.000Z",
+          "wordCount": 162,
+          "title": "Up to 1,500 businesses infected in one of the worst ransomware attacks ever — supply chain attack is having cascading effects around the world"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of3t69/twitter_restricts_account_of_professor_after_she/",
+          "author": null,
+          "description": "submitted by    /u/Logan_Mac  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of3t69/twitter_restricts_account_of_professor_after_she/",
+          "publishedOn": "2021-07-06T20:50:05.000Z",
+          "wordCount": 401,
+          "title": "Twitter restricts account of professor after she criticized Chinese president"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of3h0m/bitcoin_power_plant_is_turning_a_12000yearold/",
+          "author": null,
+          "description": "submitted by    /u/a_Ninja_b0y  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of3h0m/bitcoin_power_plant_is_turning_a_12000yearold/",
+          "publishedOn": "2021-07-06T20:32:54.000Z",
+          "wordCount": 477,
+          "title": "Bitcoin power plant is turning a 12,000-year-old glacial lake into a hot tub"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/of35ta/the_data_economy_is_a_barter_economy_the_internet/",
+          "author": null,
+          "description": "submitted by    /u/thatfiremonkey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/of35ta/the_data_economy_is_a_barter_economy_the_internet/",
+          "publishedOn": "2021-07-06T20:17:29.000Z",
+          "wordCount": 338,
+          "title": "The Data Economy Is a Barter Economy: The internet runs on trading personal data for free services — and we can’t figure out if it’s a fair trade until we acknowledge that."
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oezigx/audacity_announced_user_data_collection_so_coders/",
+          "author": null,
+          "description": "submitted by    /u/thatfiremonkey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oezigx/audacity_announced_user_data_collection_so_coders/",
+          "publishedOn": "2021-07-06T17:19:53.000Z",
+          "wordCount": 452,
+          "title": "Audacity Announced User Data Collection, So Coders Made Their Own Version"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oezddc/debit_card_apps_for_kids_are_collecting_a/",
+          "author": null,
+          "description": "submitted by    /u/08830  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oezddc/debit_card_apps_for_kids_are_collecting_a/",
+          "publishedOn": "2021-07-06T17:12:55.000Z",
+          "wordCount": 528,
+          "title": "Debit Card Apps for Kids Are Collecting a Shocking Amount of Personal Data"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oextxy/windows_11_laptops_will_require_front_facing/",
+          "author": null,
+          "description": "submitted by    /u/Ironmike11B  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oextxy/windows_11_laptops_will_require_front_facing/",
+          "publishedOn": "2021-07-06T15:58:28.000Z",
+          "wordCount": 979,
+          "title": "Windows 11 laptops will REQUIRE front facing camera in 2023"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oextjm/hackers_scrape_90000_gettr_user_emails_surprising/",
+          "author": null,
+          "description": "submitted by    /u/DragonPup  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oextjm/hackers_scrape_90000_gettr_user_emails_surprising/",
+          "publishedOn": "2021-07-06T15:57:55.000Z",
+          "wordCount": 409,
+          "title": "Hackers Scrape 90,000 GETTR User Emails, Surprising No One"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oexqvc/ai_bot_trolls_politicians_with_how_much_time/",
+          "author": null,
+          "description": "submitted by    /u/agent_vinod  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oexqvc/ai_bot_trolls_politicians_with_how_much_time/",
+          "publishedOn": "2021-07-06T15:54:15.000Z",
+          "wordCount": 585,
+          "title": "AI bot trolls politicians with how much time they're looking at phones"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oewd4f/nanofiber_membrane_filters_999_of_salt_from/",
+          "author": null,
+          "description": "submitted by    /u/eci-inc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oewd4f/nanofiber_membrane_filters_999_of_salt_from/",
+          "publishedOn": "2021-07-06T14:45:14.000Z",
+          "wordCount": 676,
+          "title": "Nanofiber Membrane Filters 99.9% of Salt from Seawater within Minutes"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oeun4f/transparent_solar_panels_farmers_most_fruitful/",
+          "author": null,
+          "description": "submitted by    /u/manual_tranny  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oeun4f/transparent_solar_panels_farmers_most_fruitful/",
+          "publishedOn": "2021-07-06T13:11:19.000Z",
+          "wordCount": 886,
+          "title": "Transparent solar panels, farmers' most fruitful tool? - Energy Live News"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oep365/mixed_up_membrane_desalinates_water_with_9999/",
+          "author": null,
+          "description": "submitted by    /u/Elliottafc1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oep365/mixed_up_membrane_desalinates_water_with_9999/",
+          "publishedOn": "2021-07-06T06:08:42.000Z",
+          "wordCount": 943,
+          "title": "Mixed up membrane desalinates water with 99.99 percent efficiency"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oenys4/cryptocurrency_fraud_brazils_bitcoin_king/",
+          "author": null,
+          "description": "submitted by    /u/agent_vinod  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oenys4/cryptocurrency_fraud_brazils_bitcoin_king/",
+          "publishedOn": "2021-07-06T04:48:17.000Z",
+          "wordCount": 483,
+          "title": "Cryptocurrency Fraud: Brazil's 'Bitcoin King' Arrested For Allegedly Embezzling $300 Million"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oeb2is/russias_latest_hack_shows_how_useful_criminal/",
+          "author": null,
+          "description": "submitted by    /u/spinx248  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oeb2is/russias_latest_hack_shows_how_useful_criminal/",
+          "publishedOn": "2021-07-05T16:37:44.000Z",
+          "wordCount": 1144,
+          "title": "Russia’s Latest Hack Shows How Useful ‘Criminal Groups’ Are to the Kremlin"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oe6ulc/welcome_to_dystopia_getting_fired_from_your_job/",
+          "author": null,
+          "description": "submitted by    /u/Fuzier  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oe6ulc/welcome_to_dystopia_getting_fired_from_your_job/",
+          "publishedOn": "2021-07-05T12:57:43.000Z",
+          "wordCount": 783,
+          "title": "Welcome to dystopia: getting fired from your job as an Amazon worker by an app | This is the most boring possible Terminator sequel - the robots are here to text you snidely that you won’t need to come into work ever again"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/oclf7g/got_a_tech_question_or_want_to_discuss_tech/",
+          "author": null,
+          "description": "Greetings Good People of /r/Technology,\n Welcome to the /r/Technology Tech Support / General Discussion Thread.\n All questions must be submitted as top comments (direct replies to this post).\n As always, we ask that you keep it civil, abide by the rules of reddit and mind your reddiquette. Please hit the report button on any activity that you feel may be in violation of any of the guidelines listed above.\n Click here to review past iterations of these support discussions.\n cheers, /r/technology moderators.\n    submitted by    /u/veritanuda  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/oclf7g/got_a_tech_question_or_want_to_discuss_tech/",
+          "publishedOn": "2021-07-02T22:45:11.000Z",
+          "wordCount": 899,
+          "title": "Got a tech question or want to discuss tech? Bi-Weekly /r/Technology Tech Support / General Discussion Thread"
         }
       ]
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Cloud Computing",
+      "feedUrl": "https://www.reddit.com/r/Cloud/.rss",
+      "siteUrl": "https://www.reddit.com/r/Cloud/",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=343438",
-          "author": "Chris Coyier",
-          "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/body-toggle/",
-          "publishedOn": "2021-07-06T20:55:45.000Z",
-          "wordCount": 385,
-          "title": "Body Toggle"
+          "id": "https://www.reddit.com/r/Cloud/comments/offsoa/which_one_to_go_for/",
+          "author": null,
+          "description": "Hi, i am a software engineer planning a career switch. I want to get into cloud. But can't decide which cert to do and which cloud tech to go for. Aws, Azure, Gcp. Please advice. Thanks.\n    submitted by    /u/wanderer-124  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/offsoa/which_one_to_go_for/",
+          "publishedOn": "2021-07-07T09:56:00.000Z",
+          "wordCount": 140,
+          "title": "Which one to go for..!"
         },
         {
-          "id": "https://css-tricks.com/?p=343560",
-          "author": "Chris Coyier",
-          "description": "And maybe an optional follow-up if you’re up for it.\nAutomattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …\nThe post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/",
-          "publishedOn": "2021-07-06T20:00:30.000Z",
-          "wordCount": 391,
-          "title": "I’ve got one question about Jetpack for you."
+          "id": "https://www.reddit.com/r/Cloud/comments/ofcsuj/cloud_security_practices_all_you_need_to_know/",
+          "author": null,
+          "description": "submitted by    /u/AskAxiomIO  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/ofcsuj/cloud_security_practices_all_you_need_to_know/",
+          "publishedOn": "2021-07-07T05:46:14.000Z",
+          "wordCount": 253,
+          "title": "Cloud Security Practices - All you need to know. This article by Mohan Gandhi Ponnaganti details the building blocks of cloud security, and the proactive practices organizations must implement. You can also talk to our cloud security experts for more information here: https://lnkd.in/gdZChpf"
         },
         {
-          "id": "https://css-tricks.com/?p=343149",
-          "author": "Martin Lexelius",
-          "description": "Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …\nThe post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-dilemma-of-naming-font-size-variables/",
-          "publishedOn": "2021-07-06T14:41:22.000Z",
-          "wordCount": 3012,
-          "title": "The Dilemma of Naming Font Size Variables"
+          "id": "https://www.reddit.com/r/Cloud/comments/of5lzl/alert_us_gov_cancels_10b_cloud_contract_with/",
+          "author": null,
+          "description": "submitted by    /u/The-Techie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/of5lzl/alert_us_gov_cancels_10b_cloud_contract_with/",
+          "publishedOn": "2021-07-06T22:24:35.000Z",
+          "wordCount": 117,
+          "title": "Alert: US Gov Cancels $10B Cloud Contract With Microsoft"
         },
         {
-          "id": "https://css-tricks.com/?p=343166",
-          "author": "Lari Maza",
-          "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/",
-          "publishedOn": "2021-07-05T14:17:33.000Z",
-          "wordCount": 1152,
-          "title": "Kubernetes Explained Simply: Containers, Pods and Images"
+          "id": "https://www.reddit.com/r/Cloud/comments/oeysid/pentagon_cancels_10_billion_jedi_cloud_contract/",
+          "author": null,
+          "description": "submitted by    /u/eci-inc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oeysid/pentagon_cancels_10_billion_jedi_cloud_contract/",
+          "publishedOn": "2021-07-06T16:44:44.000Z",
+          "wordCount": 172,
+          "title": "Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over"
         },
         {
-          "id": "https://css-tricks.com/?p=343671",
-          "author": "Chris Coyier",
-          "description": "Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …\nThe post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/",
-          "publishedOn": "2021-07-05T14:15:20.000Z",
-          "wordCount": 2661,
-          "title": "Trigonometry in CSS and JavaScript: Beyond Triangles"
+          "id": "https://www.reddit.com/r/Cloud/comments/oerqpv/how_to_build_functional_and_beautiful_cloud/",
+          "author": null,
+          "description": "Hey guys, \n Helen Mary Barrameda just wrote a new blog post you may enjoy on the ATA blog. \n \"How to Build Functional (and Beautiful) Cloud Diagrams\" \n Summary: Learn the steps to create Azure diagrams and cloud diagrams in general all the way from business objectives, branding and choosing the right tool. \n https://adamtheautomator.com/azure-diagram/\n    submitted by    /u/adbertram  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oerqpv/how_to_build_functional_and_beautiful_cloud/",
+          "publishedOn": "2021-07-06T09:48:54.000Z",
+          "wordCount": 142,
+          "title": "How to Build Functional (and Beautiful) Cloud Diagrams"
         },
         {
-          "id": "https://css-tricks.com/?p=343496",
-          "author": "Chris Coyier",
-          "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-fourteenth-fourth/",
-          "publishedOn": "2021-07-04T13:29:01.000Z",
-          "wordCount": 1943,
-          "title": "The Fourteenth Fourth"
+          "id": "https://www.reddit.com/r/Cloud/comments/oerdv1/bring_cloud_experiences_to_data_workloads/",
+          "author": null,
+          "description": "submitted by    /u/kristenwaston  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oerdv1/bring_cloud_experiences_to_data_workloads/",
+          "publishedOn": "2021-07-06T09:18:53.000Z",
+          "wordCount": 113,
+          "title": "Bring cloud experiences to data workloads anywhere with Azure SQL enabled by Azure Arc"
         },
         {
-          "id": "https://css-tricks.com/?p=343435",
-          "author": "Chris Coyier",
-          "description": "The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…\nThe post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/zero-width-space/",
-          "publishedOn": "2021-07-02T20:39:04.000Z",
-          "wordCount": 1834,
-          "title": "Zero-Width Space"
+          "id": "https://www.reddit.com/r/Cloud/comments/oeh37e/looking_for_secure_storage_for_customer_data_look/",
+          "author": null,
+          "description": "Hi, I am an open-source developer working on Databunker: https://github.com/securitybunker/databunker.\n Databunker is a special application server used for the secure storage of customer data. It is not a full-fledged database. In the backend, it is using MySQL, PostgreSQL, or SQLite to store encrypted customer records. The product comes with full GDPR compliance and is built with privacy-by-design compliance.\n    submitted by    /u/yulistr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oeh37e/looking_for_secure_storage_for_customer_data_look/",
+          "publishedOn": "2021-07-05T21:44:27.000Z",
+          "wordCount": 222,
+          "title": "Looking for secure storage for customer data? Look no further!"
         },
         {
-          "id": "https://css-tricks.com/?p=342995",
-          "author": "Sarah Drasner",
-          "description": "Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …\nThe post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/good-meetings/",
-          "publishedOn": "2021-07-02T14:41:26.000Z",
-          "wordCount": 3441,
-          "title": "Good Meetings"
+          "id": "https://www.reddit.com/r/Cloud/comments/oe4ygj/quickbooks_cloud_hosting_service_in_the_usa/",
+          "author": null,
+          "description": "QuickBooks is the best tool for businesses looking to take their business forward with help of technology. Rely on automated tasks to get suitable results & also results in enhanced customer communication. \n To know more read the full blog here: https://www.guestcanpost.co.uk/quickbooks-cloud-hosting-service-in-the-usa/\n    submitted by    /u/rupinderkaur0r  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oe4ygj/quickbooks_cloud_hosting_service_in_the_usa/",
+          "publishedOn": "2021-07-05T10:56:06.000Z",
+          "wordCount": 131,
+          "title": "QuickBooks Cloud Hosting service in the USA"
         },
         {
-          "id": "https://css-tricks.com/?p=342994",
-          "author": "Chris Coyier",
-          "description": "This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.\nThe setup is that you can use WooCommerce to sell things on a WordPress …\nThe post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/",
-          "publishedOn": "2021-07-02T00:02:51.000Z",
-          "wordCount": 1264,
-          "title": "The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes."
+          "id": "https://www.reddit.com/r/Cloud/comments/oe33ab/tokyo_application_latency/",
+          "author": null,
+          "description": "Hello,\n I am looking for the cloud service that will provide me with the lowest latency in Tokyo region. \n I have created the automatic crypto trading bot which connects with Kucoin and Hotbit exchange. I need to have lowest latency while placing orders because the program runs 24/7 and the market is really volatile. I have used AWS, Google Cloud, IBM, Alibaba, Azure and have tried different settings to decrease latency as much as i can. So far i am stuck within the loop of 40ms - 60ms. I am trying to bring my latency between 15 ms - 30 ms.\n Has anyone tried to get lowest latency in Tokyo region? Can you please suggest me something?\n I know the server for the exchanges are based in Tokyo.\n Thank you,\n    submitted by    /u/SignificantBuy9546  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oe33ab/tokyo_application_latency/",
+          "publishedOn": "2021-07-05T08:46:50.000Z",
+          "wordCount": 204,
+          "title": "Tokyo Application Latency"
         },
         {
-          "id": "https://css-tricks.com/?p=343637",
-          "author": "Chris Coyier",
-          "description": "The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …\nThe post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/css-web-vitals/",
-          "publishedOn": "2021-07-01T18:54:45.000Z",
-          "wordCount": 1639,
-          "title": "CSS for Web Vitals"
+          "id": "https://www.reddit.com/r/Cloud/comments/ocb1kv/why_modernize_legacy_applications/",
+          "author": null,
+          "description": "Legacy application modernization aligns the existing legacy software stack with modern business and functional requirements using new technologies.\n And what is the legacy application?\n Systems that are often thought of as “old” are software stacks that fit in the 2000s, not 2021, and are written in languages ​​like COBOL or Fortran.\n However, it can be any software, technology, or system that blocks or slows down business processes, making it difficult to adapt to market dynamics.\n Let's check out how to get a profit from legacy application modernization.\n    submitted by    /u/Sasha-Jelvix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/ocb1kv/why_modernize_legacy_applications/",
+          "publishedOn": "2021-07-02T14:18:47.000Z",
+          "wordCount": 165,
+          "title": "WHY MODERNIZE LEGACY APPLICATIONS?"
         },
         {
-          "id": "https://css-tricks.com/?p=342591",
-          "author": "Chris Coyier",
-          "description": "This is new stuff from DO.\nApp Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …\nThe post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/app-platform-on-digital-ocean/",
-          "publishedOn": "2021-07-01T18:54:12.000Z",
-          "wordCount": 971,
-          "title": "App Platform on Digital Ocean"
+          "id": "https://www.reddit.com/r/Cloud/comments/oc7ekj/im_thinking_of_pivoting_from_security_to_cloud/",
+          "author": null,
+          "description": "So I'm an IT student finishing up an associates degree and finished up a worthless (almost) internship of 8 months. What the internship did introduce me to was AWS and Azure. I like AWS more. What I've learned after the last couple of years is that there is a shit ton of heartburn breaking into, and then working in IT security. Cloud is legit and I want to be in that field now. During the internship I got the first AWS Cloud Practitioner cert, and was just a couple weeks away from testing for the SAA. Also, what languages are recommended to get started on. I need some guidance on how to proceed from here and any advice is greatly appreciated\n    submitted by    /u/Fortress7677  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oc7ekj/im_thinking_of_pivoting_from_security_to_cloud/",
+          "publishedOn": "2021-07-02T10:35:17.000Z",
+          "wordCount": 312,
+          "title": "I'm thinking of pivoting from security to cloud study"
         },
         {
-          "id": "https://css-tricks.com/?p=343092",
-          "author": "Cassidy Williams",
-          "description": "If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.\n\nClicking the button above lets me (or you!) instantly …\nThe post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
-          "publishedOn": "2021-07-01T14:40:14.000Z",
-          "wordCount": 1576,
-          "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
+          "id": "https://www.reddit.com/r/Cloud/comments/obr3ng/difference_between_paas_and_iaas/",
+          "author": null,
+          "description": "Hi! I have a question. What is the difference between PaaS and IaaS? Thankss\n    submitted by    /u/Aggravating-Shake289  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/obr3ng/difference_between_paas_and_iaas/",
+          "publishedOn": "2021-07-01T17:46:53.000Z",
+          "wordCount": 275,
+          "title": "Difference between PaaS and IaaS"
         },
         {
-          "id": "https://css-tricks.com/?p=343224",
-          "author": "Chris Coyier",
-          "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-do-you-make-a-layout-with-pictures-down-one-side-of-a-page-matched-up-with-paragraphs-on-the-other-side/",
-          "publishedOn": "2021-06-30T20:36:52.000Z",
-          "wordCount": 990,
-          "title": "How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side?"
+          "id": "https://www.reddit.com/r/Cloud/comments/obqsmc/hide_your_scrapers_ip_behind_the_cloud_provision/",
+          "author": null,
+          "description": "submitted by    /u/beleeee_dat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/obqsmc/hide_your_scrapers_ip_behind_the_cloud_provision/",
+          "publishedOn": "2021-07-01T17:32:34.000Z",
+          "wordCount": 133,
+          "title": "Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success."
         },
         {
-          "id": "https://css-tricks.com/?p=343064",
-          "author": "Travis Almand",
-          "description": "The click event is quite simple and easy to use; you listen for the event and run code when the event is fired. It works on just about every HTML element there is, a core feature of the DOM API.…\nThe post When a Click is Not Just a Click appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/when-a-click-is-not-just-a-click/",
-          "publishedOn": "2021-06-30T14:45:42.000Z",
-          "wordCount": 4537,
-          "title": "When a Click is Not Just a Click"
+          "id": "https://www.reddit.com/r/Cloud/comments/oblgjd/automatically_add_a_watermark_to_all_videos_in_a/",
+          "author": null,
+          "description": "I look for a possibility where every video clip (max length 2 minutes) that got on the cloud gets a small watermark on the bottom of the video.\n A) Do you know a way how to do it?\n B) Or know any service that could automate this?\n Currently I have an office 365 with 1TB oneDrive. Would be nice if we could either store or upload it on oneDrive.\n Would be awesome if you have some tips :)\n    submitted by    /u/crale_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oblgjd/automatically_add_a_watermark_to_all_videos_in_a/",
+          "publishedOn": "2021-07-01T13:06:49.000Z",
+          "wordCount": 240,
+          "title": "Automatically add a watermark to all videos in a specific cloud folder i.E. oneDrive"
         },
         {
-          "id": "https://css-tricks.com/?p=343182",
-          "author": "Chris Coyier",
-          "description": "I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …\nThe post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/fixing-a-bug-in-low-resolution-mode/",
-          "publishedOn": "2021-06-30T14:44:54.000Z",
-          "wordCount": 1103,
-          "title": "Fixing a Bug in Low-Resolution Mode"
+          "id": "https://www.reddit.com/r/Cloud/comments/obhlbb/going_allin_on_cloudbased_development_with/",
+          "author": null,
+          "description": "submitted by    /u/cjheppell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/obhlbb/going_allin_on_cloudbased_development_with/",
+          "publishedOn": "2021-07-01T08:47:14.000Z",
+          "wordCount": 100,
+          "title": "Going all-in on cloud-based development with realistic databases"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/obh4m7/heres_why_you_should_migrate_your_revenue/",
+          "author": null,
+          "description": "submitted by    /u/Analyticsinsight01  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/obh4m7/heres_why_you_should_migrate_your_revenue/",
+          "publishedOn": "2021-07-01T08:10:40.000Z",
+          "wordCount": 110,
+          "title": "Here's Why You Should Migrate Your Revenue Management System to the Cloud Today"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/obeqpj/are_all_cloud_computing_services_the_same_or_do/",
+          "author": null,
+          "description": "We run a small tuition website and we've moved from providing classes via Zoom/Youtube to something more robust. The platform is based on a web-confrencing service. \n The service we use has their servers set on Digital Ocean but we're not getting the required performance from them. \n This got me wondering, a certain servers better at certain use cases. In our case, are certain servers better when it comes to audio/video processing? Should we move from Digital Ocean to AWS or Oracle?\n    submitted by    /u/versiontwopointzer0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/obeqpj/are_all_cloud_computing_services_the_same_or_do/",
+          "publishedOn": "2021-07-01T05:06:22.000Z",
+          "wordCount": 313,
+          "title": "Are all cloud computing services the same or do some have a edge over the others when it comes to specific use cases?"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/ob7kpr/video_top_new_cncf_cloud_native_projects_to_look/",
+          "author": null,
+          "description": "submitted by    /u/CloudWithChris  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/ob7kpr/video_top_new_cncf_cloud_native_projects_to_look/",
+          "publishedOn": "2021-06-30T21:56:24.000Z",
+          "wordCount": 144,
+          "title": "VIDEO: Top new CNCF (cloud native) projects to look out for (including Helm, Linkerd, Keda, Kudo and more!)"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/oahr5d/how_much_does_aws_really_cost/",
+          "author": null,
+          "description": "submitted by    /u/shadowsers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oahr5d/how_much_does_aws_really_cost/",
+          "publishedOn": "2021-06-29T21:20:59.000Z",
+          "wordCount": 96,
+          "title": "How much does AWS really cost?"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/oaaw93/cloud_data_lake_tco_optimization_capabilities/",
+          "author": null,
+          "description": "submitted by    /u/aksri198  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oaaw93/cloud_data_lake_tco_optimization_capabilities/",
+          "publishedOn": "2021-06-29T15:44:23.000Z",
+          "wordCount": 92,
+          "title": "Cloud Data Lake - TCO Optimization Capabilities"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/oa8u2o/a_path_to_excellence_in_cloud_operations/",
+          "author": null,
+          "description": "submitted by    /u/AskAxiomIO  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oa8u2o/a_path_to_excellence_in_cloud_operations/",
+          "publishedOn": "2021-06-29T13:59:11.000Z",
+          "wordCount": 123,
+          "title": "A Path to Excellence in Cloud Operations"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/oa7heu/introducing_digitalocean_managed_mongodb_a_fully/",
+          "author": null,
+          "description": "submitted by    /u/creativefisher  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/oa7heu/introducing_digitalocean_managed_mongodb_a_fully/",
+          "publishedOn": "2021-06-29T12:41:19.000Z",
+          "wordCount": 130,
+          "title": "Introducing DigitalOcean Managed MongoDB – a fully managed, database as a service for modern apps"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/o9oij4/the_1minute_aws_certification_quiz_question_31/",
+          "author": null,
+          "description": "Let's start the week with a brand-new AWS practice question about some important terminology regarding VPC subnets. Check and see if you know the answer: https://www.youtube.com/watch?v=n4RrEK9xyck&list=PLLmKdLgNsy5fZgRdFNMOErfPg1VuKmfXP&index=1\n    submitted by    /u/Dennis-Traub  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/o9oij4/the_1minute_aws_certification_quiz_question_31/",
+          "publishedOn": "2021-06-28T17:01:12.000Z",
+          "wordCount": 120,
+          "title": "The 1-Minute AWS Certification Quiz - Question 31"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/o9l6b7/how_to_reduce_your_amazon_eks_costs_by_half_in_15/",
+          "author": null,
+          "description": "submitted by    /u/Rainnis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/o9l6b7/how_to_reduce_your_amazon_eks_costs_by_half_in_15/",
+          "publishedOn": "2021-06-28T14:18:25.000Z",
+          "wordCount": 121,
+          "title": "How to reduce your Amazon EKS costs by half in 15 minutes"
+        },
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/o9h1du/roadmap_to_study_cloud_computing/",
+          "author": null,
+          "description": "Hi all,\n I'm back to job market as a Data Scientist. I feel like study cloud computing is a advantages skill to have for a DS. So I would love to be advised about the roadmap to study cloud computing like Azure, AWS, or GG Cloud Platform.\n Thanks.\n    submitted by    /u/vietlinh12hoa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/o9h1du/roadmap_to_study_cloud_computing/",
+          "publishedOn": "2021-06-28T09:50:56.000Z",
+          "wordCount": 280,
+          "title": "Roadmap to study cloud computing"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "はてなブックマーク - 人気エントリー - テクノロジー",
+      "feedUrl": "http://b.hatena.ne.jp/hotentry/it.rss",
+      "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
-          "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
-          "link": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "publishedOn": "2021-07-06T10:30:00.000Z",
-          "wordCount": 4121,
-          "title": "How To Choose A Headless CMS",
+          "id": "https://note.com/sangmin/n/n937938f1341e",
+          "author": null,
+          "description": "こんにちは、Choimirai Schoolのサンミンです。 0  はじめにお父さんと子供たちで「Jelly and Peanut Butter Sandwich」を作る様子を録画した動画。 これは、子供たちにプログラミングを教える上でも大変効果的な方法✨。面白いし、結果を見てどんな改善が必要なのか考えるのでアルゴリズムの基礎が学べる。pic.twitter....",
+          "link": "https://note.com/sangmin/n/n937938f1341e",
+          "publishedOn": "2021-07-07T08:05:11.000Z",
+          "wordCount": 433,
+          "title": "秀逸すぎるアルゴリズムの教え方｜Sangmin Ahn｜note"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1336533.html",
+          "author": null,
+          "description": "イギリス発の特撮人形劇「サンダーバード」が、スクリーンに復活。当時の撮影手法そのままに、完全新作エピソード「サンダーバード５５／ＧＯＧＯ」(原題：THUNDERBIRDS THE ANNIVERSARY EPISODES)として、2022年に劇場公開＆デジタル配信されることが「特撮の日」(7月7日)に発表された。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1336533.html",
+          "publishedOn": "2021-07-07T07:31:00.000Z",
+          "wordCount": 169,
+          "title": "「サンダーバード55/GOGO」'22年劇場公開。54年ぶりのオリジナル新作 - AV Watch"
+        },
+        {
+          "id": "https://medium.com/pinnacles-techblog/self-drive-engineer-510b3c567bfd",
+          "author": null,
+          "description": "ピナクルズの CTO をしている渋谷です。「現場向け動画 DX」を実現するための SaaS『tebiki』を開発しています。 今回は、マネージャー向けに「もしメンバーに自走してほしいなら、個人のメンタリティに期待するのではなく、組織で相互にアドバイスし合うプロセスを構築したほうがいい」という話をしたいと思います。 エ...",
+          "link": "https://medium.com/pinnacles-techblog/self-drive-engineer-510b3c567bfd",
+          "publishedOn": "2021-07-07T06:47:57.000Z",
+          "wordCount": 446,
+          "title": "自走するエンジニアが育つ組織の作り方 - pinnacles-techblog - Medium"
+        },
+        {
+          "id": "https://paiza.hatenablog.com/entry/2021/07/07/150000",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！ 今回は、GitHubのリポジトリをWebベースのRSSリーダーに変えることができるユニークなツールをご紹介します。 専門的な知識は一切不要で、マークダウンファイルに好きなフィードを追加していくだけですぐに自分だけのRSSリーダーを作って管理できるようになります。 すべて無料で...",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/07/150000",
+          "publishedOn": "2021-07-07T06:47:27.000Z",
+          "wordCount": 289,
+          "title": "簡単すぎる！GitHubを自分だけのRSSリーダーに変える「osmos:feed」を使ってみた！ - paiza開発日誌"
+        },
+        {
+          "id": "https://news.denfaminicogamer.jp/news/210707e",
+          "author": null,
+          "description": "『くにおくん』オマージュのRPG『Ringo Ishikawa』開発者が新作『Fading Afternoon』を正式発表。今度は「出所したばかりの中年ヤクザ」が主人公 「くにおくん」シリーズをオマージュしたゲーム『The friends of Ringo Ishikawa』の開発者として知られるyeo氏は、新作2Dアクションゲーム『Fading Afternoon』のSteamスト...",
+          "link": "https://news.denfaminicogamer.jp/news/210707e",
+          "publishedOn": "2021-07-07T06:06:37.000Z",
+          "wordCount": 388,
+          "title": "『くにおくん』オマージュのRPG『Ringo Ishikawa』開発者が新作『Fading Afternoon』を正式発表。今度は「出所したばかりの中年ヤクザ」が主人公"
+        },
+        {
+          "id": "https://blog.kyash.co/entry/2021/07/06/110106",
+          "author": null,
+          "description": "こんにちは、Fundsチームの @convto です。Kyashでは銀行入金やコンビニ入金などの残高の入出金に関わる部分の開発をしています。 Fundsチームではその業務の性質上多数の外部ベンダとやり取りをしています。 それぞれベンダごとに仕様なども異なるため、その接続部分のいくつかはマイクロサービスとして切り出されてい...",
+          "link": "https://blog.kyash.co/entry/2021/07/06/110106",
+          "publishedOn": "2021-07-07T05:39:15.000Z",
+          "wordCount": 515,
+          "title": "proto定義や成果物の管理用レポジトリを構築した話 - Kyash Product Blog"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1336495.html",
+          "author": null,
+          "description": "DTM用アプリやプラグインなどを手がける株式会社音圧爆上げくんは7日、数学における未解決問題の1つ「コラッツ予想」の解決に1億2千万円の賞金をかけたと発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1336495.html",
+          "publishedOn": "2021-07-07T03:39:39.000Z",
+          "wordCount": 87,
+          "title": "【やじうまPC Watch】偶数は2で割り、奇数は3倍して1足すを繰り返すと1になる。解けたら音圧爆上げくんから1億2千万円の賞金 - PC Watch"
+        },
+        {
+          "id": "https://ledge.ai/u-tokyo-hayashik-interview-1/",
+          "author": null,
+          "description": "ジャーナリズムやマスメディア研究で知られる東京大学の林香里教授（撮影：上代瑠偉） AI（人工知能）はすでに世の中のあらゆる場面に浸透しつつある。しかし、われわれの仕事の負担を減らしたり、生活を便利にしたりするものの、AIは必ずしもわれわれの救世主のような存在とは言えないだろう。AIには現代社会にある差別...",
+          "link": "https://ledge.ai/u-tokyo-hayashik-interview-1/",
+          "publishedOn": "2021-07-07T03:21:47.000Z",
+          "wordCount": 173,
+          "title": "「日本はAI倫理がとても弱い」東大の文系教授がAI社会に鳴らす警鐘 | Ledge.ai"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35173480/",
+          "author": null,
+          "description": "Appleは、少なくとも13という数字について、迷信を信じるタイプではないようだ。台湾メディアEconomic Daily Newsによると、同社は2021年の「iPhone」について、これまでの命名規則に従って「iPhone 13」の名称を使う予定だという。AppleはiPhone 13でも「iPhone 12」シリーズと同様に、「mini」「Pro」「Pro Max」の各...",
+          "link": "https://japan.cnet.com/article/35173480/",
+          "publishedOn": "2021-07-07T02:47:52.000Z",
+          "wordCount": 474,
+          "title": "アップル、不吉ともされる「13」避けず「iPhone」のナンバリングを踏襲か - CNET Japan"
+        },
+        {
+          "id": "https://devblog.thebase.in/entry/2021/07/07/110000",
+          "author": null,
+          "description": "こんにちは!! BASE BANK 株式会社 Dev Division にてSoftware Developerをしている永野(@glassmonkey)です。 普段はGo/Python/PHPを主に生業に開発・運用から何でもござれの精神でフルサイクルエンジニアをしています。 現在、自分たちのプロダクトであるYELL BANKの分析基盤を構築しています。 その際に、BigQueryで扱...",
+          "link": "https://devblog.thebase.in/entry/2021/07/07/110000",
+          "publishedOn": "2021-07-07T02:22:18.000Z",
+          "wordCount": 561,
+          "title": "Google Apps Script× BigQuery × Googleスプレッドシート × データポータルで簡易CRMを作ってみた - BASEプロダクトチームブログ"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1336421.html",
+          "author": null,
+          "description": "株式会社Preferred Networks(PFN)とENEOS株式会社(ENEOS)は7月6日、共同出資により6月1日に設立した新会社Preferred Computational Chemistry(PFCC、プリファード・コンピュテーショナル・ケミストリー)から、共同開発した新物質開発・材料探索を高速化する汎用原子レベルシミュレータ「Matlantis(マトランティス)」をクラウドサービスとして提供開始したと発表した。契約ユーザー向けに提供する。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1336421.html",
+          "publishedOn": "2021-07-07T01:34:52.000Z",
+          "wordCount": 181,
+          "title": "3千CPUで数カ月かかる計算が0.1秒で完了。汎用原子レベルシミュレータ「Matlantis」 ～PFNとENEOSがクラウドサービスで提供開始 - PC Watch"
+        },
+        {
+          "id": "https://liginc.co.jp/551446",
+          "author": null,
+          "description": "こんにちは！ エンジニアのまうみです。 突然ですが、「今使ってるブログサービスからWordPressに引っ越ししたい」と検討中の方はいらっしゃいますか。 もし、現在のブログサービスに記事をエクスポートする機能がない場合、手作業で記事を更新する必要があります。10記事程度ならまだしも、100記事以上ともなると、それ...",
+          "link": "https://liginc.co.jp/551446",
+          "publishedOn": "2021-07-07T01:06:51.000Z",
+          "wordCount": 351,
+          "title": "GASを使ったスクレイピングの作成手順を紹介！ | 株式会社LIG"
+        },
+        {
+          "id": "https://and-engineer.com/articles/YMw6iRMAACoAFEdR",
+          "author": null,
+          "description": "主人公はコミュニケーションは天才的だが技術を持たない起業家の「ハル」とPCスキルは天才的だがコミュ力がないエンジニアの「ガク」。 彼らが手を組み、GAFAの時価総額1兆ドルを稼いでこの世のもの全てを手に入れる計画「トリリオンゲーム」を開始するところからストーリーが始まります。 もともと理系で自作ゲームのプ...",
+          "link": "https://and-engineer.com/articles/YMw6iRMAACoAFEdR",
+          "publishedOn": "2021-07-07T00:54:18.000Z",
+          "wordCount": 70,
+          "title": "【制作秘話】漫画『トリリオンゲーム』は\"理系\"だからこそ生み出せた。原作・稲垣理一郎 × 技術監修が語る起業家&エンジニアのリアルとは？ | アンドエンジニア"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/06/news125.html",
+          "author": null,
+          "description": "「github」のスペルが間違っていることを伝える「guthib.com」というサイトがある：明日から使えるITトリビア GitHubにまつわるトリビアを1つ紹介する。「github.com」によく似たスペルの「GutHib.com」というWebサイトがあるのだ。 ソースコード共有プラットフォーム「GitHub」。2021年6月には、AIでプログラミングを補...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/06/news125.html",
+          "publishedOn": "2021-07-07T00:37:27.000Z",
+          "wordCount": 150,
+          "title": "「github」のスペルが間違っていることを伝える「guthib.com」というサイトがある：明日から使えるITトリビア - ITmedia NEWS"
+        },
+        {
+          "id": "https://engineer-lab.findy-code.io/layerx-matsumoto",
+          "author": null,
+          "description": "LayerXでCTOを務める松本勇気さんは、これまでGunosy、DMM.com、そして現在のLayerXという3社でCTOを経験した方です。事業開発や社内制度の立案・実行、開発組織のマネジメントなど、数えきれないほどの施策を講じ、技術的側面から企業の経営を支えてきました。 そんな松本さんですが、決して最初からCTOとしてのスキル...",
+          "link": "https://engineer-lab.findy-code.io/layerx-matsumoto",
+          "publishedOn": "2021-07-07T00:37:23.000Z",
+          "wordCount": 199,
+          "title": "失敗から学んだエンジニア組織のマネジメント。LayerX松本勇気氏が3社で得た知見 - Findy Engineer Lab - ファインディエンジニアラボ"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/terraform-compliance/",
+          "author": null,
+          "description": "Terraformで予防的ガードレールを実装したい！「Terraform-Compliance」のご紹介 7月7日はクラスメソッドの創立記念日です。今日は次々にブログ記事があがってくることでしょう！ また、わたくしゴトですが 18 期からコンサルティング部の部長を務めさせていただくことになりました。「あいつ、部長になったらブログ書か...",
+          "link": "https://dev.classmethod.jp/articles/terraform-compliance/",
+          "publishedOn": "2021-07-07T00:36:28.000Z",
+          "wordCount": 1197,
+          "title": "Terraformで予防的ガードレールを実装したい！「Terraform-Compliance」のご紹介 | DevelopersIO"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1336442.html",
+          "author": null,
+          "description": "米Microsoftは7月6日（現地時間）、「PrintNightmare」脆弱性（CVE-2021-34527）を修正する更新プログを定例外でリリースした。すべてのサポート中のWindowsバージョンが対象となっており、同社はただちに適用するよう呼び掛けている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1336442.html",
+          "publishedOn": "2021-07-06T23:55:24.000Z",
+          "wordCount": 154,
+          "title": "ただちに適用を ～Microsoftが「PrintNightmare」対策のセキュリティパッチを緊急公開 - 窓の杜"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/07/news042.html",
+          "author": null,
+          "description": "パナソニックがコケの特性に合わせて作動するロボットを開発。表面がコケに覆われ、湿気を感知してみずから移動したり、照明の明るさを変えたりする仕組み。現時点で市販の予定はなく、同社の関連施設で展示する。 パナソニックは6日、コケの特性に合わせて作動するロボットや照明制御装置などの試作品を開発したと発表...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/07/news042.html",
+          "publishedOn": "2021-07-06T23:22:18.000Z",
+          "wordCount": 141,
+          "title": "コケに覆われた6本足ロボ　パナが開発　環境教育に活用 - ITmedia NEWS"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1336423.html",
+          "author": null,
+          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1336423.html",
+          "publishedOn": "2021-07-06T22:57:09.000Z",
+          "wordCount": 168,
+          "title": "定番オーディオ編集ツール「Audacity」がスパイウェアに？ 新しいプライバシーポリシーを巡って紛糾 - やじうまの杜 - 窓の杜"
+        },
+        {
+          "id": "https://takaokimura.medium.com/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%88%90%E9%95%B7-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%AE5%E3%81%A4%E3%81%AE%E6%88%90%E7%86%9F%E5%BA%A6%E3%83%AC%E3%83%99%E3%83%AB-84031ab6f95b",
+          "author": null,
+          "description": "Scrum.orgの認定トレーニングであるPSPOを受講した際に、トレーニングの中で出てきたプロダクトオーナーの成熟度レベルについて、Scrum.orgのブログに記事があったので、著者のRobbinに連絡をして、許可をいただいたので、記事の翻訳をこちらにアップします。 元の記事はこちら https://www.scrum.org/resources/blog/gr...",
+          "link": "https://takaokimura.medium.com/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%88%90%E9%95%B7-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%AA%E3%83%BC%E3%83%8A%E3%83%BC%E3%81%AE5%E3%81%A4%E3%81%AE%E6%88%90%E7%86%9F%E5%BA%A6%E3%83%AC%E3%83%99%E3%83%AB-84031ab6f95b",
+          "publishedOn": "2021-07-06T22:13:26.000Z",
+          "wordCount": 304,
+          "title": "プロダクトオーナーとしての成長：プロダクトオーナーの5つの成熟度レベル - Takao Kimura - Medium"
+        },
+        {
+          "id": "https://twitter.com/gijigae/status/1412345139448619008",
+          "author": null,
+          "description": "これは、子供たちにプログラミングを教える上でも大変効果的な方法✨。面白いし、結果を見てどんな改善が必要なのか考えるのでアルゴリズムの基礎が学べる。 https://t.co/JoCJcINg9u",
+          "link": "https://twitter.com/gijigae/status/1412345139448619008",
+          "publishedOn": "2021-07-06T17:31:10.000Z",
+          "wordCount": 196,
+          "title": "Sangmin @ChoimiraiSchool on Twitter: \"これは、子供たちにプログラミングを教える上でも大変効果的な方法✨。面白いし、結果を見てどんな改善が必要なのか考えるのでアルゴリズムの基礎が学べる。 https://t.co/JoCJcINg9u\""
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1336017.html",
+          "author": null,
+          "description": "一昨年のことなのでよく覚えている方もあると思うが、超絶便利なGoogleマップが突然劣化してしまった。道路の形状がおかしくなったとか、バス停が消えたとか、建物の情報が古くなったとかイロイロ。原因のひとつは、それまでGoogleマップに採用されていた地図データが、ゼンリン（国内大手地図メーカー）からGoogleの自社製データに変更されたからのようだ。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1336017.html",
+          "publishedOn": "2021-07-06T17:05:59.000Z",
+          "wordCount": 129,
+          "title": "Googleマップは捨て難いが、たまに超役立つAppleマップ - ケータイ Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/06/news145.html",
+          "author": null,
+          "description": "萩生田光一文科相は6日の会見で「観客がマスクを着用しない場合は感染リスクが高まるが、一般的には観客にはマスクを着用してもらうし、一定程度間隔を空けて座ってもらうという前提なので、国立競技場に限っては限りなく感染リスクを下がられることが科学的に証明できた」と話した。 大会の開催に向けては、観客数に関...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/06/news145.html",
+          "publishedOn": "2021-07-06T12:31:36.000Z",
+          "wordCount": 147,
+          "title": "観客1万人がマスクを着ければ新規感染者は1桁？　スパコン「富岳」で五輪観戦をシミュレーション - ITmedia NEWS"
+        },
+        {
+          "id": "https://note.com/sgmtyu/n/n60ae42a413b0",
+          "author": null,
+          "description": "プロジェクトが始まるときにかなり初期の段階でWBSを作ることは多いとおもいます。そのWBSの作成、プロマネやディレクターに任せっぱなしになっていないでしょうか。WBSはスケジュールをガントチャートで表したものを指していると思われがちですが、実はスケジュールだけでなく見積もりやアサインを精度高く行うためにも...",
+          "link": "https://note.com/sgmtyu/n/n60ae42a413b0",
+          "publishedOn": "2021-07-06T11:55:33.000Z",
+          "wordCount": 151,
+          "title": "Webサイト制作をどれくらいの粒度で分解してタスク化するか｜重松佑 / Shhh inc.｜note"
+        },
+        {
+          "id": "https://japanese.engadget.com/smartphone-093007517.html",
+          "author": null,
+          "description": "2021年6月4日、日テレで放送された「クイズハッカー」という番組内で、略称スマホを広めた人物として私・矢崎（2017年〜エンガジェット日本版 編集長）が出演しました。さらに別な局からも取材依頼をいただいたので、改めて記しておいてもいいかなと拙いキーボードを打ちました。界隈の方には耳タコと思いますが……。 ヘ...",
+          "link": "https://japanese.engadget.com/smartphone-093007517.html",
+          "publishedOn": "2021-07-06T10:02:09.000Z",
+          "wordCount": 206,
+          "title": "スマートフォンの略称が「スマフォ」ではなく「スマホ」になった理由 - Engadget 日本版"
+        },
+        {
+          "id": "https://www.atmarkit.co.jp/ait/articles/2107/06/news095.html",
+          "author": null,
+          "description": "Microsoft、機械学習の初学心者向けにカリキュラムを無償公開：AIとデータサイエンスのカリキュラムも公開予定 Microsoftは機械学習の初学者向けカリキュラム「Machine Learning for Beginners」をGitHubで無償公開した。いわゆる「古典的な機械学習」について24のレッスンを通じて学習できる。",
+          "link": "https://www.atmarkit.co.jp/ait/articles/2107/06/news095.html",
+          "publishedOn": "2021-07-06T09:01:01.000Z",
+          "wordCount": 190,
+          "title": "Microsoft、機械学習の初学心者向けにカリキュラムを無償公開：AIとデータサイエンスのカリキュラムも公開予定 - ＠IT"
+        },
+        {
+          "id": "https://webtan.impress.co.jp/n/2021/07/06/40769",
+          "author": null,
+          "description": "LINEの調査サービス「LINEリサーチ」は、高校生を対象に「ニュース」に関する調査を実施した（有効回収数：1,050サンプル）。ニュースをチェックする方法、興味があるニュースのジャンル、不確かな情報を見たときの対応などを質問している。 ニュースに接するのは「テレビ」「Twitter」「ニュースサイト」まず「ふだんニ...",
+          "link": "https://webtan.impress.co.jp/n/2021/07/06/40769",
+          "publishedOn": "2021-07-06T07:03:22.000Z",
+          "wordCount": 743,
+          "title": "高校生がニュースを知る方法、「新聞」は「TikTok」さえ下回り9位！ 現状が明らかに【LINE調べ】 | Web担当者Forum"
+        },
+        {
+          "id": "https://fossbytes.com/github-copilot-generating-functional-api-keys/",
+          "author": null,
+          "description": "Microsoft, in partnership with OpenAI, made Copilot available on GitHub. For starters, it’s an assistant that can help you with better code suggestions, but it has been recently brought to notice that the AI is leaking API keys that are valid and still functional. First reported by a SendGrid eng...",
+          "link": "https://fossbytes.com/github-copilot-generating-functional-api-keys/",
+          "publishedOn": "2021-07-06T05:57:54.000Z",
+          "wordCount": null,
+          "title": "Breaking: GitHub's Copilot Is Generating Functional API Keys"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01702/070500003/",
+          "author": null,
+          "description": "第3回である今回は、「(3)なぜ『二重エラー』が発生したのか」と、「(4)なぜ一度減ったATMのカード取り込みが急増したのか」を解説しよう。 (3)なぜ「二重エラー」が発生したのか みずほ銀行が2021年2月28日朝、定期性預金の口座約45万件について、通帳を発行しない「みずほe-口座」へ一括して切り替える処理を始めた。...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01702/070500003/",
+          "publishedOn": "2021-07-05T21:28:18.000Z",
+          "wordCount": 372,
+          "title": "みずほ銀行システム障害を悪化させた、「エラー設計」と運用のミスを解説 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://qiita.com/kojimadev/items/c211207ede652c2abeb0",
+          "author": null,
+          "description": "1. はじめに 私のチームは2019年までは、同じフロアでチーム4人が集まって、ペアプログラミング/モブプログラミング中心で開発し、チームで情報を共有しながらお互いに助言し合って開発していました。 アジャイル開発のチームとして、わりと良い感じにコミュニケーションを取りながら開発できていたと思います。 しかし2...",
+          "link": "https://qiita.com/kojimadev/items/c211207ede652c2abeb0",
+          "publishedOn": "2021-06-28T05:28:54.000Z",
+          "wordCount": 492,
+          "title": "疲労感と孤独感いっぱいのリモートワークからの脱却 - Qiita"
+        }
+      ]
+    },
+    {
+      "title": "InformationWeek:",
+      "feedUrl": "http://www.informationweek.com/rss_simple.asp",
+      "siteUrl": "https://www.informationweek.com",
+      "articles": [
+        {
+          "id": "https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453",
+          "author": "John Edwards Technology Journalist & Author",
+          "description": "The pandemic changed many things both inside and outside the IT world. For chief information officers, it opened the door to a new era of authority and leadership.",
+          "link": "https://www.informationweek.com/strategic-cio/how-covid-expanded-cios-power-and-influence/a/d-id/1341453?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-07-06T12:00:00.000Z",
+          "wordCount": 1848,
+          "title": "How COVID Expanded CIOs' Power and Influence",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa37a67-9079-4b4d-9489-fcd87c7c3807/how-to-choose-a-headless-cms.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/John-Edwards-125x125.JPG",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
-          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1581,
-          "title": "Using HSL Colors In CSS",
+          "id": "https://www.informationweek.com/cloud/define-your-cloud-strategy-by-starting-with-why/a/d-id/1341455",
+          "author": "Eric Thiel, Director, Developer Experience, Cisco",
+          "description": "Companies tend to look at cloud in terms of 'what,' not 'why.' Following are three important why questions to ask.",
+          "link": "https://www.informationweek.com/cloud/define-your-cloud-strategy-by-starting-with-why/a/d-id/1341455?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-07-06T11:00:00.000Z",
+          "wordCount": 1902,
+          "title": "Define Your Cloud Strategy by Starting With Why",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "author": "hello@smashingmagazine.com (Andriy Zapisotskyi)",
-          "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
-          "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4204,
-          "title": "Email Testing Flow As It Should Be",
+          "id": "https://www.informationweek.com/strategic-cio/mondelez-takes-a-low-code-no-code-approach-to-development/a/d-id/1341467",
+          "author": "Joao-Pierre S. Ruth Senior Writer",
+          "description": "Snack food giant Mondelēz aims to get ahead of the curve in software development by building up its citizen developer community.",
+          "link": "https://www.informationweek.com/strategic-cio/mondelez-takes-a-low-code-no-code-approach-to-development/a/d-id/1341467?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-07-02T12:00:00.000Z",
+          "wordCount": 1919,
+          "title": "Mondelez Takes a Low-Code, No-Code Approach to Development",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://img.deusm.com/darkreading/authors/Joao-Pierre-Ruth.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
-          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4756,
-          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
+          "id": "https://www.informationweek.com/strategic-cio/enterprise-agility/the-pandemic-has-changed-how-it-teams-collaborate-permanently/a/d-id/1341389",
+          "author": "Josh Prewitt, VP of Public Cloud, Rackspace",
+          "description": "The pandemic accelerated the move to more flexible, distributed IT teams. Ongoing reskilling, flexible work arrangements, and cross-functional roles will remain.",
+          "link": "https://www.informationweek.com/strategic-cio/enterprise-agility/the-pandemic-has-changed-how-it-teams-collaborate-permanently/a/d-id/1341389?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-07-02T11:00:00.000Z",
+          "wordCount": 1357,
+          "title": "The Pandemic Has Changed How IT Teams Collaborate, Permanently",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "author": "hello@smashingmagazine.com (Surma)",
-          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
-          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
+          "id": "https://www.informationweek.com/strategic-cio/how-cio-roles-will-change-the-future-of-work/d/d-id/1341451",
+          "author": "Jessica Davis  Senior Editor, Enterprise Apps",
+          "description": "Budgets will shift, and IT leaders must collaborate with HR and facilities teams as work moves from office centers to a new work-from-anywhere structure.",
+          "link": "https://www.informationweek.com/strategic-cio/how-cio-roles-will-change-the-future-of-work/d/d-id/1341451?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-07-01T12:00:00.000Z",
+          "wordCount": 2064,
+          "title": "How CIO Roles Will Change: The Future of Work",
+          "enclosure": {
+            "url": "https://img.deusm.com/darkreading/authors/Jessica-Davis.png",
+            "length": "78645",
+            "type": "image/*"
+          }
+        },
+        {
+          "id": "https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-get-a-stronger-grip-on-contract-and-vendor-management/a/d-id/1341444",
+          "author": "Mary E. Shacklett Technology commentator and President of Transworld Data",
+          "description": "Vendor management and contracts are more important than they've ever been, yet many organizations can't afford a separate contract management function. Here are some best practices for IT teams.",
+          "link": "https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-get-a-stronger-grip-on-contract-and-vendor-management/a/d-id/1341444?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-07-01T11:00:00.000Z",
+          "wordCount": 1940,
+          "title": "How to Get a Stronger Grip on Contract and Vendor Management",
+          "enclosure": {
+            "url": "https://img.deusm.com/internetevolution/Mary-Shacklett-125x125.gif",
+            "length": "78645",
+            "type": "image/*"
+          }
+        },
+        {
+          "id": "https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433",
+          "author": "Joao-Pierre S. Ruth Senior Writer",
+          "description": "The reshaping of the CIO role and app development continues as more organizations find ways to include no code, low code, and citizen developers in their IT and operational strategies.",
+          "link": "https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
           "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4731,
-          "title": "The State Of Web Workers In 2021",
+          "wordCount": 2168,
+          "title": "ServiceNow's CIO Sees Strategic Fit for Low-Code Development",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://img.deusm.com/darkreading/authors/Joao-Pierre-Ruth.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3693,
-          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
+          "id": "https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371",
+          "author": "Andy Wood, VP, Proxima",
+          "description": "Many companies are investing more in IT and infrastructure to hit the ground running in 2021. Here's what CIOs and CFOs need to know to avoid falling behind.",
+          "link": "https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-30T11:00:00.000Z",
+          "wordCount": 1866,
+          "title": "CIOs And CFOs Are Jointly Enabling the Future of Business",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
-          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "id": "https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410",
+          "author": "Jessica Davis  Senior Editor, Enterprise Apps",
+          "description": "Wild Me is a non-profit machine learning service provider for field biologists studying wildlife and conservation. But before you can create whale shark algorithms, you need good data.",
+          "link": "https://www.informationweek.com/big-data/how-a-wildlife-ai-platform-solved-its-data-challenge-/d/d-id/1341410?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-29T12:00:00.000Z",
+          "wordCount": 2147,
+          "title": "How a Wildlife AI Platform Solved its Data Challenge",
+          "enclosure": {
+            "url": "https://img.deusm.com/darkreading/authors/Jessica-Davis.png",
+            "length": "78645",
+            "type": "image/*"
+          }
+        },
+        {
+          "id": "https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417",
+          "author": "Pierre DeBois Founder, Zimana",
+          "description": "IT teams must work with managers who oversee data scientists, data engineers, and analysts to develop points of intervention that complement model ensemble techniques.",
+          "link": "https://www.informationweek.com/big-data/ai-machine-learning/when-a-good-machine-learning-model-is-so-bad--/a/d-id/1341417?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
           "publishedOn": "2021-06-29T11:00:00.000Z",
-          "wordCount": 2453,
-          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
+          "wordCount": 1690,
+          "title": "When A Good Machine Learning Model Is So Bad",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://img.deusm.com/allanalytics/pierre_125x125.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "publishedOn": "2021-06-29T05:30:00.000Z",
-          "wordCount": 6619,
-          "title": "Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?",
+          "id": "https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405",
+          "author": "Lisa Morgan Freelance Writer",
+          "description": "If you think what's happening with artificial intelligence and machine learning is interesting now, just wait.",
+          "link": "https://www.informationweek.com/big-data/ai-machine-learning/10-ways-ai-and-ml-are-evolving/d/d-id/1341405?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-28T12:00:00.000Z",
+          "wordCount": 1322,
+          "title": "10 Ways AI and ML Are Evolving",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/lisamorgan.jpg",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2472,
-          "title": "Creating Custom Emmet Snippets In VS Code",
+          "id": "https://www.informationweek.com/big-data/4-skills-will-set-apart-tomorrows-data-scientists-/a/d-id/1341369",
+          "author": "Ryan Boyd, Head of Developer Relations, Databricks",
+          "description": "Skilled data scientists are in high demand as businesses adopt data-driven strategies. Certain skills will make them indispensable.",
+          "link": "https://www.informationweek.com/big-data/4-skills-will-set-apart-tomorrows-data-scientists-/a/d-id/1341369?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-28T11:00:00.000Z",
+          "wordCount": 1908,
+          "title": "4 Skills Will Set Apart Tomorrow's Data Scientists",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "author": "hello@smashingmagazine.com (Dom Habersack)",
-          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
-          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5452,
-          "title": "Creating A Multi-Author Blog With Next.js",
+          "id": "https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/fox-talks-building-up-a-super-bowl-grade-digital-platform/d/d-id/1341393",
+          "author": "Joao-Pierre S. Ruth Senior Writer",
+          "description": "Execs from the TV broadcaster spoke at the INS1GHTS conference about modernizing their tech stacks to meet digital demand.",
+          "link": "https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/fox-talks-building-up-a-super-bowl-grade-digital-platform/d/d-id/1341393?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-25T12:00:00.000Z",
+          "wordCount": 1658,
+          "title": "Fox Talks Building Up a Super Bowl-Grade Digital Platform",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://img.deusm.com/darkreading/authors/Joao-Pierre-Ruth.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
-          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
-          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3530,
-          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
+          "id": "https://www.informationweek.com/big-data/showing-roi-for-your-analytics-project/a/d-id/1341386",
+          "author": "William McKnight, President, McKnight Consulting Group",
+          "description": "Analytics is no longer an option and no longer a discrete function in the enterprise. If it's to be measured, it would be in the return on investment increase of the applications.",
+          "link": "https://www.informationweek.com/big-data/showing-roi-for-your-analytics-project/a/d-id/1341386?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-25T11:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Showing ROI for Your Analytics Project",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "author": "hello@smashingmagazine.com (Josh Singer)",
-          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
-          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4169,
-          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
+          "id": "https://www.informationweek.com/strategic-cio/the-cios-role-in-maintaining-a-strong-supply-chain/a/d-id/1341363",
+          "author": "John Edwards Technology Journalist & Author",
+          "description": "As the pandemic proved, a strong supply chain is essential for immediate and long-term business health. CIOs are perfectly positioned to play an essential part here.",
+          "link": "https://www.informationweek.com/strategic-cio/the-cios-role-in-maintaining-a-strong-supply-chain/a/d-id/1341363?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-24T12:00:00.000Z",
+          "wordCount": 1994,
+          "title": "The CIO's Role in Maintaining a Strong Supply Chain",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/John-Edwards-125x125.JPG",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "publishedOn": "2021-06-23T13:30:00.000Z",
-          "wordCount": 947,
-          "title": "Smashing Online Workshops (July-October 2021)",
+          "id": "https://www.informationweek.com/strategic-cio/digital-business/digital-transformation-is-not-magic/a/d-id/1341365",
+          "author": "Jon Roskill, CEO, Acumatica",
+          "description": "Transformation must be a way of life, not a one-and-done IT migration. IT teams that actively pursue new technologies will future proof the business.",
+          "link": "https://www.informationweek.com/strategic-cio/digital-business/digital-transformation-is-not-magic/a/d-id/1341365?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-24T11:00:00.000Z",
+          "wordCount": 1780,
+          "title": "Digital Transformation is Not Magic",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1391,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
+          "id": "https://www.informationweek.com/strategic-cio/team-building-and-staffing/more-remote-work-leads-to-more-employee-surveillance/d/d-id/1341366",
+          "author": "Jessica Davis  Senior Editor, Enterprise Apps",
+          "description": "Looking to ensure remote worker productivity, organizations are turning to AI and surveillance technology. But 10% of workers are expected to try to subvert those efforts.",
+          "link": "https://www.informationweek.com/strategic-cio/team-building-and-staffing/more-remote-work-leads-to-more-employee-surveillance/d/d-id/1341366?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-23T12:00:00.000Z",
+          "wordCount": 2024,
+          "title": "More Remote Work Leads to More Employee Surveillance",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://img.deusm.com/darkreading/authors/Jessica-Davis.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
-          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "publishedOn": "2021-06-22T09:00:00.000Z",
-          "wordCount": 2885,
-          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
+          "id": "https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364",
+          "author": "Joao-Pierre S. Ruth Senior Writer",
+          "description": "The value of accessing data faster at the edge took center stage during keynote for HPE Discover 2021.",
+          "link": "https://www.informationweek.com/cloud/hewlett-packard-enterprise-ceo-says-future-is-edge-to-cloud/d/d-id/1341364?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-23T11:00:00.000Z",
+          "wordCount": 1730,
+          "title": "Hewlett Packard Enterprise CEO Says Future is Edge-to-Cloud",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
-            "length": "0",
-            "type": "image/png"
+            "url": "https://img.deusm.com/darkreading/authors/Joao-Pierre-Ruth.png",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
-          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
-          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5349,
-          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
+          "id": "https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-retain-your-it-talent/a/d-id/1341340",
+          "author": "Mary E. Shacklett Technology commentator and President of Transworld Data",
+          "description": "Employee turnover is expensive, and it's a job seeker's market out there. Here's how to hang onto the talent you already have.",
+          "link": "https://www.informationweek.com/strategic-cio/team-building-and-staffing/how-to-retain-your-it-talent/a/d-id/1341340?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-22T12:00:00.000Z",
+          "wordCount": 1983,
+          "title": "How to Retain Your IT Talent",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://img.deusm.com/internetevolution/Mary-Shacklett-125x125.gif",
+            "length": "78645",
+            "type": "image/*"
           }
         },
         {
-          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
-          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
-          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3413,
-          "title": "An Alternative Voice UI To Voice Assistants",
+          "id": "https://www.informationweek.com/big-data/ai-machine-learning/automation-is-a-game-changer-not-a-job-killer/a/d-id/1341339",
+          "author": "Robert Brown, Managing Director, BDO Digital",
+          "description": "Your employees may view automation as a threat rather than an asset. How can you shift their perspective and empower them to use automation to their own benefit?",
+          "link": "https://www.informationweek.com/big-data/ai-machine-learning/automation-is-a-game-changer-not-a-job-killer/a/d-id/1341339?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple",
+          "publishedOn": "2021-06-22T11:00:00.000Z",
+          "wordCount": 1911,
+          "title": "Automation Is a Game Changer, Not a Job Killer",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
-          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
-          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3953,
-          "title": "Client-Side Routing In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
-          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1634,
-          "title": "Your Image Is Probably Not Decorative",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4107,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
-          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "publishedOn": "2021-06-15T10:15:00.000Z",
-          "wordCount": 2381,
-          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "publishedOn": "2021-06-15T07:00:00.000Z",
-          "wordCount": 10715,
-          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3667,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
-          "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1740,
-          "title": "Web Design Done Well: Making Use Of Audio",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
-          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 5148,
-          "title": "Useful Front-End Boilerplates And Starter Kits",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "author": "hello@smashingmagazine.com (Stefan Judis)",
-          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
-          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 864,
-          "title": "Three Front-End Auditing Tools I Discovered Recently",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
-          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2777,
-          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
-          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "publishedOn": "2021-06-08T12:00:00.000Z",
-          "wordCount": 2347,
-          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
-            "length": "0",
-            "type": "image/png"
+            "url": "https://twimgs.com/nojitter/informationweek/resources/images/Guest-Commentary.png",
+            "length": "78645",
+            "type": "image/*"
           }
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "title": "InfoWorld",
+      "feedUrl": "http://www.infoworld.com/index.rss",
+      "siteUrl": "https://www.infoworld.com",
       "articles": [
         {
-          "id": "60e16e1b134ad707be00d6bc",
-          "author": null,
-          "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
-          "link": "https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/",
-          "publishedOn": "2021-07-06T21:08:39.000Z",
-          "wordCount": 2504,
-          "title": "How to Automatically Upload an Android App Bundle to the Play Store"
+          "id": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html#tk.rss_all",
+          "author": "Simon Bisson",
+          "description": "The sudden acceleration in digital transformation caused by the COVID-19 pandemic revealed how unprepared most businesses were. One of the biggest problems they still face is the “app gap,” the lack of applications that end users need to do their jobs effectively. Low-code and no-code tools go some of the way to filling the gap, with UI builders and robotic process automation, but there’s still a lot to do.\nOne option is to use machine learning to improve developer productivity. We’re already using basic rules-based tools to provide code completion and help expose methods, so why not go further and build on a massive data set of public code to share how common design patterns are applied, what algorithms are used in what contexts, and how developers take advantage of public APIs?\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623773/ai-gives-development-tools-a-boost.html#tk.rss_all",
+          "publishedOn": "2021-07-07T10:00:00.000Z",
+          "wordCount": 1737,
+          "title": "AI gives development tools a boost"
         },
         {
-          "id": "60b22e9611ffb70827ef9547",
-          "author": null,
-          "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
-          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/",
-          "publishedOn": "2021-07-06T16:02:13.000Z",
-          "wordCount": 2286,
-          "title": "How to Authenticate Users and Implement CORS in Node.js Apps"
+          "id": "https://www.infoworld.com/article/3623689/how-to-use-the-python-for-loop.html#tk.rss_all",
+          "author": "Serdar Yegulalp",
+          "description": "When you want to create a loop in Python, you generally have two choices: the while loop and the for loop. while is simple: it just repeats until a given condition is no longer true. The for loop is more complex, and thus more powerful: for lets you iterate through objects in a collection of some kind without having to know details about the collection.\n\n[ Tune into Serdar Yegulalp’s Smart Python video tutorials to learn smart Python tricks in 5 minutes or less ]\nPython for loop components\nA Python for loop has two components:\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623689/how-to-use-the-python-for-loop.html#tk.rss_all",
+          "publishedOn": "2021-07-07T10:00:00.000Z",
+          "wordCount": 1379,
+          "title": "How to use the Python for loop"
         },
         {
-          "id": "60df35f027f80207bcdbccea",
-          "author": null,
-          "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
-          "link": "https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/",
-          "publishedOn": "2021-07-06T15:12:00.000Z",
-          "wordCount": 1570,
-          "title": "5 JavaScript Tips to Improve Your React Code"
+          "id": "https://www.infoworld.com/article/3623736/why-cloud-will-continue-to-explode-post-covid.html#tk.rss_all",
+          "author": "David Linthicum",
+          "description": "In a study by Devo Technology, a cloud-native logging and security analytics company, as many as 81% of organizations revealed that COVID-19 had accelerated their cloud timelines. “Across these companies, there was a 200% jump in organizations planning to move more than 75% of their apps/workloads to the cloud, with 86% of companies placing cloud options in their decision process for new applications, and more than 40% choosing the cloud as their first option.”\nThe reasons are well known by now. Using the public clouds removes many of the pandemic risks of having your own data center, hardware, network, and software. Many companies not in the cloud experienced problems during quarantine. Without physical access to their equipment, they suffered outages that could not be easily fixed.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623736/why-cloud-will-continue-to-explode-post-covid.html#tk.rss_all",
+          "publishedOn": "2021-07-06T10:00:00.000Z",
+          "wordCount": 952,
+          "title": "Why cloud will continue to explode post-COVID"
         },
         {
-          "id": "60aa196411ffb70827ef5f43",
-          "author": null,
-          "description": "In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and",
-          "link": "https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/",
-          "publishedOn": "2021-07-06T14:27:26.000Z",
-          "wordCount": 2989,
-          "title": "How to Schedule a Job in Node Using node-cron"
+          "id": "https://www.infoworld.com/article/3223434/what-is-paas-a-simpler-way-to-build-software-applications.html#tk.rss_all",
+          "author": "Scott Carey",
+          "description": "Platform as a service (PaaS) is an enabler for software development where a third-party service provider delivers a platform to customers so they can develop, run, and manage software applications without the need to build and maintain the underlying infrastructure themselves.\nMost platforms as a service include templates or build packs, which provide an opinion as to how certain types of applications should be built, typically around the popular 12-factor methodology. This is why PaaS options are often labeled “opinionated” and are best suited for new, greenfield applications.\n\n[ Also on InfoWorld: What is cloud computing? Everything you need to know now ]\nThe advent of cloud computing opened the door for companies like Amazon Web Services, Microsoft, and Google to pull together the key building blocks required to launch an application into an opinionated platform, with the aim of simplifying many of the trickier and repetitive tasks required to deploy code down to a single command or click of the mouse.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3223434/what-is-paas-a-simpler-way-to-build-software-applications.html#tk.rss_all",
+          "publishedOn": "2021-07-06T10:00:00.000Z",
+          "wordCount": 1685,
+          "title": "What is PaaS? A simpler way to build software applications"
         },
         {
-          "id": "60de3cf127f80207bcdbc9af",
-          "author": null,
-          "description": "We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/",
-          "publishedOn": "2021-07-02T04:55:18.000Z",
-          "wordCount": 641,
-          "title": "freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features"
+          "id": "https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all",
+          "author": "Matt Asay",
+          "description": "Roughly 25 years ago, a few open source technologies combined to make a robust, commercial Internet that was finally ready to do business and take your money. Dubbed the LAMP stack (Linux, Apache HTTP Server, MySQL, and PHP/Perl/Python), this open source combination became the standard development stack for a generation of developers.\nDon’t look now, but we may well be on the cusp of another LAMP stack moment.\n\n[ Also on InfoWorld: The wrong way to think about cloud computing ]\nThis time, however, the focus isn’t on building a new, online way to peddle dog food. Instead, a new technology renaissance is underway to tackle algorithmically complex, large-scale workloads that consume massive quantities of compute resources. Think vaccinations for COVID-19, building new supersonic jets, or driving autonomous vehicles. The science and engineering world is shipping faster and delivering newer innovations at a dizzying pace never witnessed before.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all",
+          "publishedOn": "2021-07-05T10:00:00.000Z",
+          "wordCount": 1175,
+          "title": "How the cloud and big compute are remaking HPC"
         },
         {
-          "id": "60dc72b527f80207bcdbbd8f",
-          "author": null,
-          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
-          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
-          "publishedOn": "2021-07-01T18:19:21.000Z",
-          "wordCount": 3084,
-          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
+          "id": "https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html#tk.rss_all",
+          "author": "Scott Carey",
+          "description": "Previously the purview of dedicated centers of excellence, or even exclusively the procurement and finance teams, cloud cost management is rapidly becoming a required skill for anyone who consumes cloud resources on a day-by-day basis—and that includes software developers.\nThe emerging approach for cloud-first organizations is to have a central team that can manage broad consumption issues, like using the cheapest possible infrastructure for the job and negotiating committed-use discounts with vendors, while responsibility for the cost of individual services is pushed out to engineering teams that are incentivized to run as cost-effectively as possible, without sacrificing business value.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html#tk.rss_all",
+          "publishedOn": "2021-07-05T10:00:00.000Z",
+          "wordCount": 2418,
+          "title": "How 5 companies got their developers to care about cloud costs"
         },
         {
-          "id": "60c0897ad3126007592d5701",
-          "author": null,
-          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
-          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
-          "publishedOn": "2021-07-01T18:02:56.000Z",
-          "wordCount": 1769,
-          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
+          "id": "https://www.infoworld.com/article/3623388/the-problem-with-sharding.html#tk.rss_all",
+          "author": "Lee Atchison",
+          "description": "New SaaS startups rarely think about how to scale their applications. Sure, they envision the day they will need to expand, and they build growth into their financial plans, but they rarely architect their applications for scalability early on. Rather, they more often focus on completing features that they can sell.\nBut the time to think about scaling is at the very beginning—before your first customer signs up for your service. As the company rolls out feature after feature, and customers continue to sign up, the business grows. As the business grows, scaling becomes a point of concern.\n\n[ Also on InfoWorld: 3 reasons centralizing your data is a bad idea ]\nThe need to scale often becomes evident when a new SaaS service hits a resource capacity limit, specifically data access resource capacity. Often the database, whatever the technology, is too small to meet growing demands and can’t be expanded past a certain point.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623388/the-problem-with-sharding.html#tk.rss_all",
+          "publishedOn": "2021-07-05T10:00:00.000Z",
+          "wordCount": 1734,
+          "title": "The problem with sharding"
         },
         {
-          "id": "60d5e7ae6e1a1407b6b0bc5a",
-          "author": null,
-          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
-          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
-          "publishedOn": "2021-07-01T16:51:30.000Z",
-          "wordCount": 79275,
-          "title": "Backend Web Development with Python - Full Course"
+          "id": "https://www.infoworld.com/article/3623724/github-unveils-ai-coding-assistant-for-visual-studio-code.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "GitHub has launched a preview of GitHub Copilot, an AI-based coding assitant for Visual Studio Code that suggests lines of code or functions as you type.\nBuilt in collaboration with OpenAI, GitHub Copilot draws context from the developer’s code, suggesting lines or entire functions while helping to find alternative ways to solve problems, write tests, and explore new APIs without the need to search for answers on the Internet.\n\n[ Also on InfoWorld: The best programming language to learn now ]\nIntroduced June 29, GitHub Copilot adapts to how the user writes code, helping complete work faster. Trained on billions of lines of public code, the tool is powered by OpenAI Codex, an AI system that is more capable than the GPT-3 (Generative Pretrained Transformer) language model in code generation, GitHub said.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623724/github-unveils-ai-coding-assistant-for-visual-studio-code.html#tk.rss_all",
+          "publishedOn": "2021-07-02T10:00:00.000Z",
+          "wordCount": 642,
+          "title": "GitHub unveils AI coding assistant for Visual Studio Code"
         },
         {
-          "id": "60dc78e927f80207bcdbbddc",
-          "author": null,
-          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
-          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
-          "publishedOn": "2021-07-01T04:36:31.000Z",
-          "wordCount": 942,
-          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+          "id": "https://www.infoworld.com/article/3623721/cloud-lock-in-is-real.html#tk.rss_all",
+          "author": "David Linthicum",
+          "description": "I was impressed by this CIO article about 10 dark secrets of cloud by Peter Wayner (CIO is also part of IDG). You should read it for a few reasons. \nFirst, it’s not often that the press discusses the downsides of cloud computing—it’s always a bit of a media lovefest. I’m often taken aback by the lack of dissent in general, specifically when I get pushback for pointing out issues with cloud computing that should be understood by now. \n\n[ Also on InfoWorld: The wrong way to think about cloud computing ]\nSecond, the points made in the article are well thought out and reflect other posts I’ve done over the years on cloud topics such as performance, cost, and lock-in. Don’t get me wrong, cloud has very few issues. However, the issues it does have need to be understood prior to jumping in feet first. \nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623721/cloud-lock-in-is-real.html#tk.rss_all",
+          "publishedOn": "2021-07-02T10:00:00.000Z",
+          "wordCount": 898,
+          "title": "Cloud lock-in is real"
         },
         {
-          "id": "6063b8d69618b008528a9d79",
-          "author": null,
-          "description": "Today we're gonna learn how to use CSS's box-shadow property to make beautiful website components. Along the way, we'll create a button and get hands-on experience using this property. Let's get started. 🎖️ Table of Contents Why you should use the CSS box-shadow propertyThe syntax of the box-shadow propertyHow to make",
-          "link": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/",
-          "publishedOn": "2021-06-30T18:49:49.000Z",
-          "wordCount": 956,
-          "title": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨"
+          "id": "https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "Citing the importance of “inclusive design,” Microsoft wants to improve the accessibility of its Visual Studio IDE, with capabilities such as more audio cues and a focus mode under consideration.\nWhile the company will seek feedback from users, a few ideas already have emerged as feature possibilities, Microsoft said on June 29. One is expansion of audio cues, which has benefitted the visually impaired and the blind community. Microsoft noted that some workflows would benefit from more audio cues, and that a richer environment could be provided for hooking up audio cues to events in Visual Studio.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623821/accessibility-improvements-coming-to-visual-studio.html#tk.rss_all",
+          "publishedOn": "2021-07-01T17:14:00.000Z",
+          "wordCount": 594,
+          "title": "Accessibility improvements coming to Visual Studio"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623357/what-is-mongodb-a-quick-guide-for-developers.html#tk.rss_all",
+          "author": "Matthew Tyson",
+          "description": "NoSQL data stores revolutionized software development by allowing for more flexibility in how data is managed. One of the preeminent NoSQL solutions is MongoDB, a document-oriented data store. We’ll explore what MongoDB is and how it can handle your application requirements in this article.\nMongoDB: A document data store\nRelational databases store information in strictly regulated tables and columns. MongoDB is a document store, which stores information in collections and documents. The primary difference here is that collections and documents are unstructured, sometimes referred to as schema-less. This means the structure of a MongoDB instance (the collections and documents) is not predefined and flexes to accommodate whatever data is put in it.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623357/what-is-mongodb-a-quick-guide-for-developers.html#tk.rss_all",
+          "publishedOn": "2021-07-01T10:00:00.000Z",
+          "wordCount": 1479,
+          "title": "What is MongoDB? A quick guide for developers"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622916/rethinking-data-architectures-for-a-cloud-world.html#tk.rss_all",
+          "author": "Tomer Shiran",
+          "description": "Data analytics solutions are continuing to emerge at a fast and furious rate. Data teams are at the center of the storm because they have to balance all the demands for access, data integrity, security, and proper governance, which entails compliance with policies and regulations. The businesses they serve need information as quickly as possible and have little patience for that precarious balancing act. The data teams have to move fast and smart.\nThey also have to be fortune tellers because they need to build not just the systems for today, but also the platforms for tomorrow. The first key question the data team must consider is: open or closed data architectures.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622916/rethinking-data-architectures-for-a-cloud-world.html#tk.rss_all",
+          "publishedOn": "2021-07-01T10:00:00.000Z",
+          "wordCount": 1806,
+          "title": "Rethinking data architectures for a cloud world"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623749/red-hat-openshift-48-shines-on-cicd-serverless-functions.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "Red Hat has announced OpenShift 4.8, the latest version of the company’s container-based application development platform anchored by Kubernetes orchestration technology, with improvements impacting cloud-native application development and on-demand computing.\nBased on Kubernetes 1.21 and CRI-O (Container Runtime Interface) 1.21, OpenShift 4.8 is intended to simplify the developer experience while expanding use cases. Users can accommodate workloads ranging from machine learning and artificial intelligence to modernizing existing Java and .NET applications.\n\n[ Also on InfoWorld: How Kubernetes works ]\nAnnounced June 28, OpenShift 4.8 is expected to be generally available in July, with developers able to give it a try in the OpenShift developer sandbox. OpenShift 4.8 capabilities include:\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623749/red-hat-openshift-48-shines-on-cicd-serverless-functions.html#tk.rss_all",
+          "publishedOn": "2021-06-30T20:09:00.000Z",
+          "wordCount": 632,
+          "title": "Red Hat OpenShift 4.8 shines on CI/CD, serverless functions"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all",
+          "author": "Simon Bisson",
+          "description": "Microsoft’s announcement of Windows 11 covers a lot more than an operating system. It sets a direction for Windows application development for the next several years, with a new Windows Store and, more important, a new set of policies for application distribution. Other aspects of the launch include a name for Project Reunion, new WinUI 3 controls, and a new set of material UI elements as part of Windows’ Fluent UI model.\nUnder the hood, Windows 11 builds on the same Windows-as-a-service model as Windows 10. Insiders using the Dev branch of builds have already been using much of the underlying Windows 11 code, only without its new chrome. The 2xxxx series builds have proven compatible with most Windows applications, so there should be little to worry about with existing code and the new operating system.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 1552,
+          "title": "What Windows 11 means for developers"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all",
+          "author": "Joydip Kanjilal",
+          "description": "Filters allow you to run code at certain stages of the request processing pipeline. In other words, we may run code before or after certain phases of the request processing pipeline by using filters in ASP.NET Core MVC 5.\nASP.NET Core MVC contains many built-in filters. Since each filter has a distinct purpose, they are executed at different stages in the filter pipeline. The different types of filters correspond to the various pipeline stages, from authorization to execution of results. In addition to built-in filters for authorization, exception handling, etc., you can also write your own custom filters.\n\n\n[ Keep up with the latest developments in Microsoft .NET, C#, and software development. Subscribe to the InfoWorld First Look newsletter ]\nThis article discusses the types of filters available in ASP.NET Core 5 and how we can work with them in our applications. To work with the code examples provided in this article, you should have Visual Studio 2019 installed in your system. If you don’t already have a copy, you can download Visual Studio 2019 here.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 1582,
+          "title": "How to use filters in ASP.NET Core MVC"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all",
+          "author": "Serdar Yegulalp",
+          "description": "Over the last few years, Rust has gone from a curiosity brewed up in the lab of a Mozilla employee to a strong contender for writing the next generation of native apps and bare-metal solutions. But those advances come from Rust providing its own tool chain and component management system—along with its own features and quirks.\nThis article walks through the basics of setting up a working environment in Rust, configuring an IDE, and making the most of the tool set Rust provides for app development.\n[ What is Rust? The way to do safe, fast, and easy software development. | Keep up with hot topics in programming with InfoWorld’s App Dev Report newsletter. ]\n\nRelated video: Developing safer software with Rust\nGet up to speed quickly on newcomer Rust, designed to create fast, system-level software. This two-minute animated explainer shows how Rust bypasses the vexing programming issues of memory and management.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all",
+          "publishedOn": "2021-06-30T10:00:00.000Z",
+          "wordCount": 2580,
+          "title": "Rust tutorial: Get started with the Rust language"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all",
+          "author": "Martin Bayer",
+          "description": "The European open cloud and data infrastructure project Gaia-X, which aims to help European organizations break free of the dominant group of American and Chinese cloud vendors through an authorized set of services protected by European data laws, continues to face serious challenges and delays two years after its 2019 announcement.\nThe most recent progress was the establishment of the federation services. “Gaia-X is a key project for Europe’s competitiveness and digital independence,” said Thomas Jarzombek, Germany’s commissioner for the digital economy and startups, in a statement. “With the establishment of the so-called federation services, the technical heart or operating system of Gaia-X, the next milestone has been reached. The requirements have now been defined and are now being implemented in open-source code. This way, all services of Gaia-X will be connected to a transparent and open system according to European standards.”\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623298/gaia-x-will-the-european-data-cloud-fail.html#tk.rss_all",
+          "publishedOn": "2021-06-29T22:00:00.000Z",
+          "wordCount": 1330,
+          "title": "Gaia-X: Will the European data cloud fail?"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623371/kotlin-gains-java-coding-enhancements.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "With the Kotlin 1.5.20 update, the JetBrains-developed Kotlin language gets preliminary backing for the Lombok Java library, which is intended to make coding easier, along with JSpecify Java nullness capabilities.\nReleased June 23, Kotlin 1.5.20 has experimental support for calling Lombok-generated methods. The addition of the Lombok compiler plug-in allows generation of Lombok declarations in Java by Kotlin code in the same mixed Java/Kotlin module. The Lombok library plugs into an editor and build tools and works to reduce the need to write boilerplate code with capabilities such as automation of logging variables.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623371/kotlin-gains-java-coding-enhancements.html#tk.rss_all",
+          "publishedOn": "2021-06-29T18:45:00.000Z",
+          "wordCount": 646,
+          "title": "Kotlin gains Java coding enhancements"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623348/6-features-your-cloudops-tool-must-have.html#tk.rss_all",
+          "author": "David Linthicum",
+          "description": "We’re still defining what cloudops is exactly, as well as clarifying what technology is needed to solve the core problems.\nLike all cloud computing situations, it’s helpful to break down the core components of a working cloudops solution, such as AIops. Also, to define what the technology needs to do and the value it brings to the table. To this end I picked out six capabilities a cloudops tool should offer: \n\n\n[ Also on InfoWorld: The wrong way to think about cloud computing ]\nObserve and gather data from any number of systems that are needed to find patterns to further analyze and act on. This has a few components to it, including the ability to leverage connectors and/or agents to communicate with the system under management, as well as to get the data back to some type of centralized cloudops system in a reliable way.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623348/6-features-your-cloudops-tool-must-have.html#tk.rss_all",
+          "publishedOn": "2021-06-29T10:00:00.000Z",
+          "wordCount": 908,
+          "title": "6 features your cloudops tool must have"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622960/another-day-another-multi-billion-ipo-for-open-source.html#tk.rss_all",
+          "author": "Matt Asay",
+          "description": "Mike Volpi, a partner with Index Ventures, had just secured a billion-dollar payday with Confluent’s IPO ($1.3 billion, to be more exact). So when he told TechCrunch that venture capitalists weren’t too “hyped” about investing in open source in 2015, and that this changed only recently, he can be forgiven for a bit of revisionist history.\nI get it. But VCs have been pouring money into open source since Red Hat lit the fuse back in 1999 when it went public, with no deceleration since then. What has changed is the kind of open source investment that succeeds. Open source used to succeed by copycatting proprietary software. Now it’s winning by creating whole new categories. (And yes, Volpi has been successful by investing in both.)\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622960/another-day-another-multi-billion-ipo-for-open-source.html#tk.rss_all",
+          "publishedOn": "2021-06-29T10:00:00.000Z",
+          "wordCount": 1608,
+          "title": "Another day, another multi-billion IPO for open source"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623291/github-container-registry-available-for-production-use.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "GitHub Container Registry, a new GitHub service for publishing and managing Docker images and OCI (Open Container Initiative) images within GitHub, is now generally available.\nThe registry, which had been in a public beta period since last September, is part of GitHub Packages, GitHub’s service for publishing packages. With general availability, GitHub is consolidating its Docker registry into Container registry. Docker containers previously published to docker.pkg.github.com will automatically be migrated to the Container registry in coming weeks. \nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623291/github-container-registry-available-for-production-use.html#tk.rss_all",
+          "publishedOn": "2021-06-28T21:22:00.000Z",
+          "wordCount": 519,
+          "title": "GitHub Container Registry available for production use"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3623125/5-key-technologies-for-cloud-architectures.html#tk.rss_all",
+          "author": "Isaac Sacolick",
+          "description": "I confess to preferring simplicity, especially when it comes to computing infrastructure. It’s easier for startups and smaller companies to run their businesses with a mix of software as a service (SaaS) with applications and data hosted on one public cloud. Many organizations run on hybrid clouds with applications and data split between private clouds, legacy data center infrastructure, and a selected public cloud.\nBut many medium and larger enterprises choose to run on multiple public clouds or end up in that situation to support innovation, regulations, service levels, pricing negotiations, or acquisitions. There are choices and trade-offs to cloud strategies. If you work in IT, it’s important to know about the architecture options and better understand your organization’s IT cloud governance model.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3623125/5-key-technologies-for-cloud-architectures.html#tk.rss_all",
+          "publishedOn": "2021-06-28T10:00:00.000Z",
+          "wordCount": 1433,
+          "title": "5 key technologies for cloud architectures"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622912/how-enterprises-are-bringing-pandemic-driven-cloud-costs-under-control.html#tk.rss_all",
+          "author": "Scott Carey",
+          "description": "To the concern of finance officers everywhere, the quick issuance of stay-at-home orders during the early days of the COVID-19 pandemic gave IT teams the authority to quickly scale up cloud usage to meet a rapidly changing set of employee and customer needs, almost overnight. In fact, cloud spending outpaced on-premises investments for the first time ever in 2020, marking a tipping point in enterprise consumption of cloud services.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622912/how-enterprises-are-bringing-pandemic-driven-cloud-costs-under-control.html#tk.rss_all",
+          "publishedOn": "2021-06-28T10:00:00.000Z",
+          "wordCount": 2615,
+          "title": "How enterprises are bringing pandemic-driven cloud costs under control"
+        },
+        {
+          "id": "https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all",
+          "author": "Charlotte Trueman",
+          "description": "We compared Zoom, Microsoft Teams, Cisco Webex, Google Meet, BlueJeans, and GoToMeeting in real-world tests to see which videoconferencing platforms perform best for business users. Here’s how they stack up.",
+          "link": "https://www.computerworld.com/article/3540259/review-6-top-videoconferencing-services-put-to-the-test.html#tk.rss_all",
+          "publishedOn": "2021-06-28T10:00:00.000Z",
+          "wordCount": 5222,
+          "title": "Review: 6 top videoconferencing services put to the test"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "Angular 12, the latest production release of Google’s popular TypeScript-based web framework, has received an update. Angular 12.1, arrived June 24, adds compiler support for shorthand property declarations as well as fixes for the compiler, compiler CLI, router, and service workers.\nThe Angular 12.1 point release also introduces APIs to opt into correct test teardown behavior. The compiler fixes pertain to issues such as unterminated interpolation and view restoration, while the service worker fixes pertain to the naming, accessing, and clean-up of service worker caches.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3607428/whats-new-in-angular-12.html#tk.rss_all",
+          "publishedOn": "2021-06-25T20:48:00.000Z",
+          "wordCount": 1066,
+          "title": "What’s new in Angular 12"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html#tk.rss_all",
+          "author": "Zeus Kerravala",
+          "description": "The year 2020 will be remembered for many things. It was the COVID year, a year of social change, and a year of significant political shift in the US. In the tech world, 2020 will be looked at as the year AI went from being the stuff of science fiction to a business reality.\nOrganizations of all sizes accelerated their artificial intelligence (AI) initiatives when COVID-19 hit in 2020. Now more than a year into the pandemic, organizations are focused on understanding their data and using AI to support internal processes. Years ago, there was an axiom that stated “all companies are technology companies” but that narrative has been played out. Today all companies are data companies, but the massive quantities of information require greater automation to find key insights. Enter AI as the solution to this growing problem. AI is reaching broader market maturity, with budgets growing more than 50 % year-over-year, ranging from $500,000 to $5 million annually.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622978/state-of-ai-report-finds-ai-is-now-core-to-business-success.html#tk.rss_all",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 1294,
+          "title": "State of AI report finds AI is now core to business success"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622974/cloud-security-is-still-a-work-in-progress.html#tk.rss_all",
+          "author": "David Linthicum",
+          "description": "As a cloud architect, I am amazed that cloud security is still so hard. We’ve had identity access management (IAM) for more than a decade. Now we have deep encryption services, key management, and most recently, zero trust and secure access service edge (SASE). Note that zero trust and SASE are terms defined by Forrester Research and Gartner, respectively, and not by groups of security solutions providers.\nDespite all this security technology, security solutions have become more complex and difficult to operate as cloud deployments themselves become more complex. As the technology and technology concepts (such as SASE) add more big ideas to the problem, the growth of cloud, Internet of Things, edge computing, and now work from anywhere quickly outpaces our ability to provide workable and cost-effective security. Our deployments become less secure rather than more.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622974/cloud-security-is-still-a-work-in-progress.html#tk.rss_all",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 862,
+          "title": "Cloud security is still a work in progress"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "Today’s web applications are nowhere near as fast and responsive as native desktop applications, but what if they could be? That’s the promise of WebAssembly.\nWebAssembly is a low-level, assembly-like language with a compact binary format that runs with near-native performance in web browsers. At the same time, WebAssembly provides a portable compilation target for C/C++, C#, Rust, Go, Kotlin, Swift, and other programming languages.\n[ Also on InfoWorld: Microsoft gets serious about WebAssembly ]\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3619608/-11-hot-language-projects-riding-webassembly.html#tk.rss_all",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 1725,
+          "title": "11 hot language projects riding WebAssembly"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "With Deno Deploy, the developers of the Deno JavaScript/TypeScript runtime are offering a globally distributed virtual machine service that runs JavaScript, TypeScript, and WebAssembly at the edge. The goal is for Deno Deploy to become the best place to host modern server-side JavaScript.\nDeno Deploy was released as a first beta on June 23, with a series of beta releases set to follow. General availability is planned for the fourth quarter of 2021. A multi-tenant JavaScript engine running in 25 data centers worldwide, from Taiwan to Montreal, Los Angeles, and London, Deno Deploy integrates cloud infrastructure with the Google V8 virtual machine, allowing developers to develop locally and deploy globally.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622914/deno-company-unveils-server-side-javascript-hosting-service.html#tk.rss_all",
+          "publishedOn": "2021-06-24T22:25:00.000Z",
+          "wordCount": 709,
+          "title": "Deno Company unveils server-side JavaScript hosting service"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3622668/how-to-visualize-time-series-data.html#tk.rss_all",
+          "author": "Anais Dotis-Georgiou",
+          "description": "As time series data analysis becomes more essential in applications across sectors, so does visualizing time series data. The easier data is to access and the more shareable it is across teams, the more valuable it becomes. A single time series graph or dashboard, by providing a visual snapshot of change over time for a given set of parameters, can be worth several written reports.\nWhat we can learn from time series visualizations\nVisualizing time series data can help detect patterns, outliers that defy those patterns, whether the data is stationary or non-stationary, and whether there is correlation between the variables. For example, a time series line graph (also called a timeplot) displays values against time. It is similar to x-y graphs but displays only time on the x-axis. Time series graphs can take more complex forms that provide more context about the data.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3622668/how-to-visualize-time-series-data.html#tk.rss_all",
+          "publishedOn": "2021-06-24T10:00:00.000Z",
+          "wordCount": 1365,
+          "title": "How to visualize time series data"
         }
       ]
     }
