@@ -1,137 +1,942 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-15T00:44:49.363Z</id>
+    <id>urn:2021-07-16T00:44:53.700Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-15T00:44:49.363Z</updated>
+    <updated>2021-07-16T00:44:53.700Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Sega sued for 'rigged' Key Master arcade machine]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okh0ja/sega_sued_for_rigged_key_master_arcade_machine/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okh0ja/sega_sued_for_rigged_key_master_arcade_machine/"/>
-        <updated>2021-07-15T00:01:40.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/meowmeowarmy  
+        <title type="html"><![CDATA[Japan Just Shattered the Internet Speed Record at 319 Terabits per Second]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol5jd5/japan_just_shattered_the_internet_speed_record_at/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol5jd5/japan_just_shattered_the_internet_speed_record_at/"/>
+        <updated>2021-07-16T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Superbuddhapunk  
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix Plans to Offer Video Games in Push Beyond Films, TV]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okgwuz/netflix_plans_to_offer_video_games_in_push_beyond/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okgwuz/netflix_plans_to_offer_video_games_in_push_beyond/"/>
-        <updated>2021-07-14T23:55:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/CrazyK9  
+        <title type="html"><![CDATA[Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol4xtz/researchers_match_deepminds_alphafold2_protein/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol4xtz/researchers_match_deepminds_alphafold2_protein/"/>
+        <updated>2021-07-15T23:48:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/kry_some_more  
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DNS Provider Hit With Outrageous Blocking Order – Is Your Provider Next?]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okfwxc/dns_provider_hit_with_outrageous_blocking_order/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okfwxc/dns_provider_hit_with_outrageous_blocking_order/"/>
-        <updated>2021-07-14T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/AerialDarkguy  
+        <title type="html"><![CDATA[Facebook Removes Iranian Accounts Targeting U.S. Defense Firms]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol4x9e/facebook_removes_iranian_accounts_targeting_us/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol4x9e/facebook_removes_iranian_accounts_targeting_us/"/>
+        <updated>2021-07-15T23:47:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ChickenTeriyakiBoy1  
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big Tech Is Big Mad at FTC Chair Lina Khan: Facebook joined Amazon in begging for Lina Khan to recuse herself from antitrust investigations targeting the firm, accusing her of being an antitrust crusader.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okf0ka/big_tech_is_big_mad_at_ftc_chair_lina_khan/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okf0ka/big_tech_is_big_mad_at_ftc_chair_lina_khan/"/>
-        <updated>2021-07-14T22:12:59.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/thatfiremonkey  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annoying LinkedIn Networkers Actually Russian Hackers Spreading Zero-Days, Google Says]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okezu9/annoying_linkedin_networkers_actually_russian/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okezu9/annoying_linkedin_networkers_actually_russian/"/>
-        <updated>2021-07-14T22:12:00.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/thatfiremonkey  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2107/15/news062.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news062.html"/>
-        <updated>2021-07-14T22:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2107/15/news062.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news062.html"/>
-        <updated>2021-07-14T22:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[any cloud platforms that you can make one time purchases for adding more memory.]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/okemym/any_cloud_platforms_that_you_can_make_one_time/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/okemym/any_cloud_platforms_that_you_can_make_one_time/"/>
-        <updated>2021-07-14T21:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Just as the questions says. Also, by any chance is there any cloud platform that offers more free storage than google drive?
-    submitted by    /u/Bklover93  
+        <title type="html"><![CDATA[After the Rain in Jessore, Bangladesh.]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/ol4voo/after_the_rain_in_jessore_bangladesh/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/ol4voo/after_the_rain_in_jessore_bangladesh/"/>
+        <updated>2021-07-15T23:45:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/IcyFaithlessness5726  
  [link]   [comments]]]></summary>
         <author>
             <name>Cloud Computing</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MaaSを進化させる混雑予測情報　約5割のユーザーが行動変容：日経クロストレンド]]></title>
-        <id>https://xtrend.nikkei.com/atcl/contents/casestudy/00012/00668/</id>
-        <link href="https://xtrend.nikkei.com/atcl/contents/casestudy/00012/00668/"/>
-        <updated>2021-07-14T20:51:23.000Z</updated>
-        <summary type="html"><![CDATA[MaaS（モビリティ・アズ・ア・サービス）の社会実装を推進するスタートアップ、MaaS Tech Japan（東京・千代田）は、移動情報の統合データ基盤「TraISARE（トレイザー）」を開発した。交通事業者ごとに多様な形式、フォーマットで保有されている交通データや、人流データを整理統合し、シームレスな連係を可能にする。移...]]></summary>
+        <title type="html"><![CDATA[When the cloud touches the ground in Jessore, Bangladesh.]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/ol4sy8/when_the_cloud_touches_the_ground_in_jessore/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/ol4sy8/when_the_cloud_touches_the_ground_in_jessore/"/>
+        <updated>2021-07-15T23:40:41.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/IcyFaithlessness5726  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple employees threaten to quit as company takes hard line stance on remote work]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol4mk9/apple_employees_threaten_to_quit_as_company_takes/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol4mk9/apple_employees_threaten_to_quit_as_company_takes/"/>
+        <updated>2021-07-15T23:30:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/westphall  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS4 Consoles Used as FIFA 21 Game BOTs, Not Cryptocurrency Mining Farm]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol3riw/ps4_consoles_used_as_fifa_21_game_bots_not/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol3riw/ps4_consoles_used_as_fifa_21_game_bots_not/"/>
+        <updated>2021-07-15T22:41:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/redhatGizmo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welsh Azure User Group July 2021 Meet Up!]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/ol3cxk/welsh_azure_user_group_july_2021_meet_up/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/ol3cxk/welsh_azure_user_group_july_2021_meet_up/"/>
+        <updated>2021-07-15T22:19:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Jonnychipz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House slams Facebook as conduit for COVID-19 misinformation]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol38yr/white_house_slams_facebook_as_conduit_for_covid19/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol38yr/white_house_slams_facebook_as_conduit_for_covid19/"/>
+        <updated>2021-07-15T22:13:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Bammy-Soy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dogecoin co-creator blasts crypto as a scam to help the rich get richer]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol30e0/dogecoin_cocreator_blasts_crypto_as_a_scam_to/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol30e0/dogecoin_cocreator_blasts_crypto_as_a_scam_to/"/>
+        <updated>2021-07-15T22:00:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BalticsFox  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft says Israeli company is behind malware that affected Windows PCs]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol1uyq/microsoft_says_israeli_company_is_behind_malware/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol1uyq/microsoft_says_israeli_company_is_behind_malware/"/>
+        <updated>2021-07-15T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/divertiti  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Facebook engineer abused access to user data to track down a woman who had left their hotel room after they fought on vacation, new book says]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol1n1m/a_facebook_engineer_abused_access_to_user_data_to/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol1n1m/a_facebook_engineer_abused_access_to_user_data_to/"/>
+        <updated>2021-07-15T20:49:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Famous_Witness_6993  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a developer tools business on a developer-focused cloud]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/ol0zuv/building_a_developer_tools_business_on_a/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/ol0zuv/building_a_developer_tools_business_on_a/"/>
+        <updated>2021-07-15T20:17:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/creativefisher  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk: I Don't Care If Tesla Cybertruck Flops, It's Unlike Anything Else]]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol0aj2/elon_musk_i_dont_care_if_tesla_cybertruck_flops/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol0aj2/elon_musk_i_dont_care_if_tesla_cybertruck_flops/"/>
+        <updated>2021-07-15T19:42:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/agent_vinod  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Surgeon General warns that health misinformation is an 'urgent threat']]></title>
+        <id>https://www.reddit.com/r/technology/comments/ol07qq/us_surgeon_general_warns_that_health/</id>
+        <link href="https://www.reddit.com/r/technology/comments/ol07qq/us_surgeon_general_warns_that_health/"/>
+        <updated>2021-07-15T19:38:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/agent_vinod  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamでおなじみのValveが、SwitchのようなポータブルゲーミングPC「Steam Deck」を発表！価格は399ドルからで、3つのモデルがラインアップ]]></title>
+        <id>https://jp.ign.com/steam-deck/53330/preview/steamvalveswitchpcsteam-deck3993</id>
+        <link href="https://jp.ign.com/steam-deck/53330/preview/steamvalveswitchpcsteam-deck3993"/>
+        <updated>2021-07-15T19:36:44.000Z</updated>
+        <summary type="html"><![CDATA[2021年5月から噂になっていたが、ValveがポータブルゲーミングPC「Steam Deck」を今年発売することを正式に発表した。 「Steam Deck」はNintendo Switchに似た形状で、サイズはSwitchよりわずかに大きく、完全にゲーミングPCとしての性能を備えている。このデバイス用に調整されたValveのSteamOSが走り、Steamストアも自...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MaaSを進化させる混雑予測情報　約5割のユーザーが行動変容：日経クロストレンド]]></title>
-        <id>https://xtrend.nikkei.com/atcl/contents/casestudy/00012/00668/</id>
-        <link href="https://xtrend.nikkei.com/atcl/contents/casestudy/00012/00668/"/>
-        <updated>2021-07-14T20:51:23.000Z</updated>
-        <summary type="html"><![CDATA[MaaS（モビリティ・アズ・ア・サービス）の社会実装を推進するスタートアップ、MaaS Tech Japan（東京・千代田）は、移動情報の統合データ基盤「TraISARE（トレイザー）」を開発した。交通事業者ごとに多様な形式、フォーマットで保有されている交通データや、人流データを整理統合し、シームレスな連係を可能にする。移...]]></summary>
+        <title type="html"><![CDATA[SteamでおなじみのValveが、SwitchのようなポータブルゲーミングPC「Steam Deck」を発表！価格は399ドルからで、3つのモデルがラインアップ]]></title>
+        <id>https://jp.ign.com/steam-deck/53330/preview/steamvalveswitchpcsteam-deck3993</id>
+        <link href="https://jp.ign.com/steam-deck/53330/preview/steamvalveswitchpcsteam-deck3993"/>
+        <updated>2021-07-15T19:36:44.000Z</updated>
+        <summary type="html"><![CDATA[2021年5月から噂になっていたが、ValveがポータブルゲーミングPC「Steam Deck」を今年発売することを正式に発表した。 「Steam Deck」はNintendo Switchに似た形状で、サイズはSwitchよりわずかに大きく、完全にゲーミングPCとしての性能を備えている。このデバイス用に調整されたValveのSteamOSが走り、Steamストアも自...]]></summary>
         <author>
             <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft’s Blue Screen of Death is changing to black in Windows 11]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okcseq/microsofts_blue_screen_of_death_is_changing_to/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okcseq/microsofts_blue_screen_of_death_is_changing_to/"/>
-        <updated>2021-07-14T20:22:34.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Son0fSun  
+        <title type="html"><![CDATA[Total recall: Amazon faces legal action from US consumer protection group over hazardous goods]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okzpjm/total_recall_amazon_faces_legal_action_from_us/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okzpjm/total_recall_amazon_faces_legal_action_from_us/"/>
+        <updated>2021-07-15T19:12:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Achieve Sustainable Remote Work | Companies must move away from surveillance and visible busyness, and toward defined outcomes and trust.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okcfig/how_to_achieve_sustainable_remote_work_companies/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okcfig/how_to_achieve_sustainable_remote_work_companies/"/>
-        <updated>2021-07-14T20:05:28.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/nxthompson_tny  
+        <title type="html"><![CDATA[Valve announced Steam Deck, a Switch-like gaming PC starting at $399]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okyj2h/valve_announced_steam_deck_a_switchlike_gaming_pc/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okyj2h/valve_announced_steam_deck_a_switchlike_gaming_pc/"/>
+        <updated>2021-07-15T18:14:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Never-asked-for-this  
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. seeks to speed rooftop solar growth with instant permits]]></title>
+        <id>https://www.reddit.com/r/technology/comments/oky0uc/us_seeks_to_speed_rooftop_solar_growth_with/</id>
+        <link href="https://www.reddit.com/r/technology/comments/oky0uc/us_seeks_to_speed_rooftop_solar_growth_with/"/>
+        <updated>2021-07-15T17:49:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/geoxol  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black teen kicked out of skating rink after facial recognition camera misidentified her]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okxjk5/black_teen_kicked_out_of_skating_rink_after/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okxjk5/black_teen_kicked_out_of_skating_rink_after/"/>
+        <updated>2021-07-15T17:26:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MyNameIsGriffon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、認証局サービス「Google Cloud CAS」を一般提供 - ZDNet Japan]]></title>
+        <id>https://japan.zdnet.com/article/35173956/</id>
+        <link href="https://japan.zdnet.com/article/35173956/"/>
+        <updated>2021-07-15T16:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Osborne （ZDNet.com） 翻訳校正： 緒方亮 吉武稔夫 （ガリレオ） 2021-07-15 16:26 Googleは米国時間7月13日、「Google Cloud Certificate Authority Service（CAS）」の一般提供（GA）開始を発表した。 プロダクトマネージャーのAnoosh Saboori氏は、10月にパブリックプレビュー版を発表して以降、市場で「大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、認証局サービス「Google Cloud CAS」を一般提供 - ZDNet Japan]]></title>
+        <id>https://japan.zdnet.com/article/35173956/</id>
+        <link href="https://japan.zdnet.com/article/35173956/"/>
+        <updated>2021-07-15T16:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Charlie Osborne （ZDNet.com） 翻訳校正： 緒方亮 吉武稔夫 （ガリレオ） 2021-07-15 16:26 Googleは米国時間7月13日、「Google Cloud Certificate Authority Service（CAS）」の一般提供（GA）開始を発表した。 プロダクトマネージャーのAnoosh Saboori氏は、10月にパブリックプレビュー版を発表して以降、市場で「大...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spain Consumer Protection Organization accuses Apple of slowing down newer iPhones after iOS 14.5 update]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okwael/spain_consumer_protection_organization_accuses/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okwael/spain_consumer_protection_organization_accuses/"/>
+        <updated>2021-07-15T16:24:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/a_Ninja_b0y  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンド開発にtextlintを導入して運用している話 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/diescake/hurontoentokai-fa-nitextlintwodao-ru-siteyun-yong-siteiruhua</id>
+        <link href="https://speakerdeck.com/diescake/hurontoentokai-fa-nitextlintwodao-ru-siteyun-yong-siteiruhua"/>
+        <updated>2021-07-15T15:47:51.000Z</updated>
+        <summary type="html"><![CDATA[フロントエンド開発にtextlintを導入して運用している話 2021.07.13 Tue. SaaSプロダクトのフロントエンド最前線@オンライン 近藤 大介 @diescake SmartHR プロダクトエンジニア ／年末調整チーム／主にWebフロントエンド（React + TypeScript） 2020年1月SmartHR入社 SmartHR年末調整チームを住処にして、2020年の年末...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンド開発にtextlintを導入して運用している話 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/diescake/hurontoentokai-fa-nitextlintwodao-ru-siteyun-yong-siteiruhua</id>
+        <link href="https://speakerdeck.com/diescake/hurontoentokai-fa-nitextlintwodao-ru-siteyun-yong-siteiruhua"/>
+        <updated>2021-07-15T15:47:51.000Z</updated>
+        <summary type="html"><![CDATA[フロントエンド開発にtextlintを導入して運用している話 2021.07.13 Tue. SaaSプロダクトのフロントエンド最前線@オンライン 近藤 大介 @diescake SmartHR プロダクトエンジニア ／年末調整チーム／主にWebフロントエンド（React + TypeScript） 2020年1月SmartHR入社 SmartHR年末調整チームを住処にして、2020年の年末...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Python」の登録商標、米Python Software Foundationが再出願。アーク社の登録商標に対しては不使用取消審判を請求 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/pythonpython_software_foundation.html</id>
+        <link href="https://www.publickey1.jp/blog/21/pythonpython_software_foundation.html"/>
+        <updated>2021-07-15T15:10:06.000Z</updated>
+        <summary type="html"><![CDATA[「Python」の登録商標、米Python Software Foundationが再出願。アーク社の登録商標に対しては不使用取消審判を請求 プログラミング言語「Python」の開発を支援する米Python Software Foundationが、国内における「Python」の登録商標を5月に出願したことが明らかになりました。 国内におけるPythonの登録商標は、2018年...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Python」の登録商標、米Python Software Foundationが再出願。アーク社の登録商標に対しては不使用取消審判を請求 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/pythonpython_software_foundation.html</id>
+        <link href="https://www.publickey1.jp/blog/21/pythonpython_software_foundation.html"/>
+        <updated>2021-07-15T15:10:06.000Z</updated>
+        <summary type="html"><![CDATA[「Python」の登録商標、米Python Software Foundationが再出願。アーク社の登録商標に対しては不使用取消審判を請求 プログラミング言語「Python」の開発を支援する米Python Software Foundationが、国内における「Python」の登録商標を5月に出願したことが明らかになりました。 国内におけるPythonの登録商標は、2018年...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit's Alexis Ohanian compared Facebook to Marvel villain Thanos, saying its growth is 'inevitable' unless the government intervenes]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okunk3/reddits_alexis_ohanian_compared_facebook_to/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okunk3/reddits_alexis_ohanian_compared_facebook_to/"/>
+        <updated>2021-07-15T15:03:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Dull_Tonight  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「これはこれで微妙」みんなが「フロッピーディスクのアイコンなんて若者は知らないだろ」と言うからVirtualBoxはSDのアイコンになっていた - Togetter]]></title>
+        <id>https://togetter.com/li/1745405</id>
+        <link href="https://togetter.com/li/1745405"/>
+        <updated>2021-07-15T14:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Susumu Miwa @miwarin みんなが「フロッピーディスクのアイコンなんて若者は知らないだろ」と言うからVirtualBoxはSDのアイコンになってましたよ pic.twitter.com/eEaRCpdIN3 2021-07-15 08:28:24]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「これはこれで微妙」みんなが「フロッピーディスクのアイコンなんて若者は知らないだろ」と言うからVirtualBoxはSDのアイコンになっていた - Togetter]]></title>
+        <id>https://togetter.com/li/1745405</id>
+        <link href="https://togetter.com/li/1745405"/>
+        <updated>2021-07-15T14:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Susumu Miwa @miwarin みんなが「フロッピーディスクのアイコンなんて若者は知らないだろ」と言うからVirtualBoxはSDのアイコンになってましたよ pic.twitter.com/eEaRCpdIN3 2021-07-15 08:28:24]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n architecture and applications]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/oktbkn/n_architecture_and_applications/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/oktbkn/n_architecture_and_applications/"/>
+        <updated>2021-07-15T13:54:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/udaipurguy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医療機関用災害対策システム「Smart:DR」を手がけるSmart119が災害時の病院初期対応アプリを公開 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/15/smartdr-app-version/</id>
+        <link href="https://jp.techcrunch.com/2021/07/15/smartdr-app-version/"/>
+        <updated>2021-07-15T13:47:49.000Z</updated>
+        <summary type="html"><![CDATA[テクノロジーによる緊急医療の改善に取り組む千葉大学発の医療スタートアップSmart119（スマートイチイチキュウ）は、医療機関用災害対策システム「Smart:DR」（スマートディーアール）をスマートフォンやタブレットに対応させた「Smart:DRアプリ」を開発。7月15日、Android版とiOS版を公開した。 Smart:DRは、災害やテ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Parliament calls for 50/50 streaming royalties split between artists and record labels]]></title>
+        <id>https://www.reddit.com/r/technology/comments/oksqcy/uk_parliament_calls_for_5050_streaming_royalties/</id>
+        <link href="https://www.reddit.com/r/technology/comments/oksqcy/uk_parliament_calls_for_5050_streaming_royalties/"/>
+        <updated>2021-07-15T13:22:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Broadband More Affordable and Accessible for All Americans]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okrzrt/make_broadband_more_affordable_and_accessible_for/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okrzrt/make_broadband_more_affordable_and_accessible_for/"/>
+        <updated>2021-07-15T12:38:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/speckz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Cloud Robotics Start-ups to Keep An Eye On]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/okr9p9/top_10_cloud_robotics_startups_to_keep_an_eye_on/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/okr9p9/top_10_cloud_robotics_startups_to_keep_an_eye_on/"/>
+        <updated>2021-07-15T11:53:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Analyticsinsight01  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Has a Growing Homeless Encampment on Its Property - Homeless people living in RVs, shacks, tents, and cars have coalesced on about 55 acres of undeveloped property in North San Jose owned by the iPhone-maker]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okr6kq/apple_has_a_growing_homeless_encampment_on_its/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okr6kq/apple_has_a_growing_homeless_encampment_on_its/"/>
+        <updated>2021-07-15T11:47:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Bammy-Soy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Best Assess Your Security Posture]]></title>
+        <id>https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528</id>
+        <link href="https://www.informationweek.com/strategic-cio/security-and-risk-strategy/how-to-best-assess-your-security-posture/a/d-id/1341528?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple"/>
+        <updated>2021-07-15T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity is a rapidly moving target. If you don't understand your current state, how can you improve it?]]></summary>
+        <author>
+            <name>Lisa Morgan Freelance Writer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUICとNATと]]></title>
+        <id>https://www.janog.gr.jp/meeting/janog48/wp-content/uploads/2021/07/janog48-lt4-kawakami.pdf</id>
+        <link href="https://www.janog.gr.jp/meeting/janog48/wp-content/uploads/2021/07/janog48-lt4-kawakami.pdf"/>
+        <updated>2021-07-15T11:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Copyright © NTT Communications Corporation. All Rights Reserved. QUICとNATと NTT Communications Yuya Kawakami, SDN Tech Lead, Enterprise Cloud 2.0 2021-07-16 JANOG48 ライトニングトーク Copyright © NTT Communications Corporation. All Rights Reserved. ● 個人の「自主的な研究の成果の発表」だと受け止...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUICとNATと]]></title>
+        <id>https://www.janog.gr.jp/meeting/janog48/wp-content/uploads/2021/07/janog48-lt4-kawakami.pdf</id>
+        <link href="https://www.janog.gr.jp/meeting/janog48/wp-content/uploads/2021/07/janog48-lt4-kawakami.pdf"/>
+        <updated>2021-07-15T11:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Copyright © NTT Communications Corporation. All Rights Reserved. QUICとNATと NTT Communications Yuya Kawakami, SDN Tech Lead, Enterprise Cloud 2.0 2021-07-16 JANOG48 ライトニングトーク Copyright © NTT Communications Corporation. All Rights Reserved. ● 個人の「自主的な研究の成果の発表」だと受け止...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macに入力したキーボードショートカットをディスプレイ上に表示してくれる「KeyLimePie Keystrokes」がリリース。]]></title>
+        <id>https://applech2.com/archives/20210715-keylimepie-keystrokes-for-mac.html</id>
+        <link href="https://applech2.com/archives/20210715-keylimepie-keystrokes-for-mac.html"/>
+        <updated>2021-07-15T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Macに入力したキーボードショートカットをディスプレイ上に表示してくれる「KeyLimePie Keystrokes」がリリースされています。詳細は以下から。 　KeyLimePie Keystrokesはオープンソー The post Macに入力したキーボードショートカットをディスプレイ上に表示してくれる「KeyLimePie Keystrokes」がリリース。 first ap...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Post-Pandemic Cloud Strategy]]></title>
+        <id>https://www.informationweek.com/cloud/building-a-post-pandemic-cloud-strategy/a/d-id/1341529</id>
+        <link href="https://www.informationweek.com/cloud/building-a-post-pandemic-cloud-strategy/a/d-id/1341529?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple"/>
+        <updated>2021-07-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's what every chief information officer needs to know to create an effective cloud strategy.]]></summary>
+        <author>
+            <name>Jenny Koehler, Cloud &amp; Digital Leader, PwC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔と違う2021年のHTML制作。アンケート結果から分析するイマドキのウェブ制作 - ICS MEDIA]]></title>
+        <id>https://ics.media/entry/210715/</id>
+        <link href="https://ics.media/entry/210715/"/>
+        <updated>2021-07-15T10:45:06.000Z</updated>
+        <summary type="html"><![CDATA[ウェブ業界の当たり前だと思っていることでも、他社の人には違う常識があるかもしれません。自分が業界多数の傾向と違うところはどこなのか・・・、この連載ではアンケートデータから国内のウェブ業界の傾向を分析します。 連載7回目となる本記事では「ウェブ業界で、2010年代から変化したもの」をテーマとしてアンケー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔と違う2021年のHTML制作。アンケート結果から分析するイマドキのウェブ制作 - ICS MEDIA]]></title>
+        <id>https://ics.media/entry/210715/</id>
+        <link href="https://ics.media/entry/210715/"/>
+        <updated>2021-07-15T10:45:06.000Z</updated>
+        <summary type="html"><![CDATA[ウェブ業界の当たり前だと思っていることでも、他社の人には違う常識があるかもしれません。自分が業界多数の傾向と違うところはどこなのか・・・、この連載ではアンケートデータから国内のウェブ業界の傾向を分析します。 連載7回目となる本記事では「ウェブ業界で、2010年代から変化したもの」をテーマとしてアンケー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Smart' male chastity device can be controlled by hackers, users warned]]></title>
+        <id>https://www.reddit.com/r/technology/comments/okq7xf/smart_male_chastity_device_can_be_controlled_by/</id>
+        <link href="https://www.reddit.com/r/technology/comments/okq7xf/smart_male_chastity_device_can_be_controlled_by/"/>
+        <updated>2021-07-15T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Pessimist2020  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHPバージョンアップけもの道 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/uzulla/phpbaziyonatupukemofalsedao</id>
+        <link href="https://speakerdeck.com/uzulla/phpbaziyonatupukemofalsedao"/>
+        <updated>2021-07-15T10:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Transcript ʮPHPɺόʔδϣϯΞοϓ͠φΠτʂʂʯ ஫ɿ15࣌͸னؒͰ͢ PHPόʔδϣϯΞοϓ͚΋ͷಓ at PHPόʔδϣϯΞοϓ kickoff - 2021/07/15 @uzulla ࣗݾ঺հ • uzullaʢ͏ͣΒʣ • PHP͕޷͖ • ৽ن΋վम΋΍ΔPHPerͰ͢ • var΍ɺ&=ʹ΋ରԠPHPerͰ͢ ࠷ۙPR TIMES͞Μͷ͓ख఻͍ͯ͠·͢ • CTOʮϨΨγʔରԠPHPerͰɺύοͱདྷΕΔਓ͕ଞʹࢥ͍͔ͭ ͳ͔ͬͨʯ • ࢲʮΘ͔ΔɺԶ΋஌Βͳ͍ʯ ࠷ॳʹ·ͱΊ • PHPόʔδϣϯΞοϓ͸ʮ࡞ۀʯͰ͋Δ • ෳࡶʹݟ͑Δ໰୊͸෼ղ͠୯७ʹɺ΍Γ͖ΕΔख๏Ͱ࣮ߦ͢Δ • ςετ͕ॆ࣮͍ͯ͠ͳ͚Ε͹ɺ৽چൺֱ͢ΔE2EςετΛਪ঑ ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUICとNATと – JANOG48 Meeting]]></title>
+        <id>https://www.janog.gr.jp/meeting/janog48/lt4/</id>
+        <link href="https://www.janog.gr.jp/meeting/janog48/lt4/"/>
+        <updated>2021-07-15T10:10:47.000Z</updated>
+        <summary type="html"><![CDATA[場所 OHGAKI(完全リモート) 日時 Day3 2021年7月16日(金) 14:45～15:15(05分) 概要 RFC9000で標準化が完了したQUICはUDP443番ポートを使うプロトコルです。それが故にIPv4のNATルータとの間で起こる問題について考察したいと思います。 発表者 川上 雄也(NTTコミュニケーションズ株式会社) 公開資料 公開資料]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUICとNATと – JANOG48 Meeting]]></title>
+        <id>https://www.janog.gr.jp/meeting/janog48/lt4/</id>
+        <link href="https://www.janog.gr.jp/meeting/janog48/lt4/"/>
+        <updated>2021-07-15T10:10:47.000Z</updated>
+        <summary type="html"><![CDATA[場所 OHGAKI(完全リモート) 日時 Day3 2021年7月16日(金) 14:45～15:15(05分) 概要 RFC9000で標準化が完了したQUICはUDP443番ポートを使うプロトコルです。それが故にIPv4のNATルータとの間で起こる問題について考察したいと思います。 発表者 川上 雄也(NTTコミュニケーションズ株式会社) 公開資料 公開資料]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding for the Cloud at Speed and Scale]]></title>
+        <id>https://www.reddit.com/r/Cloud/comments/okptrk/coding_for_the_cloud_at_speed_and_scale/</id>
+        <link href="https://www.reddit.com/r/Cloud/comments/okptrk/coding_for_the_cloud_at_speed_and_scale/"/>
+        <updated>2021-07-15T10:07:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Analyticsinsight01  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In search of the devops ideal]]></title>
+        <id>https://www.infoworld.com/article/3625571/in-search-of-the-devops-ideal.html#tk.rss_all</id>
+        <link href="https://www.infoworld.com/article/3625571/in-search-of-the-devops-ideal.html#tk.rss_all"/>
+        <updated>2021-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Devops takes the overhead view encompassing the activity of both development and operations, and choreographs them to interact in the most effective ways. That is the conceptual ideal, but from a technical standpoint, can we describe the ideal devops setup?
+The answer is no, because the demands of a two-person startup are radically different from those of a multi-national embarking on a microservice project with hundreds of people involved in its care and feeding.
+But we can describe an idealized flow of development that flexes to absorb increasing complexity as needed, and how the technologies, like CI/CD, Docker, and cloud computing, fit into this flow.
+To read this article in full, please click here]]></summary>
+        <author>
+            <name>Matthew Tyson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unifying streaming and stored data]]></title>
+        <id>https://www.infoworld.com/article/3624594/unifying-streaming-and-stored-data.html#tk.rss_all</id>
+        <link href="https://www.infoworld.com/article/3624594/unifying-streaming-and-stored-data.html#tk.rss_all"/>
+        <updated>2021-07-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT spending is back, expected to regain 2019 levels by next year with digitization initiatives accelerated after COVID. Spending on enterprise software — including database, analytics, and business intelligence — will grow the fastest of all, Gartner says.
+Deriving value from data, whether from insights or transactions, is at the root of improving business outcomes. That perennial popularity is why the database and analytics market is valued at nearly $200 billion.
+To read this article in full, please click here]]></summary>
+        <author>
+            <name>Kelly Herrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANA発、遠隔操作ロボを使った瞬間移動サービス「avatarin」発表--2021年秋に提供へ - CNET Japan]]></title>
+        <id>https://japan.cnet.com/article/35173930/</id>
+        <link href="https://japan.cnet.com/article/35173930/"/>
+        <updated>2021-07-15T09:59:37.000Z</updated>
+        <summary type="html"><![CDATA[ANAホールディングス発のスタートアップであるavatarinは7月15日、遠隔ロボットを使った世界初の瞬間移動サービス「avatarin」のベータ版を2021年秋に提供開始すると発表した。 avatarinは、遠隔操作できるアバターロボット「newme」を使ったバーチャル移動サービス。PCから、各遠隔地に設置されたロボットにアクセスし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANA発、遠隔操作ロボを使った瞬間移動サービス「avatarin」発表--2021年秋に提供へ - CNET Japan]]></title>
+        <id>https://japan.cnet.com/article/35173930/</id>
+        <link href="https://japan.cnet.com/article/35173930/"/>
+        <updated>2021-07-15T09:59:37.000Z</updated>
+        <summary type="html"><![CDATA[ANAホールディングス発のスタートアップであるavatarinは7月15日、遠隔ロボットを使った世界初の瞬間移動サービス「avatarin」のベータ版を2021年秋に提供開始すると発表した。 avatarinは、遠隔操作できるアバターロボット「newme」を使ったバーチャル移動サービス。PCから、各遠隔地に設置されたロボットにアクセスし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterキャンペーンに関するお詫びとお知らせ｜セブン‐イレブン～近くて便利～]]></title>
+        <id>https://www.sej.co.jp/company/important/139210.html</id>
+        <link href="https://www.sej.co.jp/company/important/139210.html"/>
+        <updated>2021-07-15T09:39:14.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月15日 お客様各位 株式会社セブン‐イレブン・ジャパン Twitterキャンペーンに関するお詫びとお知らせ 平素は、セブン‐イレブン店舗にご愛顧賜り、誠にありがとうございます。 このたび、弊社公式Twitterのキャンペーンにおいて、参加登録時に過剰な権限の要求を行う設定となっていた事が判明いたしました。 お客...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterキャンペーンに関するお詫びとお知らせ｜セブン‐イレブン～近くて便利～]]></title>
+        <id>https://www.sej.co.jp/company/important/139210.html</id>
+        <link href="https://www.sej.co.jp/company/important/139210.html"/>
+        <updated>2021-07-15T09:39:14.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月15日 お客様各位 株式会社セブン‐イレブン・ジャパン Twitterキャンペーンに関するお詫びとお知らせ 平素は、セブン‐イレブン店舗にご愛顧賜り、誠にありがとうございます。 このたび、弊社公式Twitterのキャンペーンにおいて、参加登録時に過剰な権限の要求を行う設定となっていた事が判明いたしました。 お客...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セブン-イレブンがTwitterキャンペーン取り下げで謝罪　過大な権限要求は「設定ミスだった」 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news148.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news148.html"/>
+        <updated>2021-07-15T09:06:30.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブン・ジャパンが、「セブン-イレブンの日」のキャンペーンに伴い、Twitterアカウントと連携するユーザーに対し過剰な権限を求める設定となっていたことについて謝罪した。原因は「許可する権限の設定ミス」と説明した。 セブン-イレブン・ジャパンは7月15日、「セブン-イレブンの日」のキャンペーンに伴い、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromeが全てのウェブページをHTTPS優先で読み込む「HTTPSファーストモード」を導入予定 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210715-chrome-https-first-mode-test/</id>
+        <link href="https://gigazine.net/news/20210715-chrome-https-first-mode-test/"/>
+        <updated>2021-07-15T08:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Chromeの開発者であるShweta Panditrao氏らが開発ブログを更新し、Chrome 94以降は全てのウェブページでHTTPSを優先して読み込む「HTTPSファースト」のオプションを提供すると発表しました。 Chromium Blog: Increasing HTTPS adoption https://blog.chromium.org/2021/07/increasing-https-adoption.html 2021年9月21日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromeが全てのウェブページをHTTPS優先で読み込む「HTTPSファーストモード」を導入予定 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210715-chrome-https-first-mode-test/</id>
+        <link href="https://gigazine.net/news/20210715-chrome-https-first-mode-test/"/>
+        <updated>2021-07-15T08:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Chromeの開発者であるShweta Panditrao氏らが開発ブログを更新し、Chrome 94以降は全てのウェブページでHTTPSを優先して読み込む「HTTPSファースト」のオプションを提供すると発表しました。 Chromium Blog: Increasing HTTPS adoption https://blog.chromium.org/2021/07/increasing-https-adoption.html 2021年9月21日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[320項目の“DX Criteria”で企業DXの自己分析を　目的は説明責任の向きを変えること - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/324647</id>
+        <link href="https://logmi.jp/tech/articles/324647"/>
+        <updated>2021-07-15T08:51:24.000Z</updated>
+        <summary type="html"><![CDATA[2つのDXを企業が効率よく取り込むための“DX Criteria” Developer Experienceとデジタルトランスフォーメーションの2つのDX。「この一体となった文化資本を、効率良く企業が取り込むにはどうしたらいいんだろう」という問いが生まれるわけです。 その中で、僕が1つのかたちとして提示したいのがCTO協会で発表している“DX ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[320項目の“DX Criteria”で企業DXの自己分析を　目的は説明責任の向きを変えること - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/324647</id>
+        <link href="https://logmi.jp/tech/articles/324647"/>
+        <updated>2021-07-15T08:51:24.000Z</updated>
+        <summary type="html"><![CDATA[2つのDXを企業が効率よく取り込むための“DX Criteria” Developer Experienceとデジタルトランスフォーメーションの2つのDX。「この一体となった文化資本を、効率良く企業が取り込むにはどうしたらいいんだろう」という問いが生まれるわけです。 その中で、僕が1つのかたちとして提示したいのがCTO協会で発表している“DX ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railsの技: Capybaraのテストで複数のセッションを扱う（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_15/108763</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_15/108763"/>
+        <updated>2021-07-15T08:36:21.000Z</updated>
+        <summary type="html"><![CDATA[概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Testing multiple sessions in the same test with Capybara | Boring Rails: Skip the bullshit and ship fast 原文公開日: 2021/03/02 著者: Matt Swanson サイト: Boring Rails アプリケーション内の機能は、複数のユーザーにまたがって動作することもあり...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勘定系システムは塩漬けにすべきか、みずほ銀行・静岡銀行の大規模障害で揺らぐ選択 | 日経クロステック（xTECH）]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/00138/071200839/</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00138/071200839/"/>
+        <updated>2021-07-15T08:30:59.000Z</updated>
+        <summary type="html"><![CDATA[勘定系システムの刷新を巡り、銀行間で明暗が分かれている。全面刷新に踏み切ったみずほ銀行などで大規模システム障害が起きた一方、アプリケーションの刷新は一部にとどめ、システム基盤の更改を進めた銀行で目立ったトラブルは起きていない。移行コストやリスクを抑えるため「勘定系システムは塩漬けでいい」という声...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サーバーレスのウェブアプリケーションを構築２ Amazon Cognito を使ったユーザー管理 | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/lim-serverless-app-2-cognito/</id>
+        <link href="https://dev.classmethod.jp/articles/lim-serverless-app-2-cognito/"/>
+        <updated>2021-07-15T08:18:12.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。イムチェジョンです。 前のブログではAWS Amplify を使った静的ウェブホスティングをやってみました。今回は続いてAmazon Cognito を勉強し、ユーザー管理をしてみようと思います。 [サーバーレスのウェブアプリケーションを構築シリーズ] １. AWS Amplify を使った静的ウェブホスティング ２. Amazon Cogni...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サーバーレスのウェブアプリケーションを構築２ Amazon Cognito を使ったユーザー管理 | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/lim-serverless-app-2-cognito/</id>
+        <link href="https://dev.classmethod.jp/articles/lim-serverless-app-2-cognito/"/>
+        <updated>2021-07-15T08:18:12.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。イムチェジョンです。 前のブログではAWS Amplify を使った静的ウェブホスティングをやってみました。今回は続いてAmazon Cognito を勉強し、ユーザー管理をしてみようと思います。 [サーバーレスのウェブアプリケーションを構築シリーズ] １. AWS Amplify を使った静的ウェブホスティング ２. Amazon Cogni...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【やじうまPC Watch】10～30代男性、約半数が「専業主夫になりたい」 - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/yajiuma/1338379.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/yajiuma/1338379.html"/>
+        <updated>2021-07-15T08:03:08.000Z</updated>
+        <summary type="html"><![CDATA[株式会社SheepDogが運営するITツール比較サイトの「STRATE」において、7月に10代～30代の男性450人にアンケート調査をしたところ、「専業主夫になりたい」と答えた人が半数を超えることがわかった。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google engineer who criticized company in viral comics on why he finally quit]]></title>
+        <id>https://www.reddit.com/r/technology/comments/oko0lt/google_engineer_who_criticized_company_in_viral/</id>
+        <link href="https://www.reddit.com/r/technology/comments/oko0lt/google_engineer_who_criticized_company_in_viral/"/>
+        <updated>2021-07-15T07:41:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Ok_Upstairs7832  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>/r/Technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nuroモバイル、年内に専用アプリ不要で通話半額　秋に5Gサービスも提供 - ITmedia Mobile]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2107/15/news131.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2107/15/news131.html"/>
+        <updated>2021-07-15T07:40:31.000Z</updated>
+        <summary type="html"><![CDATA[ソニーネットワークコミュニケーションズが7月15日、MVNOサービス「nuroモバイル」の新たな取り組みについて発表した。AI技術を活用し、帯域の割り当てを自動で変更することで通信品質を改善している。プレフィックス番号の自動付与機能や5Gサービスも年内に提供する。 ソニーネットワークコミュニケーションズが7月15日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遺伝子編集技術CRISPRで新型コロナを治療する方法が編み出される - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210715-crispr-cas13b-coronavirus/</id>
+        <link href="https://gigazine.net/news/20210715-crispr-cas13b-coronavirus/"/>
+        <updated>2021-07-15T07:28:24.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症(COVID-19)の新たな治療法として、遺伝子編集技術「CRISPR」を使ってウイルスの複製を止める方法が編み出されています。研究は初期段階ですが、変異株に対しても効果を発揮すると研究者は発表しています。 Reprogrammed CRISPR-Cas13b suppresses SARS-CoV-2 replication and circumvents its m...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遺伝子編集技術CRISPRで新型コロナを治療する方法が編み出される - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210715-crispr-cas13b-coronavirus/</id>
+        <link href="https://gigazine.net/news/20210715-crispr-cas13b-coronavirus/"/>
+        <updated>2021-07-15T07:28:24.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症(COVID-19)の新たな治療法として、遺伝子編集技術「CRISPR」を使ってウイルスの複製を止める方法が編み出されています。研究は初期段階ですが、変異株に対しても効果を発揮すると研究者は発表しています。 Reprogrammed CRISPR-Cas13b suppresses SARS-CoV-2 replication and circumvents its m...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースドキュメント翻訳プラットフォームとしての GitHub: React 日本語ドキュメントの例]]></title>
+        <id>https://zenn.dev/smikitky/articles/0d250f7367eda9</id>
+        <link href="https://zenn.dev/smikitky/articles/0d250f7367eda9"/>
+        <updated>2021-07-15T07:07:35.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ひょんなことから React 公式ドキュメント日本語版のメンテナをやらせていただいています smikitky です。 この記事は、React 公式ドキュメントの翻訳作業が GitHub ベースでどのように行われているのかを解説したものです。ドキュメントの翻訳には色々な方法がありますが、React の現アプローチは非常に上手く...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「映像作品から収益を得る」とはどういうことなのか　鬼滅、シン・エヴァ、ハサウェイに見るテクノロジーの破壊的変化（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news126.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news126.html"/>
+        <updated>2021-07-15T07:03:59.000Z</updated>
+        <summary type="html"><![CDATA[映画というビジネスには「興行収入」、通称・興収がつきものだ。2020年の『劇場版「鬼滅の刃」無限列車編』が記録的な興収を達成し、今また、『シン・エヴァンゲリオン劇場版:||』の興収100億円達成が話題になっている。 映画「シン・エヴァ」興行収入100億円突破　公開から127日で 一方で、今や映画というビジネスは多...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「映像作品から収益を得る」とはどういうことなのか　鬼滅、シン・エヴァ、ハサウェイに見るテクノロジーの破壊的変化（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news126.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news126.html"/>
+        <updated>2021-07-15T07:03:59.000Z</updated>
+        <summary type="html"><![CDATA[映画というビジネスには「興行収入」、通称・興収がつきものだ。2020年の『劇場版「鬼滅の刃」無限列車編』が記録的な興収を達成し、今また、『シン・エヴァンゲリオン劇場版:||』の興収100億円達成が話題になっている。 映画「シン・エヴァ」興行収入100億円突破　公開から127日で 一方で、今や映画というビジネスは多...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サッカースタジアムでテレワーク　電源やWi-Fi利用可、1時間500円 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news124.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news124.html"/>
+        <updated>2021-07-15T07:02:29.000Z</updated>
+        <summary type="html"><![CDATA[サッカー専用スタジアム「パナソニックスタジアム吹田」（大阪府吹田市、パナスタ）が、同施設を活用したテレワークプラン「パナスタワーク」の提供を始めた。 パナソニックがネーミングライツを保有するサッカー専用スタジアム「パナソニックスタジアム吹田」（大阪府吹田市、パナスタ）は、同施設を活用したテレワーク...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「実践Django」から学ぶ「プロとして学ぶ・実践すべきWebアプリケーション開発」のこと - Lean Baseball]]></title>
+        <id>https://shinyorke.hatenablog.com/entry/practice-django-and-web-development</id>
+        <link href="https://shinyorke.hatenablog.com/entry/practice-django-and-web-development"/>
+        <updated>2021-07-15T07:02:01.000Z</updated>
+        <summary type="html"><![CDATA[PythonでWebアプリケーションをよく作るマンです. 来週（7/19）に発売となる, 「実践Django Pythonによる本格Webアプリケーション開発」の書籍レビューに参加させていただきかつ, 執筆者の@c_bata_さん, 出版元の翔泳社様のご厚意により一冊いただきました. ひと足先に読ませていただきました（感謝） 実践Django Python...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v1.0.0 · vuejs/composition-api · GitHub]]></title>
+        <id>https://github.com/vuejs/composition-api/releases/tag/v1.0.0</id>
+        <link href="https://github.com/vuejs/composition-api/releases/tag/v1.0.0"/>
+        <updated>2021-07-15T06:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Bug Fixes mockReactivityDeep: add parameter seen for mockReactivityDeep. (#759) (40cb14a) runtime-core: trigger warning when the injectionKey is undefined (#760) (2ccad9b)]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13(仮)では画面内Touch ID見送りに、さらなる将来モデルでノッチ消滅の噂 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/iphone13-no-touchid-notch-end-060509276.html</id>
+        <link href="https://japanese.engadget.com/iphone13-no-touchid-notch-end-060509276.html"/>
+        <updated>2021-07-15T06:29:44.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneの次期フラッグシップであるiPhone 13(仮)シリーズは、今年秋、おそらく9月には発表されると噂されています。 これまでにも多くの噂があった同シリーズですが、一部で期待されていた画面内指紋センサー搭載は見送られ、ノッチ（画面上部の切り欠き）は噂通り小さくなるものの、来年モデルにてさらに縮小されるとの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Google Glass」法人向けモデルが日本でも　17万8000円で8月発売 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news115.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news115.html"/>
+        <updated>2021-07-15T06:04:01.000Z</updated>
+        <summary type="html"><![CDATA[米Googleの日本法人はメガネ型デバイス「Google Glass」の法人向けモデル「Glass Enterprise Edition 2」を8月10日から日本で提供する。メーカー希望小売価格は1台17万8000円（税込）。 米Googleの日本法人Google Japanは7月15日、メガネ型デバイス「Google Glass」の法人向けモデル「Glass Enterprise Edition 2」を8月...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonに続きFacebookもFTCにリナ・カーン委員長の忌避申し立て - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/15/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/15/news106.html"/>
+        <updated>2021-07-15T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebookが米連邦取引委員会に対し、同委員会のリナ・カーン委員長がFacebookの独禁法訴訟に関わらないよう嘆願した。カーン氏はIT大手規制論者として知られる。同氏に対してはAmazonも同様の忌避申し立てをしている。 米Facebookは7月14日（現地時間）、米連邦取引委員会（FTC）に対し、現在進行中の同社に対する独禁法...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己流の手順書フォーマットを公開してみた | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/non-97-operation-manual/</id>
+        <link href="https://dev.classmethod.jp/articles/non-97-operation-manual/"/>
+        <updated>2021-07-15T04:23:51.000Z</updated>
+        <summary type="html"><![CDATA[手順書フォーマットは千差万別 みなさんは自己流または、組織やプロジェクトで定められた手順書のフォーマットはありますか? 私は自己流の手順書フォーマットがあります。 自己流の手順書フォーマットがあるといっても、かなり扱いがふわふわしているので、備忘やメモの意味合い強めでまとめていきます。 「もっとこうし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二十年振り返り はてな年表 - はてな20周年祭 - はてな]]></title>
+        <id>https://www.hatena.ne.jp/hatena20th/history</id>
+        <link href="https://www.hatena.ne.jp/hatena20th/history"/>
+        <updated>2021-07-15T03:46:18.000Z</updated>
+        <summary type="html"><![CDATA[2001年にはてなが誕生してから20年が経ちました。このコーナーでは、創業メンバーである取締役 サービス・システム開発本部長の大西（id:onishi）とともに、はてなの歴史を振り返りましょう。 それぞれの「はてなの出来事」をクリックすると、各ページに「はてなスター」を付けることができます。印象的だった出来事にぜ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイアミの集合住宅、3分の2が築30年超　迫る巨額修繕費 - WSJ]]></title>
+        <id>https://jp.wsj.com/articles/two-thirds-of-miami-condo-buildings-are-older-than-30-years-the-repair-bills-are-coming-due--11626307671</id>
+        <link href="https://jp.wsj.com/articles/two-thirds-of-miami-condo-buildings-are-older-than-30-years-the-repair-bills-are-coming-due--11626307671"/>
+        <updated>2021-07-15T03:38:13.000Z</updated>
+        <summary type="html"><![CDATA[By Laura Kusisto, Jon Kamp and Daniela Hernandez / Photographs by Maria Alejandra Cardona for The Wall Street Journal 住宅構造エンジニアは、米国でコンドミニアムと呼ばれる集合住宅について、築30年が経過した段階で、所有者は重要な修繕を先送りできない時期にきていると指摘する。 フロリダ州マイアミでは、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてな、20周年で企業ロゴをリニューアル - プレスリリース - 株式会社はてな]]></title>
+        <id>https://hatenacorp.jp/press/release/entry/2021/07/15/113000</id>
+        <link href="https://hatenacorp.jp/press/release/entry/2021/07/15/113000"/>
+        <updated>2021-07-15T03:24:59.000Z</updated>
+        <summary type="html"><![CDATA[株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、企業ロゴのデザインをリニューアルし、本日2021年7月15日に公開しました。 当社では“「知る」「つながる」「表現する」で新しい体験を提供し、人の生活を豊かにする”をコーポレートミッションに、さまざまな個人向け・法人向けサービスを展開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoTに簡単さを求めるのは間違っているだろうか？ ～BLE IoTスターターパッケージ | IIJ Engineers Blog]]></title>
+        <id>https://eng-blog.iij.ad.jp/archives/10219</id>
+        <link href="https://eng-blog.iij.ad.jp/archives/10219"/>
+        <updated>2021-07-15T03:09:34.000Z</updated>
+        <summary type="html"><![CDATA[2016年からIoTサービスの開発・運用に従事。埼玉県出身・埼玉県在住、埼玉を愛す男。好物は十万石饅頭。週末は愛車を丸1日乗り回すくらいの車好き。 はじめに IoTビジネス事業部のsnaraです。主にIoTのデバイスまわりの技術開発を担当しています。 2021年7月より、「BLE IoT スターターパッケージ」の提供を開始いたしま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoTに簡単さを求めるのは間違っているだろうか？ ～BLE IoTスターターパッケージ | IIJ Engineers Blog]]></title>
+        <id>https://eng-blog.iij.ad.jp/archives/10219</id>
+        <link href="https://eng-blog.iij.ad.jp/archives/10219"/>
+        <updated>2021-07-15T03:09:34.000Z</updated>
+        <summary type="html"><![CDATA[2016年からIoTサービスの開発・運用に従事。埼玉県出身・埼玉県在住、埼玉を愛す男。好物は十万石饅頭。週末は愛車を丸1日乗り回すくらいの車好き。 はじめに IoTビジネス事業部のsnaraです。主にIoTのデバイスまわりの技術開発を担当しています。 2021年7月より、「BLE IoT スターターパッケージ」の提供を開始いたしま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてな20周年祭 - はてな]]></title>
+        <id>https://www.hatena.ne.jp/hatena20th</id>
+        <link href="https://www.hatena.ne.jp/hatena20th"/>
+        <updated>2021-07-15T02:56:06.000Z</updated>
+        <summary type="html"><![CDATA[株式会社はてなは、2021/7/15でサービス開始から20周年を迎えました。 この記念すべき節目の年を迎えることができましたのも、 多くのユーザーの皆様に支えられ、 パートナー企業の皆様のご支援、ご愛顧の賜物と心から感謝いたしております。 今後も社員一同決意を新たに、一層の努力で皆様のご愛顧にお応えしていきます...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[価格約1万1000円、Raspberry Piで簡単に3Dポイントクラウドが作れる3Dセンシングシステム「ILT開発キット」発表 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/15/magiceye-ilt-development-kit/</id>
+        <link href="https://jp.techcrunch.com/2021/07/15/magiceye-ilt-development-kit/"/>
+        <updated>2021-07-15T02:53:30.000Z</updated>
+        <summary type="html"><![CDATA[マジックアイは、企業や学校の研究者など3Dセンシングに興味のある人を対象に、小型・高速・高精度・低遅延・省電力を特徴とする独自特許技術の3Dセンサー方式「インバーティブル・ライト技術」（ILT）を手軽に評価できる入門モデル「ILT開発キット」（DK-ILT001）を7月15日から世界同時発売すると発表した。希望小売価...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[価格約1万1000円、Raspberry Piで簡単に3Dポイントクラウドが作れる3Dセンシングシステム「ILT開発キット」発表 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/15/magiceye-ilt-development-kit/</id>
+        <link href="https://jp.techcrunch.com/2021/07/15/magiceye-ilt-development-kit/"/>
+        <updated>2021-07-15T02:53:30.000Z</updated>
+        <summary type="html"><![CDATA[マジックアイは、企業や学校の研究者など3Dセンシングに興味のある人を対象に、小型・高速・高精度・低遅延・省電力を特徴とする独自特許技術の3Dセンサー方式「インバーティブル・ライト技術」（ILT）を手軽に評価できる入門モデル「ILT開発キット」（DK-ILT001）を7月15日から世界同時発売すると発表した。希望小売価...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Word - デマ打消しリリース_210715r2(Bパターン_1行追加ver.).docx]]></title>
+        <id>https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780</id>
+        <link href="https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780"/>
+        <updated>2021-07-15T02:04:41.000Z</updated>
+        <summary type="html"><![CDATA[NEWS RELEASE 1 2021 年 7 月 15 日 タマホーム株式会社 東京都港区高輪 3-22-9 平素より、当社事業活動に対する温かいご支援をいただきまして、誠にありがとうございます。 2021 年 7 月頃より、インターネット上において、当社の新型コロナワクチン対応に関する誤った内容 を記載した、匿名での書き込みが Twitter や...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python | by Jeremy Tuloup | Jul, 2021 | Jupyter Blog]]></title>
+        <id>https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa</id>
+        <link href="https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa"/>
+        <updated>2021-07-14T22:07:23.000Z</updated>
+        <summary type="html"><![CDATA[JupyterLite is a JupyterLab distribution that runs entirely in the web browser, backed by in-browser language kernels. MotivationJupyterLite is a reboot of several attempts at making a full static Jupyter distribution that runs in the browser, without having to start the Python Jupyter Server on ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Simple Queue Service (SQS) – 15 年が経過した今もキューを実行中! | Amazon Web Services ブログ]]></title>
+        <id>https://aws.amazon.com/jp/blogs/news/amazon-sqs-15-years-and-still-queueing/</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/amazon-sqs-15-years-and-still-queueing/"/>
+        <updated>2021-07-14T22:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services ブログ Amazon Simple Queue Service (SQS) – 15 年が経過した今もキューを実行中! 時の流れは早いものです! 私は、2006 年に Amazon Simple Queue Service (SQS) の本稼働の開始についての記事を書きました。その頃は、15 年後にまだブログを書いていること、そして、このサービスが、非常に多くの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -146,59 +951,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s time to forget everything Silicon Valley taught about tech investing – The most successful global tech bets aren’t flashy unicorns; they’re efficient and practical startups.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/okb86y/its_time_to_forget_everything_silicon_valley/</id>
-        <link href="https://www.reddit.com/r/technology/comments/okb86y/its_time_to_forget_everything_silicon_valley/"/>
-        <updated>2021-07-14T19:06:08.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Exastiken  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warp: the blazingly fast, Rust-based terminal]]></title>
-        <id>https://www.warp.dev/</id>
-        <link href="https://www.warp.dev/"/>
-        <updated>2021-07-14T18:05:48.000Z</updated>
-        <summary type="html"><![CDATA[The terminal that supercharges your developer workflow Warp is a blazingly fast, Rust-based terminal that makes you and your team more productive at coding and DevOps.]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warp: the blazingly fast, Rust-based terminal]]></title>
-        <id>https://www.warp.dev/</id>
-        <link href="https://www.warp.dev/"/>
-        <updated>2021-07-14T18:05:48.000Z</updated>
-        <summary type="html"><![CDATA[The terminal that supercharges your developer workflow Warp is a blazingly fast, Rust-based terminal that makes you and your team more productive at coding and DevOps.]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google employees angered by search giant's 'hypocritical' remote work policies: Employees were already stirred up over opaque policies on remote work. Then a senior executive announced he's moving to New Zealand in what some workers consider special treatment.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok9oqk/google_employees_angered_by_search_giants/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok9oqk/google_employees_angered_by_search_giants/"/>
-        <updated>2021-07-14T17:51:40.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Fuzier  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man arrested over social media posts aimed at England players]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok7vwx/man_arrested_over_social_media_posts_aimed_at/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok7vwx/man_arrested_over_social_media_posts_aimed_at/"/>
-        <updated>2021-07-14T16:24:49.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/esporx  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Facebook and its advertisers are 'panicking' as the majority of iPhone users opt out of tracking]]></title>
         <id>https://www.reddit.com/r/technology/comments/ok6x4h/facebook_and_its_advertisers_are_panicking_as_the/</id>
         <link href="https://www.reddit.com/r/technology/comments/ok6x4h/facebook_and_its_advertisers_are_panicking_as_the/"/>
@@ -207,46 +959,6 @@
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadで「ウィンドウズ」利用可能に　クラウド経由で：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html</id>
-        <link href="https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html"/>
-        <updated>2021-07-14T15:33:27.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロソフト（MS）は14日朝、ウィンドウズの基本ソフト（OS）「10」や年末に投入される次世代の「11」がクラウド上で利用できるサービス「ウィンドウズ　365」を始めると発表した。8月2日から企業向けに提供する。アップルのiPad（アイパッド）などからも「ウィンドウズ」が利用できるようになり、働き方やパソコン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadで「ウィンドウズ」利用可能に　クラウド経由で：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html</id>
-        <link href="https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html"/>
-        <updated>2021-07-14T15:33:27.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロソフト（MS）は14日朝、ウィンドウズの基本ソフト（OS）「10」や年末に投入される次世代の「11」がクラウド上で利用できるサービス「ウィンドウズ　365」を始めると発表した。8月2日から企業向けに提供する。アップルのiPad（アイパッド）などからも「ウィンドウズ」が利用できるようになり、働き方やパソコン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、月額制クラウドPC「Windows 365」を8月提供開始。Windows 11にも対応 - PC Watch]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/news/1338124.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/news/1338124.html"/>
-        <updated>2021-07-14T15:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftは14日(米国太平洋時間、日本時間7月15日未明)、販売パートナーなどを対象にしたカンファレンス「Inspire 2021」に先だって報道発表を行ない、SaaS(Software as a Service)型の仮想デスクトップとなる「Windows 365」を発表した。同社はAzure Virtual Desktop(AVD)と呼ばれるクラウドベースの仮想デスクトップサービスを提供しているが、AVDが従量制課金でIaaS(Infrastructure as a Service)で青天井の料金であるのに対して、Windows 365では月額固定料金で使えるのが違いとなる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、月額制クラウドPC「Windows 365」を8月提供開始。Windows 11にも対応 - PC Watch]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/news/1338124.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/news/1338124.html"/>
-        <updated>2021-07-14T15:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftは14日(米国太平洋時間、日本時間7月15日未明)、販売パートナーなどを対象にしたカンファレンス「Inspire 2021」に先だって報道発表を行ない、SaaS(Software as a Service)型の仮想デスクトップとなる「Windows 365」を発表した。同社はAzure Virtual Desktop(AVD)と呼ばれるクラウドベースの仮想デスクトップサービスを提供しているが、AVDが従量制課金でIaaS(Infrastructure as a Service)で青天井の料金であるのに対して、Windows 365では月額固定料金で使えるのが違いとなる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -261,64 +973,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html</id>
-        <link href="https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html"/>
-        <updated>2021-07-14T15:01:44.000Z</updated>
-        <summary type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Wi...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに － Publickey]]></title>
-        <id>https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html</id>
-        <link href="https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html"/>
-        <updated>2021-07-14T15:01:44.000Z</updated>
-        <summary type="html"><![CDATA[［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Wi...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Users Said No to Tracking. Now Advertisers are Panicking]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok5vwt/facebook_users_said_no_to_tracking_now/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok5vwt/facebook_users_said_no_to_tracking_now/"/>
-        <updated>2021-07-14T14:49:02.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/margin_call_rep  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook staffers were told by execs to scrap any mention of Russia in a 2017 white paper on the platform's security concerns: 'We started to feel like we were part of a cover-up]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok5agx/facebook_staffers_were_told_by_execs_to_scrap_any/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok5agx/facebook_staffers_were_told_by_execs_to_scrap_any/"/>
-        <updated>2021-07-14T14:18:12.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Dull_Tonight  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tel Aviv will test dog poop DNA to fine owners who don’t clean up]]></title>
         <id>https://www.reddit.com/r/technology/comments/ok4wwk/tel_aviv_will_test_dog_poop_dna_to_fine_owners/</id>
         <link href="https://www.reddit.com/r/technology/comments/ok4wwk/tel_aviv_will_test_dog_poop_dna_to_fine_owners/"/>
         <updated>2021-07-14T13:59:07.000Z</updated>
         <summary type="html"><![CDATA[submitted by    /u/o_joo  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How much do you pay your ISP? Consumer Reports wants to see your bill - Your bill and a speed test can help Consumer Reports analyze Internet prices.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok4lsf/how_much_do_you_pay_your_isp_consumer_reports/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok4lsf/how_much_do_you_pay_your_isp_consumer_reports/"/>
-        <updated>2021-07-14T13:42:49.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Philo1927  
  [link]   [comments]]]></summary>
         <author>
             <name>/r/Technology</name>
@@ -338,86 +997,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「Conformityを利用する事で簡易に継続的なセキュリティコンプライアンス対応状況の確認ができる！」を登壇しました。 | DevelopersIO]]></title>
-        <id>https://dev.classmethod.jp/articles/conformity-onstage/</id>
-        <link href="https://dev.classmethod.jp/articles/conformity-onstage/"/>
-        <updated>2021-07-14T13:15:21.000Z</updated>
-        <summary type="html"><![CDATA[「Conformityを利用する事で簡易に継続的なセキュリティコンプライアンス対応状況の確認ができる！」を登壇しました。 こんにちは、コンサル部＠大阪オフィスのTodaです。 先日「AWS コンサルティングパートナーがお伝えする最先端のクラウドセキュリティ対策–S3のファイルは安全ですか？AWSの設定は安全ですか？」で Cl...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Conformityを利用する事で簡易に継続的なセキュリティコンプライアンス対応状況の確認ができる！」を登壇しました。 | DevelopersIO]]></title>
-        <id>https://dev.classmethod.jp/articles/conformity-onstage/</id>
-        <link href="https://dev.classmethod.jp/articles/conformity-onstage/"/>
-        <updated>2021-07-14T13:15:21.000Z</updated>
-        <summary type="html"><![CDATA[「Conformityを利用する事で簡易に継続的なセキュリティコンプライアンス対応状況の確認ができる！」を登壇しました。 こんにちは、コンサル部＠大阪オフィスのTodaです。 先日「AWS コンサルティングパートナーがお伝えする最先端のクラウドセキュリティ対策–S3のファイルは安全ですか？AWSの設定は安全ですか？」で Cl...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAGNIs: Probably Are Gonna Need Its]]></title>
-        <id>https://simonwillison.net/2021/Jul/1/pagnis/</id>
-        <link href="https://simonwillison.net/2021/Jul/1/pagnis/"/>
-        <updated>2021-07-14T12:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Luke Page has a great post up with his list of YAGNI exceptions. YAGNI—You Ain’t Gonna Need It—is a rule that says you shouldn’t add a feature just because it might be useful in the future—only write code when it solves a direct problem. When should you over-ride YAGNI? When the cost of adding so...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Google for Games Developer Summit 2021」で，クラウドゲームサービス“Stadia”に関する新たな施策が発表]]></title>
-        <id>https://www.4gamer.net/games/453/G045313/20210714112/</id>
-        <link href="https://www.4gamer.net/games/453/G045313/20210714112/"/>
-        <updated>2021-07-14T12:28:43.000Z</updated>
-        <summary type="html"><![CDATA[「Google for Games Developer Summit 2021」で，クラウドゲームサービス“Stadia”に関する新たな施策が発表 編集部：松本隆一 Googleは北米時間の2021年7月12日〜13日，ゲーム開発者向けのカンファレンス「Google for Games Developer Summit 2021」を開催し，Android対応タイトルの開発を目的としたツールやライブラリ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「650億円払え」Googleが受けた巨額制裁の理由とは | 新聞紙学的]]></title>
-        <id>https://kaztaira.wordpress.com/2021/07/14/french_competition_authority_accuses_google_for_neighboring-rights_negotiations/</id>
-        <link href="https://kaztaira.wordpress.com/2021/07/14/french_competition_authority_accuses_google_for_neighboring-rights_negotiations/"/>
-        <updated>2021-07-14T12:15:25.000Z</updated>
-        <summary type="html"><![CDATA[グーグルはメディアへのニュース使用料支払いについて、誠実な交渉を行っていないので制裁金5億ユーロ（約650億円）を支払え――。 By Robert Scoble (CC BY 2.0) フランスの規制当局「競争委員会」は7月13日、グーグルに対して、そんな決定をした。 グーグルが2カ月以内に改善策を示せない場合は、さらに1日当たり90万ユ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「650億円払え」Googleが受けた巨額制裁の理由とは | 新聞紙学的]]></title>
-        <id>https://kaztaira.wordpress.com/2021/07/14/french_competition_authority_accuses_google_for_neighboring-rights_negotiations/</id>
-        <link href="https://kaztaira.wordpress.com/2021/07/14/french_competition_authority_accuses_google_for_neighboring-rights_negotiations/"/>
-        <updated>2021-07-14T12:15:25.000Z</updated>
-        <summary type="html"><![CDATA[グーグルはメディアへのニュース使用料支払いについて、誠実な交渉を行っていないので制裁金5億ユーロ（約650億円）を支払え――。 By Robert Scoble (CC BY 2.0) フランスの規制当局「競争委員会」は7月13日、グーグルに対して、そんな決定をした。 グーグルが2カ月以内に改善策を示せない場合は、さらに1日当たり90万ユ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - diekmann/wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM.]]></title>
-        <id>https://github.com/diekmann/wasm-fizzbuzz</id>
-        <link href="https://github.com/diekmann/wasm-fizzbuzz"/>
-        <updated>2021-07-14T12:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Exploring WebAssembly from scratch from a backend-person-point-of-view. A story in four acts. Welcome to my journey where I will explore some WebAssembly. We will start from scratch. My goal is to look at everything bottom-up, without much magic tooling or frameworks on our way. In this article, ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub - diekmann/wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM.]]></title>
-        <id>https://github.com/diekmann/wasm-fizzbuzz</id>
-        <link href="https://github.com/diekmann/wasm-fizzbuzz"/>
-        <updated>2021-07-14T12:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Exploring WebAssembly from scratch from a backend-person-point-of-view. A story in four acts. Welcome to my journey where I will explore some WebAssembly. We will start from scratch. My goal is to look at everything bottom-up, without much magic tooling or frameworks on our way. In this article, ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Become an IT Industry Thought Leader]]></title>
         <id>https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520</id>
         <link href="https://www.informationweek.com/strategic-cio/how-to-become-an-it-industry-thought-leader/a/d-id/1341520?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple"/>
@@ -428,57 +1007,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node v16.5.0 (Current) | Node.js]]></title>
-        <id>https://nodejs.org/en/blog/release/v16.5.0/</id>
-        <link href="https://nodejs.org/en/blog/release/v16.5.0/"/>
-        <updated>2021-07-14T11:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Toggle Language العربية Catalan Deutsch English Español زبان فارسی Français Galego Italiano 日本語 한국어 Português do Brasil limba română Русский Türkçe Українська 简体中文 繁體中文 Notable ChangesExperimental Web Streams APINode.js now exposes an experimental implementation of the Web Streams A...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node v16.5.0 (Current) | Node.js]]></title>
-        <id>https://nodejs.org/en/blog/release/v16.5.0/</id>
-        <link href="https://nodejs.org/en/blog/release/v16.5.0/"/>
-        <updated>2021-07-14T11:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Toggle Language العربية Catalan Deutsch English Español زبان فارسی Français Galego Italiano 日本語 한국어 Português do Brasil limba română Русский Türkçe Українська 简体中文 繁體中文 Notable ChangesExperimental Web Streams APINode.js now exposes an experimental implementation of the Web Streams A...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[United Airlines to buy 100, 19-seat electric planes from Heart Aerospace]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok2eyp/united_airlines_to_buy_100_19seat_electric_planes/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok2eyp/united_airlines_to_buy_100_19seat_electric_planes/"/>
-        <updated>2021-07-14T11:29:29.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/geoxol  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アジャイル】書籍「Clean Agile」より「小規模開発のアジャイルプラクティス」 | notwork | モバイルアプリ開発情報]]></title>
-        <id>https://tech.naturalmindo.com/book_cleanagile_practice/</id>
-        <link href="https://tech.naturalmindo.com/book_cleanagile_practice/"/>
-        <updated>2021-07-14T11:01:21.000Z</updated>
-        <summary type="html"><![CDATA[プロジェクトを機能・ストーリー・タスクに分割する方法と、それぞれの見積もり、優先順位付け、スケジューリングのガイダンスを提供します。 見積もりは細かく細分化するほど精度を上げることができるのは明らかです。しかしその代償として時間がかかります。不正確にすべきではありませんが、見積もりのコストは抑えた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アジャイル】書籍「Clean Agile」より「小規模開発のアジャイルプラクティス」 | notwork | モバイルアプリ開発情報]]></title>
-        <id>https://tech.naturalmindo.com/book_cleanagile_practice/</id>
-        <link href="https://tech.naturalmindo.com/book_cleanagile_practice/"/>
-        <updated>2021-07-14T11:01:21.000Z</updated>
-        <summary type="html"><![CDATA[プロジェクトを機能・ストーリー・タスクに分割する方法と、それぞれの見積もり、優先順位付け、スケジューリングのガイダンスを提供します。 見積もりは細かく細分化するほど精度を上げることができるのは明らかです。しかしその代償として時間がかかります。不正確にすべきではありませんが、見積もりのコストは抑えた...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How IT Leaders Can Adopt an Automation Mindset]]></title>
         <id>https://www.informationweek.com/big-data/ai-machine-learning/how-it-leaders-can-adopt-an-automation-mindset/a/d-id/1341521</id>
         <link href="https://www.informationweek.com/big-data/ai-machine-learning/how-it-leaders-can-adopt-an-automation-mindset/a/d-id/1341521?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple"/>
@@ -486,37 +1014,6 @@
         <summary type="html"><![CDATA[Too often, IT pros focus on one-off problems instead of leveraging automation to drive long-term innovation. Instead, IT leaders should adopt the big-picture mindset of a Formula 1 champion.]]></summary>
         <author>
             <name>Wendy M. Pfeiffer, CIO, Nutanix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[革新的『iPhone』や『Mac』でAppleの最高益を更新し続けるCEOティム・クックの1日。モーニング・ルーティーンから驚異的 | AppBank]]></title>
-        <id>https://www.appbank.net/2021/07/14/technology/2095348.php</id>
-        <link href="https://www.appbank.net/2021/07/14/technology/2095348.php"/>
-        <updated>2021-07-14T10:49:44.000Z</updated>
-        <summary type="html"><![CDATA[» テック＆ガジェットの最新記事を読む 2011年8月にアップル社のCEOを辞任したスティーブ・ジョブズは、その後継者として1998年に入社したティム・クックを指名しました。 ジョブズと比べてあまり表舞台に出てこないティムが、トップであり続けるために日々何をしているのか。その一日について海外YouTubeチャンネル、Ap...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[革新的『iPhone』や『Mac』でAppleの最高益を更新し続けるCEOティム・クックの1日。モーニング・ルーティーンから驚異的 | AppBank]]></title>
-        <id>https://www.appbank.net/2021/07/14/technology/2095348.php</id>
-        <link href="https://www.appbank.net/2021/07/14/technology/2095348.php"/>
-        <updated>2021-07-14T10:49:44.000Z</updated>
-        <summary type="html"><![CDATA[» テック＆ガジェットの最新記事を読む 2011年8月にアップル社のCEOを辞任したスティーブ・ジョブズは、その後継者として1998年に入社したティム・クックを指名しました。 ジョブズと比べてあまり表舞台に出てこないティムが、トップであり続けるために日々何をしているのか。その一日について海外YouTubeチャンネル、Ap...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retail stores are packed with unchecked facial recognition, civil rights organizations say]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok1nw6/retail_stores_are_packed_with_unchecked_facial/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok1nw6/retail_stores_are_packed_with_unchecked_facial/"/>
-        <updated>2021-07-14T10:37:11.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/a_Ninja_b0y  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
         </author>
     </entry>
     <entry>
@@ -560,157 +1057,6 @@ To read this article in full, please click here
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GOの機械学習システムを支えるMLOps事例紹介]]></title>
-        <id>https://www.slideshare.net/takashisuzuki503/gomlops</id>
-        <link href="https://www.slideshare.net/takashisuzuki503/gomlops"/>
-        <updated>2021-07-14T09:38:21.000Z</updated>
-        <summary type="html"><![CDATA[GOの機械学習システムを支えるMLOps事例紹介 1. Mobility Technologies Co., Ltd. GOの機械学習システムを支える MLOps事例紹介 開発本部 AI技術開発部 MLエンジニアリンググループ 鈴木 隆史 2. Mobility Technologies Co., Ltd. 自己紹介 2 鈴木 隆史 | Takashi Suzuki 開発本部 AI技術開発部 MLエンジニアリンググル...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10が「最後のバージョン」を撤回した理由　Windows 11は何が違うのか：本田雅一のクロスオーバーデジタル（1/2 ページ） - ITmedia PC USER]]></title>
-        <id>https://www.itmedia.co.jp/pcuser/articles/2107/14/news074.html</id>
-        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/14/news074.html"/>
-        <updated>2021-07-14T09:28:28.000Z</updated>
-        <summary type="html"><![CDATA[2015年のWindows 10リリース以来、初のメジャーバージョンアップとなる「Windows 11」が発表された。日本時間6月25日の発表から数日後には、早期に次世代技術へとアクセスできるWindows Insider Programにて初のプレビュー版が公開され、既に多くのユーザーが手軽に試せるようになっている。 2021年内の正式リリースを考...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Hiragino: Hiragino Shock and Apple Publishing Glyph Set – Ata Distance]]></title>
-        <id>https://atadistance.net/2021/07/07/steve-jobs-hiragino-shock/</id>
-        <link href="https://atadistance.net/2021/07/07/steve-jobs-hiragino-shock/"/>
-        <updated>2021-07-14T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The Hiragino fonts in OS X The transition to macOS X was a very interesting time for the Japanese publishing industry. In his first official appearance in Japan after returning to Apple, Steve Jobs turned the publishing industry on its head when he announced at MacWorld Tokyo 2000 that Apple woul...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小さなチームのままフルスタック問題を乗り越えたい - pinnacles-techblog - Medium]]></title>
-        <id>https://medium.com/pinnacles-techblog/technical-issues-7f0e46293e88</id>
-        <link href="https://medium.com/pinnacles-techblog/technical-issues-7f0e46293e88"/>
-        <updated>2021-07-14T08:49:35.000Z</updated>
-        <summary type="html"><![CDATA[ピナクルズの CTO をしている渋谷です。「現場向け動画 DX」を実現するための SaaS『tebiki』を開発しています。 今回は「プロダクト開発チームがプロダクトに集中できるように、専門性の高い技術課題を解決するチームを作りたい」という弊社の組織設計についてパブリックなところに公開してみたいと思います。 理想の組...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Music HDのハイレゾ音源は確かに悪くないけど結局Spotifyを使うことに…… - I AM A DOG]]></title>
-        <id>https://moognyk.jp/entry/2021/07/14/160000</id>
-        <link href="https://moognyk.jp/entry/2021/07/14/160000"/>
-        <updated>2021-07-14T08:49:07.000Z</updated>
-        <summary type="html"><![CDATA[2019年にこんな記事を書きました。 当時のサブスク音楽配信をいくつか試して（Apple Music、Amazon Music Unlimited、Spotify）、若干の不満はあるもののAmazon Music Unlimitedに落ち着いたという話です。実はこの記事を書いてから数ヶ月後（2020年5月）、Amazon Musicから再びSpotifyに乗り換えていました……。 いくつ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人間の汗から発電可能なバイオ燃料電池が開発される、寝ている時でもウェアラブル端末を充電できる可能性 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210714-finger-wrap-biofuel-cell/</id>
-        <link href="https://gigazine.net/news/20210714-finger-wrap-biofuel-cell/"/>
-        <updated>2021-07-14T08:36:37.000Z</updated>
-        <summary type="html"><![CDATA[カリフォルニア大学サンディエゴ校のエンジニアグループが、指先に装着して人の汗から少量の電力を生成することができる薄くて柔軟なバイオ燃料電池を開発しました。このバイオ燃料電池は着用者が運動して大量に汗をかいている時だけでなく、眠っている時や座っている時でも電力を生成することができるため、ウェアラブ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人間の汗から発電可能なバイオ燃料電池が開発される、寝ている時でもウェアラブル端末を充電できる可能性 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210714-finger-wrap-biofuel-cell/</id>
-        <link href="https://gigazine.net/news/20210714-finger-wrap-biofuel-cell/"/>
-        <updated>2021-07-14T08:36:37.000Z</updated>
-        <summary type="html"><![CDATA[カリフォルニア大学サンディエゴ校のエンジニアグループが、指先に装着して人の汗から少量の電力を生成することができる薄くて柔軟なバイオ燃料電池を開発しました。このバイオ燃料電池は着用者が運動して大量に汗をかいている時だけでなく、眠っている時や座っている時でも電力を生成することができるため、ウェアラブ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data transmission speed record clocks blistering 319 Terabits per second]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ok049q/data_transmission_speed_record_clocks_blistering/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ok049q/data_transmission_speed_record_clocks_blistering/"/>
-        <updated>2021-07-14T08:35:35.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/kry_some_more  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleのプライバシー強化で開発者や広告主の収益が15～20％減ったことが判明 - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210714-app-tracking-transparency-revenue-drop/</id>
-        <link href="https://gigazine.net/news/20210714-app-tracking-transparency-revenue-drop/"/>
-        <updated>2021-07-14T07:59:31.000Z</updated>
-        <summary type="html"><![CDATA[賛否両論を呼ぶAppleのプライバシー強化機能「App Tracking Transparency(ATT)」の影響で、iOS向けに広告を表示する広告主やアプリ開発者の収益が、15～20％減少したことが報じられています。ATTはまだ完全に有効になったわけではないため、今後はこれ以上の影響が現れると考えられています。 Brian Bowman: Apple's IDF...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(プログラマのための) いまさら聞けない標準規格の話 第1回 文字コード概要編 | オブジェクトの広場]]></title>
-        <id>https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html</id>
-        <link href="https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html"/>
-        <updated>2021-07-14T07:59:18.000Z</updated>
-        <summary type="html"><![CDATA[プログラマがシステム開発において共通で必要となる、技術と業務の狭間の共通知識を解説します。連載第1回は文字コードの概要編です。 0. はじめに 業務システムを開発する場合、プログラミング言語、フレームワーク、ミドルウェア、業務知識など以外に、共通で必要となる知識があります。文字コード、国際化、日付・時...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(プログラマのための) いまさら聞けない標準規格の話 第1回 文字コード概要編 | オブジェクトの広場]]></title>
-        <id>https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html</id>
-        <link href="https://www.ogis-ri.co.jp/otc/hiroba/technical/program_standards/part1.html"/>
-        <updated>2021-07-14T07:59:18.000Z</updated>
-        <summary type="html"><![CDATA[プログラマがシステム開発において共通で必要となる、技術と業務の狭間の共通知識を解説します。連載第1回は文字コードの概要編です。 0. はじめに 業務システムを開発する場合、プログラミング言語、フレームワーク、ミドルウェア、業務知識など以外に、共通で必要となる知識があります。文字コード、国際化、日付・時...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［解決！Python］内包表記で辞書を作成するには：解決！Python - ＠IT]]></title>
-        <id>https://www.atmarkit.co.jp/ait/articles/2107/13/news019.html</id>
-        <link href="https://www.atmarkit.co.jp/ait/articles/2107/13/news019.html"/>
-        <updated>2021-07-14T07:04:40.000Z</updated>
-        <summary type="html"><![CDATA[辞書内包表記を使って、辞書を作成する方法と、zip関数と辞書内包表記を組み合わせる方法、注意点などを紹介する。 # 辞書内包表記の基本型 d = {k: k ** 2 for k in range(5)} print(d)  # {0: 0, 1: 1, 2: 4, 3: 9, 4: 16} # 辞書内包表記とzip関数との組み合わせ articles = [ 'リストの内包表記と「if」を組み合わせ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[説明コストの大きさが文化資本の質の差を生む　開発体験の良さと企業のデジタルトランスフォーメーションのつながり - ログミーTech]]></title>
-        <id>https://logmi.jp/tech/articles/324638</id>
-        <link href="https://logmi.jp/tech/articles/324638"/>
-        <updated>2021-07-14T06:57:30.000Z</updated>
-        <summary type="html"><![CDATA[2つのDXは両輪でつながっている このダイナミックケイパビリティの文脈でDXを語ることが、最近増えてきています。それは『ものづくり白書』のことだけではなく、こういった論文にも出ています。デジタルトランスフォーメーションとは、組織の日常生活の中で新しいデジタル技術を活用する継続的なプロセスである。組織の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[説明コストの大きさが文化資本の質の差を生む　開発体験の良さと企業のデジタルトランスフォーメーションのつながり - ログミーTech]]></title>
-        <id>https://logmi.jp/tech/articles/324638</id>
-        <link href="https://logmi.jp/tech/articles/324638"/>
-        <updated>2021-07-14T06:57:30.000Z</updated>
-        <summary type="html"><![CDATA[2つのDXは両輪でつながっている このダイナミックケイパビリティの文脈でDXを語ることが、最近増えてきています。それは『ものづくり白書』のことだけではなく、こういった論文にも出ています。デジタルトランスフォーメーションとは、組織の日常生活の中で新しいデジタル技術を活用する継続的なプロセスである。組織の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まるで「ハウルの動く城」　政府のシステムはなぜ乱立するのか | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210713/k00/00m/020/392000c</id>
-        <link href="https://mainichi.jp/articles/20210713/k00/00m/020/392000c"/>
-        <updated>2021-07-14T05:36:48.000Z</updated>
-        <summary type="html"><![CDATA[なぜこれほど混乱が続くのか。新型コロナウイルス感染者との接触確認アプリの不具合、ワクチン接種予約システムのパンクなど、行政のコロナ関連システムの不具合が報じられるたびに嘆息しているのは記者だけではないだろう。根底に何があるのか。官公庁のシステム構築に詳しい坂下哲也・日本情報経済社会推進協会常務理...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plane Flying Through ThunderStorm]]></title>
         <id>https://www.reddit.com/r/Cloud/comments/ojxdha/plane_flying_through_thunderstorm/</id>
         <link href="https://www.reddit.com/r/Cloud/comments/ojxdha/plane_flying_through_thunderstorm/"/>
@@ -722,146 +1068,13 @@ To read this article in full, please click here
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goのおすすめのフレームワークはnet／http | フューチャー技術ブログ]]></title>
-        <id>https://future-architect.github.io/articles/20210714a/</id>
-        <link href="https://future-architect.github.io/articles/20210714a/"/>
-        <updated>2021-07-14T04:43:52.000Z</updated>
-        <summary type="html"><![CDATA[僕としてはGoのおすすめのフレームワークを聞かれたら、標準ライブラリのnet/httpと答えるようにしています。というよりも、Goの他のフレームワークと呼ばれているものは、このnet/httpのラッパーでしかないからです。 Goでアプリケーションを作成する場合のイメージは次の通り。battery includedなアプローチは他の言語...]]></summary>
+        <title type="html"><![CDATA[国産のChromium派生ブラウザー「Kinza」、Google APIへのアクセス打ち切りで継続断念【やじうまWatch】 - INTERNET Watch]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/yajiuma/1337902.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/yajiuma/1337902.html"/>
+        <updated>2021-07-14T03:09:31.000Z</updated>
+        <summary type="html"><![CDATA[国産のChromium派生ブラウザー「Kinza」の開発が終了したことが明らかになった。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Firefox 90」が安定版に ～Windows版がバックグラウンドアップデートに対応 - 窓の杜]]></title>
-        <id>https://forest.watch.impress.co.jp/docs/news/1337957.html</id>
-        <link href="https://forest.watch.impress.co.jp/docs/news/1337957.html"/>
-        <updated>2021-07-14T04:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Mozillaは7月13日（米国時間）、デスクトップ向け「Firefox」の最新版v90.0を正式公開した。「Firefox 90」では、Windows版にバックグラウンドアップデート機能を導入。「Firefox」を起動していなくても、自動でアップデートできるようになった。不要な場合は無効にすることもできる。]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、eSIMを提供開始　iPhone XS 以降で動作 - Engadget 日本版]]></title>
-        <id>https://japanese.engadget.com/softbank-esim-032127437.html</id>
-        <link href="https://japanese.engadget.com/softbank-esim-032127437.html"/>
-        <updated>2021-07-14T04:03:56.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは2021年7月14日、eSIMの提供を始めました。 eSIM（embedded Subscriber Identity Module）とは契約者の情報が書き込まれたSIMカードを機器に直接組み込む形態を指します。物理SIMのように“挿し替える”という概念がなく、専用のWebサイトや端末から申し込めるサービスがほとんどです。 プロファイルのダウン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトバンク、eSIMを提供開始　iPhone XS 以降で動作 - Engadget 日本版]]></title>
-        <id>https://japanese.engadget.com/softbank-esim-032127437.html</id>
-        <link href="https://japanese.engadget.com/softbank-esim-032127437.html"/>
-        <updated>2021-07-14T04:03:56.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは2021年7月14日、eSIMの提供を始めました。 eSIM（embedded Subscriber Identity Module）とは契約者の情報が書き込まれたSIMカードを機器に直接組み込む形態を指します。物理SIMのように“挿し替える”という概念がなく、専用のWebサイトや端末から申し込めるサービスがほとんどです。 プロファイルのダウン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同じLED電球なのに300円と15,000円？　分解してわかった価格差の”裏側” | i:Engineer(アイエンジニア)｜パーソルテクノロジースタッフのエンジニア派遣]]></title>
-        <id>https://persol-tech-s.co.jp/i-engineer/product/leddisassembly</id>
-        <link href="https://persol-tech-s.co.jp/i-engineer/product/leddisassembly"/>
-        <updated>2021-07-14T03:55:19.000Z</updated>
-        <summary type="html"><![CDATA[2021.07.14 同じLED電球なのに300円と15,000円？　分解してわかった価格差の”裏側” 日常生活で商品を選ぶ基準といえば、「機能」「価格」「デザイン」などが挙げられます。とくに価格は、ものを選ぶ際の大きなポイントでしょう。しかし、機能はほとんど同じなのに価格差があり、違いがわかりにくい商品も。その一例がLED...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Firefox 90」正式版リリース、バックグラウンドアップデートが有効化されて常に最新のバージョンが利用可能に - GIGAZINE]]></title>
-        <id>https://gigazine.net/news/20210714-firefox-90/</id>
-        <link href="https://gigazine.net/news/20210714-firefox-90/"/>
-        <updated>2021-07-14T03:50:06.000Z</updated>
-        <summary type="html"><![CDATA[ウェブブラウザ「Firefox 90」の正式版が公開されました。Firefoxを常に最新の状態に保てるバックグラウンドアップデートが有効化されたほか、PDFへの印刷時にハイパーリンクを維持したり、httpsモードの例外指定が可能になったりするアップデートが行われています。 Firefox 90.0, See All New Features, Updates and F...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-thirds of Americans, 227 million, play video games. For many games were an escape, stress relief in pandemic]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ojw1vw/twothirds_of_americans_227_million_play_video/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ojw1vw/twothirds_of_americans_227_million_play_video/"/>
-        <updated>2021-07-14T03:41:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Sorin61  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル純正｢MagSafeバッテリーパック｣、いきなり1万1800円で発売！ | ギズモード・ジャパン]]></title>
-        <id>https://www.gizmodo.jp/2021/07/new-apple-magsafe-battery-pack-is-now-available.html</id>
-        <link href="https://www.gizmodo.jp/2021/07/new-apple-magsafe-battery-pack-is-now-available.html"/>
-        <updated>2021-07-14T03:37:02.000Z</updated>
-        <summary type="html"><![CDATA[アップル純正｢MagSafeバッテリーパック｣、いきなり1万1800円で発売！2021.07.14 11:0053,545 塚本直樹 Image: Apple 急に出たな！ Apple（アップル）からのサプライズです。iPhone 12シリーズにくっつけるだけで充電できるモバイルバッテリー｢MagSafeバッテリーパック｣がストアに登場しました！ MagSafe（iPhone向け）と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル純正｢MagSafeバッテリーパック｣、いきなり1万1800円で発売！ | ギズモード・ジャパン]]></title>
-        <id>https://www.gizmodo.jp/2021/07/new-apple-magsafe-battery-pack-is-now-available.html</id>
-        <link href="https://www.gizmodo.jp/2021/07/new-apple-magsafe-battery-pack-is-now-available.html"/>
-        <updated>2021-07-14T03:37:02.000Z</updated>
-        <summary type="html"><![CDATA[アップル純正｢MagSafeバッテリーパック｣、いきなり1万1800円で発売！2021.07.14 11:0053,545 塚本直樹 Image: Apple 急に出たな！ Apple（アップル）からのサプライズです。iPhone 12シリーズにくっつけるだけで充電できるモバイルバッテリー｢MagSafeバッテリーパック｣がストアに登場しました！ MagSafe（iPhone向け）と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad上でWindows 3.1が動作、DOS用ゲームが遊べる「iDOS 2」アプリを利用しインストール | TechCrunch Japan]]></title>
-        <id>https://jp.techcrunch.com/2021/07/14/ipad-windows31-idos/</id>
-        <link href="https://jp.techcrunch.com/2021/07/14/ipad-windows31-idos/"/>
-        <updated>2021-07-14T03:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Benj Edwards 次期iPadOS 15はマルチタスクの強化に重点が置かれていますが、そこでもmacOSやWindowsのように複数の窓を開くシステムは先送りとなりそうです。そんななか、iPad上にWindows 3.1をインストールして、ゲーム等のサードパーティ製アプリを動かすことができたと報告されています。 テックメディアFast Compan...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A single Bitcoin transaction has a bigger carbon footprint than 100,000 hours of YouTube videos]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ojvx2o/a_single_bitcoin_transaction_has_a_bigger_carbon/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ojvx2o/a_single_bitcoin_transaction_has_a_bigger_carbon/"/>
-        <updated>2021-07-14T03:32:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/doors_2  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実践的なプログラミング学習「Quest」が無料公開 JavaScriptを利用するレッスンなど | Ledge.ai]]></title>
-        <id>https://ledge.ai/progate-quest/</id>
-        <link href="https://ledge.ai/progate-quest/"/>
-        <updated>2021-07-14T03:18:04.000Z</updated>
-        <summary type="html"><![CDATA[株式会社Progateは7月1日、オンラインプログラミング学習サービス「Progate」において、期間限定の実験的なプログラミング学習コンテンツ「Quest」を無料公開した。公開は期間限定で、学習するレッスンの内容も更新される可能性があるという。 今回、提供するレッスンは「コードリーディング問題」と「アルゴリズム問題...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mattn on Twitter: "typo でもいいから OSS にコントリビュートしてみたいなと思う人は、Vim でファイルを開いて :set spell を実行するのです。変数名や造語でもないのにこういう風に赤く見えたら typo です。 https://t.co/t8Z8m7cQ9U"]]></title>
-        <id>https://twitter.com/mattn_jp/status/1415128525175070722</id>
-        <link href="https://twitter.com/mattn_jp/status/1415128525175070722"/>
-        <updated>2021-07-14T02:24:14.000Z</updated>
-        <summary type="html"><![CDATA[typo でもいいから OSS にコントリビュートしてみたいなと思う人は、Vim でファイルを開いて :set spell を実行するのです。変数名や造語でもないのにこういう風に赤く見えたら typo です。 https://t.co/t8Z8m7cQ9U]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Tracking Transparency causing 15% to 20% revenue drop for advertisers]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ojttkd/app_tracking_transparency_causing_15_to_20/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ojttkd/app_tracking_transparency_causing_15_to_20/"/>
-        <updated>2021-07-14T01:26:47.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
         </author>
     </entry>
     <entry>
@@ -876,47 +1089,6 @@ To read this article in full, please click here
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[データウェアハウスのバージョン管理をどうやるか - yasuhisa's blog]]></title>
-        <id>https://www.yasuhisay.info/entry/2021/07/14/095500</id>
-        <link href="https://www.yasuhisay.info/entry/2021/07/14/095500"/>
-        <updated>2021-07-14T00:59:30.000Z</updated>
-        <summary type="html"><![CDATA[というのをチームで議論する機会があったので、書いてみます。「うちではこうしている」とか「ここはこっちのほうがいいんじゃない?」とかあったらコメントで教えてください。 背景 / 前提 データウェアハウスのテーブルを社内に広く提供したい 初期の提供時期が過ぎてしばらくすると、要望を元にスキーマの変更や集計ロ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグルが買収した日本の決済ベンチャー｢pring｣とは何者か……その狙い | Business Insider Japan]]></title>
-        <id>https://www.businessinsider.jp/post-238628</id>
-        <link href="https://www.businessinsider.jp/post-238628"/>
-        <updated>2021-07-14T00:07:59.000Z</updated>
-        <summary type="html"><![CDATA[決済・送金サービスのpring（プリン）をグーグルが買収することが正式発表された。 pringの大株主（持株比率45.3%）のメタップスは7月13日、同社が保有する全株式を譲渡すると公表した。プレスリリースによると、メタップス保有株のグーグルへの譲渡価額は49億2100万円。現時点でpringのサービスはそのまま継続されると...]]></summary>
-        <author>
-            <name>はてなブックマーク - 新着エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配色に迷ったらこれ！配色イメージを言語化して論理的に伝えられるスケールがめちゃくちゃ役に立つ「語彙力ない私にうってつけ」 - Togetter]]></title>
-        <id>https://togetter.com/li/1744709</id>
-        <link href="https://togetter.com/li/1744709"/>
-        <updated>2021-07-14T00:04:19.000Z</updated>
-        <summary type="html"><![CDATA[リンク www.ncd-ri.co.jp イメージシステム | カラー戦略の専門家 | NCD-WEB | 色彩心理・生活者研究・トレンド分析の日本カラーデザイン研究所 日本カラーデザイン研究所はオリジナルのカラーシステム「HUE&TONEシステム」やイメージ分析システム「イメージスケール」を開発、発展させてきました。 62 users かたおか＠...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard-MIT Quantum Computing Breakthrough – “We Are Entering a Completely New Part of the Quantum World”]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ojr4kr/harvardmit_quantum_computing_breakthrough_we_are/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ojr4kr/harvardmit_quantum_computing_breakthrough_we_are/"/>
-        <updated>2021-07-13T22:55:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/radiant_bear23  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[drago - Securely connect devices with WireGuard and manage all your networks from a single place.]]></title>
         <id>https://www.reddit.com/r/Cloud/comments/ojpdlt/drago_securely_connect_devices_with_wireguard_and/</id>
         <link href="https://www.reddit.com/r/Cloud/comments/ojpdlt/drago_securely_connect_devices_with_wireguard_and/"/>
@@ -925,27 +1097,6 @@ To read this article in full, please click here
  [link]   [comments]]]></summary>
         <author>
             <name>Cloud Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man Wrongfully Arrested By Facial Recognition Tells Congress His Story]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ojohl4/man_wrongfully_arrested_by_facial_recognition/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ojohl4/man_wrongfully_arrested_by_facial_recognition/"/>
-        <updated>2021-07-13T20:42:23.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/thatfiremonkey  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仏当局 グーグルに約650億円制裁と発表 記事使用料交渉めぐり | IT・ネット | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210713/k10013138211000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210713/k10013138211000.html"/>
-        <updated>2021-07-13T20:12:38.000Z</updated>
-        <summary type="html"><![CDATA[フランスの規制当局は、IT大手のグーグルが、自社のサービスで表示する記事の使用料をめぐって報道機関と誠実に交渉していないとして、日本円でおよそ650億円の制裁を科すと発表しました。 フランスの規制当局は去年4月、グーグルに対し、自社のサービスで表示する記事の使用料について報道機関と交渉するよう命じました...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -1016,17 +1167,6 @@ To read this article in full, please click here]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit Orders ‘SaveVideo’ Bot to Shut Down or Face Lawsuit]]></title>
-        <id>https://www.reddit.com/r/technology/comments/ojccls/reddit_orders_savevideo_bot_to_shut_down_or_face/</id>
-        <link href="https://www.reddit.com/r/technology/comments/ojccls/reddit_orders_savevideo_bot_to_shut_down_or_face/"/>
-        <updated>2021-07-13T09:53:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/CrazyK9  
- [link]   [comments]]]></summary>
-        <author>
-            <name>/r/Technology</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Cloud Guru acquired by Pluralsight]]></title>
         <id>https://www.reddit.com/r/Cloud/comments/oj7v7c/a_cloud_guru_acquired_by_pluralsight/</id>
         <link href="https://www.reddit.com/r/Cloud/comments/oj7v7c/a_cloud_guru_acquired_by_pluralsight/"/>
@@ -1035,16 +1175,6 @@ To read this article in full, please click here]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Cloud Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10代が支持するアプリ、2年で変化　教育系台頭: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXKZO73517330S1A700C2H21A00/</id>
-        <link href="https://www.nikkei.com/article/DGXKZO73517330S1A700C2H21A00/"/>
-        <updated>2021-07-12T23:25:54.000Z</updated>
-        <summary type="html"><![CDATA[フラー（新潟市）が手がけるアプリ分析ツール「AppApe（アップ・エイプ）」で、2019年5月と21年5月の各月の月間利用者数（MAU）が計測可能な全アプリを対象に、年代別MAU構成で10代の割合が最も高いアプリを抽出。その上で、10代のMAU上位10アプリを調べると、10アプリ中7アプリが入れ替わっていた（対象はアンドロイド...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -1102,9 +1232,9 @@ To read this article in full, please click here]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How service virtualization improves application testing]]></title>
-        <id>https://www.infoworld.com/article/3624573/how-service-virtualization-improves-application-testing.html#tk.rss_all</id>
-        <link href="https://www.infoworld.com/article/3624573/how-service-virtualization-improves-application-testing.html#tk.rss_all"/>
+        <title type="html"><![CDATA[The benefits of API and service virtualization]]></title>
+        <id>https://www.infoworld.com/article/3624573/the-benefits-of-api-and-service-virtualization.html#tk.rss_all</id>
+        <link href="https://www.infoworld.com/article/3624573/the-benefits-of-api-and-service-virtualization.html#tk.rss_all"/>
         <updated>2021-07-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[If you’re developing applications that connect to multiple microservices, software-as-a-service (SaaS) APIs, legacy systems, and other third-party services, creating a robust testing environment can be tricky. For example, suppose one API you are validating is to a microservice your team developed. In that case, you probably have devops capabilities, including continuous integration and continuous delivery (CI/CD), infrastructure as code, and tools to create test data sets to enable a testing environment for this service. However, even with these capabilities, it can become costly to spin up multiple testing services when teams develop many cloud-native applications and microservices.
 To read this article in full, please click here]]></summary>
@@ -1132,6 +1262,16 @@ To read this article in full, please click here]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>Cloud Computing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜかエンジニアをイラっとさせてしまう人の質問 - Qiita]]></title>
+        <id>https://qiita.com/haihaikazuma/items/aacb2d00c052f00c531b</id>
+        <link href="https://qiita.com/haihaikazuma/items/aacb2d00c052f00c531b"/>
+        <updated>2021-07-12T00:54:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 先日、新入社員の方から次のような相談を受けました。 「エンジニアの方に質問をすると、いつもイライラされてしまって辛いです」 ・・・・・・・・・ 確かに、エンジニアに限らず、質問をすることは非常に難しい… 質問の仕方を間違えたために相手を怒らせてしまった、なんてこともしばしばあることでしょう。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -1217,61 +1357,6 @@ To read this article in full, please click here]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jonnychipz Weekly #28 - Time]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/ohodv2/jonnychipz_weekly_28_time/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/ohodv2/jonnychipz_weekly_28_time/"/>
-        <updated>2021-07-10T18:46:15.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Jonnychipz  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Cloud Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transcribing Audio? Let’s take a quick look at the Ingestion Client for Azure Speech]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/ohnpu9/transcribing_audio_lets_take_a_quick_look_at_the/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/ohnpu9/transcribing_audio_lets_take_a_quick_look_at_the/"/>
-        <updated>2021-07-10T18:09:45.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Jonnychipz  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Cloud Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Conversation with Michael Levan]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/ohnp5n/in_conversation_with_michael_levan/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/ohnp5n/in_conversation_with_michael_levan/"/>
-        <updated>2021-07-10T18:08:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Jonnychipz  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Cloud Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gRPC and gRPC Web on Google Cloud Run (Serverless)]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/ohmx4g/grpc_and_grpc_web_on_google_cloud_run_serverless/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/ohmx4g/grpc_and_grpc_web_on_google_cloud_run_serverless/"/>
-        <updated>2021-07-10T17:26:40.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.gendocu.com/posts/grpc-on-google-cloud/
-    submitted by    /u/bartek191212  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Cloud Computing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術ようつべチャンネル集 - Qiita]]></title>
-        <id>https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7</id>
-        <link href="https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7"/>
-        <updated>2021-07-10T13:15:10.000Z</updated>
-        <summary type="html"><![CDATA[役立つYouTubeのチャンネルまとめ 物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する 取っ掛かり、ハマりがち、コツみたいな物が拾える。数学がメイン。随時更新していくつもり 背景 YouTubeは視聴する登録チャンネルの数が増えると...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Do More with R” video tutorials]]></title>
         <id>https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all</id>
         <link href="https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html#tk.rss_all"/>
@@ -1281,21 +1366,6 @@ To read this article in full, please click here]]></summary>
 To read this article in full, please click here]]></summary>
         <author>
             <name>Sharon Machlis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOW TO BECOME AN ETHICAL HACKER]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/ogwrta/how_to_become_an_ethical_hacker/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/ogwrta/how_to_become_an_ethical_hacker/"/>
-        <updated>2021-07-09T14:31:24.000Z</updated>
-        <summary type="html"><![CDATA[This video guide is about how to become an ethical hacker. The guide details information on the role an ethical hacker plays, and skills needed to become an ethical hacker.
- Ethical hackers study and professionally execute hacker attacks, and then present common risks and vulnerabilities and suggestions for improvement.
- Ethical hackers have roles depending on their specific skills or specialization. They are categorized into cybersecurity researchers, penetration testers, and information security analysts.
- To become an ethical hacker, you ideally need to complete the training and earn a CEH certification. But there are other types of certifications and courses, such as the Certified Information Systems Security Specialist (CISSP) or the Certified Registry of Ethical Security Testers (CREST).
-    submitted by    /u/Sasha-Jelvix  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Cloud Computing</name>
         </author>
     </entry>
     <entry>
@@ -1328,17 +1398,6 @@ One of the reasons we’re not seeing more attacks within public clouds is that 
 To read this article in full, please click here]]></summary>
         <author>
             <name>David Linthicum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights of Google Cloud Data Services]]></title>
-        <id>https://www.reddit.com/r/Cloud/comments/ogamxh/highlights_of_google_cloud_data_services/</id>
-        <link href="https://www.reddit.com/r/Cloud/comments/ogamxh/highlights_of_google_cloud_data_services/"/>
-        <updated>2021-07-08T16:22:09.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Joda5  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Cloud Computing</name>
         </author>
     </entry>
     <entry>
@@ -1509,16 +1568,6 @@ To read this article in full, please click here]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[githubに間違って機密データを上げてしまった時の対処 - Qiita]]></title>
-        <id>https://qiita.com/dynamonda/items/fa99d141c44098890be3</id>
-        <link href="https://qiita.com/dynamonda/items/fa99d141c44098890be3"/>
-        <updated>2021-07-06T00:06:16.000Z</updated>
-        <summary type="html"><![CDATA[GitHubにAPIのキーが書かれたファイルを上げてしまったので、対処の流れを書き残しておきます。 BFGを使用する方法とfilter-branchを使用する方法があるのですが、今回は後者をやってみました。 注意 外部にキーやパスワードなどを公開してしまった事に気づいたら、まずは対象のサービスを停止させて再発行を行ってくだ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How the cloud and big compute are remaking HPC]]></title>
         <id>https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all</id>
         <link href="https://www.infoworld.com/article/3624168/how-the-cloud-and-big-compute-are-remaking-hpc.html#tk.rss_all"/>
@@ -1558,16 +1607,6 @@ The need to scale often becomes evident when a new SaaS service hits a resource 
 To read this article in full, please click here]]></summary>
         <author>
             <name>Lee Atchison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設計を学びたいときに読みたい本一覧 - Qiita]]></title>
-        <id>https://qiita.com/getty104/items/c06773198c0244e7744d</id>
-        <link href="https://qiita.com/getty104/items/c06773198c0244e7744d"/>
-        <updated>2021-07-03T06:49:53.000Z</updated>
-        <summary type="html"><![CDATA[これは何 の参加記事です。 エンジニアとして開発をしていく以上、設計についての知識を身につけていくことはとても重要です。 とはいえ設計という言葉からは何を勉強するべきかがいまいちピンときません。 この記事では、僕が読んできた設計に関するおすすめの本を網羅的に紹介しています。 これから設計を勉強する方の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -1710,26 +1749,6 @@ To read this article in full, please click here]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ServiceNow's CIO Sees Strategic Fit for Low-Code Development]]></title>
-        <id>https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433</id>
-        <link href="https://www.informationweek.com/strategic-cio/servicenows-cio-sees-strategic-fit-for-low-code-development/d/d-id/1341433?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The reshaping of the CIO role and app development continues as more organizations find ways to include no code, low code, and citizen developers in their IT and operational strategies.]]></summary>
-        <author>
-            <name>Joao-Pierre S. Ruth Senior Writer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIOs And CFOs Are Jointly Enabling the Future of Business]]></title>
-        <id>https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371</id>
-        <link href="https://www.informationweek.com/strategic-cio/executive-insights-and-innovation/cios-and-cfos-are-jointly-enabling-the-future-of-business/a/d-id/1341371?_mc=rss_x_iwr_edt_aud_iw_x_x-rss-simple"/>
-        <updated>2021-06-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many companies are investing more in IT and infrastructure to hit the ground running in 2021. Here's what CIOs and CFOs need to know to avoid falling behind.]]></summary>
-        <author>
-            <name>Andy Wood, VP, Proxima</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Windows 11 means for developers]]></title>
         <id>https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all</id>
         <link href="https://www.infoworld.com/article/3623057/what-windows-11-means-for-developers.html#tk.rss_all"/>
@@ -1739,38 +1758,6 @@ Under the hood, Windows 11 builds on the same Windows-as-a-service model as Wind
 To read this article in full, please click here]]></summary>
         <author>
             <name>Simon Bisson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use filters in ASP.NET Core MVC]]></title>
-        <id>https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all</id>
-        <link href="https://www.infoworld.com/article/3622962/how-to-use-filters-in-aspnet-core-mvc.html#tk.rss_all"/>
-        <updated>2021-06-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Filters allow you to run code at certain stages of the request processing pipeline. In other words, we may run code before or after certain phases of the request processing pipeline by using filters in ASP.NET Core MVC 5.
-ASP.NET Core MVC contains many built-in filters. Since each filter has a distinct purpose, they are executed at different stages in the filter pipeline. The different types of filters correspond to the various pipeline stages, from authorization to execution of results. In addition to built-in filters for authorization, exception handling, etc., you can also write your own custom filters.
-
-
-[ Keep up with the latest developments in Microsoft .NET, C#, and software development. Subscribe to the InfoWorld First Look newsletter ]
-This article discusses the types of filters available in ASP.NET Core 5 and how we can work with them in our applications. To work with the code examples provided in this article, you should have Visual Studio 2019 installed in your system. If you don’t already have a copy, you can download Visual Studio 2019 here.
-To read this article in full, please click here]]></summary>
-        <author>
-            <name>Joydip Kanjilal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust tutorial: Get started with the Rust language]]></title>
-        <id>https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all</id>
-        <link href="https://www.infoworld.com/article/3234929/rust-tutorial-get-started-with-the-rust-language.html#tk.rss_all"/>
-        <updated>2021-06-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few years, Rust has gone from a curiosity brewed up in the lab of a Mozilla employee to a strong contender for writing the next generation of native apps and bare-metal solutions. But those advances come from Rust providing its own tool chain and component management system—along with its own features and quirks.
-This article walks through the basics of setting up a working environment in Rust, configuring an IDE, and making the most of the tool set Rust provides for app development.
-[ What is Rust? The way to do safe, fast, and easy software development. | Keep up with hot topics in programming with InfoWorld’s App Dev Report newsletter. ]
-
-Related video: Developing safer software with Rust
-Get up to speed quickly on newcomer Rust, designed to create fast, system-level software. This two-minute animated explainer shows how Rust bypasses the vexing programming issues of memory and management.
-To read this article in full, please click here]]></summary>
-        <author>
-            <name>Serdar Yegulalp</name>
         </author>
     </entry>
 </feed>
