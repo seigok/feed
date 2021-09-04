@@ -6,67 +6,211 @@
       "siteUrl": "https://www.reddit.com/r/technology/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/technology/comments/phh2er/godaddy_is_booting_a_site_that_sought_anonymous/",
+          "author": null,
+          "description": "submitted by    /u/Pessimist2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phh2er/godaddy_is_booting_a_site_that_sought_anonymous/",
+          "publishedOn": "2021-09-04T00:14:08.000Z",
+          "wordCount": 200,
+          "title": "GoDaddy Is Booting A Site That Sought Anonymous Tips About Texas Abortions"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phg7o9/match_group_asks_dutch_regulators_to_reveal/",
+          "author": null,
+          "description": "submitted by    /u/benh999  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phg7o9/match_group_asks_dutch_regulators_to_reveal/",
+          "publishedOn": "2021-09-03T23:20:44.000Z",
+          "wordCount": 137,
+          "title": "Match Group asks Dutch regulators to reveal possible Apple antitrust decision"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phfzjp/google_locks_afghan_government_accounts_as/",
+          "author": null,
+          "description": "submitted by    /u/NineteenEighty9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phfzjp/google_locks_afghan_government_accounts_as/",
+          "publishedOn": "2021-09-03T23:06:56.000Z",
+          "wordCount": 270,
+          "title": "Google locks Afghan government accounts as Taliban seek emails"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phfsfn/got_a_tech_question_or_want_to_discuss_tech/",
+          "author": null,
+          "description": "Greetings Good People of /r/Technology,\n Welcome to the /r/Technology Tech Support / General Discussion Thread.\n All questions must be submitted as top comments (direct replies to this post).\n As always, we ask that you keep it civil, abide by the rules of reddit and mind your reddiquette. Please hit the report button on any activity that you feel may be in violation of any of the guidelines listed above.\n Click here to review past iterations of these support discussions.\n cheers, /r/technology moderators.\n    submitted by    /u/veritanuda  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phfsfn/got_a_tech_question_or_want_to_discuss_tech/",
+          "publishedOn": "2021-09-03T22:55:25.000Z",
+          "wordCount": 284,
+          "title": "Got a tech question or want to discuss tech? Bi-Weekly /r/Technology Tech Support / General Discussion Thread"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phf6c4/lyft_and_uber_to_cover_legal_fees_of_drivers_sued/",
+          "author": null,
+          "description": "submitted by    /u/ohnoh18  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phf6c4/lyft_and_uber_to_cover_legal_fees_of_drivers_sued/",
+          "publishedOn": "2021-09-03T22:19:29.000Z",
+          "wordCount": 662,
+          "title": "Lyft and Uber to cover legal fees of drivers sued under Texas anti-abortion law"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phet51/fed_up_with_constant_cyberattacks_one_country_is/",
+          "author": null,
+          "description": "submitted by    /u/janjinx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phet51/fed_up_with_constant_cyberattacks_one_country_is/",
+          "publishedOn": "2021-09-03T21:58:52.000Z",
+          "wordCount": 280,
+          "title": "Fed up with constant cyberattacks, one country is about to make some big changes | ZDNet"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phd0m4/sony_music_says_dns_service_is_implicated_in/",
+          "author": null,
+          "description": "submitted by    /u/ourlifeintoronto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phd0m4/sony_music_says_dns_service_is_implicated_in/",
+          "publishedOn": "2021-09-03T20:18:49.000Z",
+          "wordCount": 310,
+          "title": "Sony Music Says DNS Service Is Implicated In Copyright Infringement At The Domains It Resolves"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phd026/lawsuits_say_siri_and_google_are_listening_even/",
+          "author": null,
+          "description": "submitted by    /u/sillychillly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phd026/lawsuits_say_siri_and_google_are_listening_even/",
+          "publishedOn": "2021-09-03T20:17:59.000Z",
+          "wordCount": 779,
+          "title": "Lawsuits say Siri and Google are listening, even when they're not supposed to"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phcazs/delays_arent_good_enoughapple_must_abandon_its/",
+          "author": null,
+          "description": "submitted by    /u/a_Ninja_b0y  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phcazs/delays_arent_good_enoughapple_must_abandon_its/",
+          "publishedOn": "2021-09-03T19:41:14.000Z",
+          "wordCount": 538,
+          "title": "Delays Aren't Good Enough—Apple Must Abandon Its Surveillance Plans"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/phbyf4/microsoft_reportedly_broke_windows_11_by/",
+          "author": null,
+          "description": "submitted by    /u/kry_some_more  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/phbyf4/microsoft_reportedly_broke_windows_11_by/",
+          "publishedOn": "2021-09-03T19:22:38.000Z",
+          "wordCount": 743,
+          "title": "Microsoft reportedly broke Windows 11 by injecting an ad for Teams"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/pha3bm/internet_vigilantes_are_fighting_ivermectin/",
+          "author": null,
+          "description": "submitted by    /u/Elsa-Fidelis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/pha3bm/internet_vigilantes_are_fighting_ivermectin/",
+          "publishedOn": "2021-09-03T17:44:11.000Z",
+          "wordCount": 644,
+          "title": "Internet Vigilantes Are Fighting Ivermectin Misinformation With Memes And Explicit Horse Cartoons"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph9c5f/bitcoin_uses_more_electricity_than_many_countries/",
+          "author": null,
+          "description": "submitted by    /u/geomaiday  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph9c5f/bitcoin_uses_more_electricity_than_many_countries/",
+          "publishedOn": "2021-09-03T17:05:14.000Z",
+          "wordCount": 479,
+          "title": "Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph7rj7/only_humans_not_ai_machines_can_get_a_us_patent/",
+          "author": null,
+          "description": "submitted by    /u/renatomello  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph7rj7/only_humans_not_ai_machines_can_get_a_us_patent/",
+          "publishedOn": "2021-09-03T15:45:14.000Z",
+          "wordCount": 265,
+          "title": "Only Humans, Not AI Machines, Can Get a U.S. Patent, Judge Rules"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph774j/apple_delays_controversial_child_protection/",
+          "author": null,
+          "description": "submitted by    /u/muhimalife  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph774j/apple_delays_controversial_child_protection/",
+          "publishedOn": "2021-09-03T15:16:27.000Z",
+          "wordCount": 334,
+          "title": "Apple delays controversial child protection features after privacy outcry"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph5yc8/reinvented_wind_turbine_generates_five_times_more/",
+          "author": null,
+          "description": "submitted by    /u/beef-o-lipso  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph5yc8/reinvented_wind_turbine_generates_five_times_more/",
+          "publishedOn": "2021-09-03T14:12:34.000Z",
+          "wordCount": 484,
+          "title": "Reinvented wind turbine generates five times more energy than competitive technology"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph51ws/apple_delays_controversial_plan_to_scan_iphones/",
+          "author": null,
+          "description": "submitted by    /u/bigjawgiggy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph51ws/apple_delays_controversial_plan_to_scan_iphones/",
+          "publishedOn": "2021-09-03T13:22:15.000Z",
+          "wordCount": 1236,
+          "title": "Apple delays controversial plan to scan iPhones for child exploitation images"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph4m3b/america_has_a_monopoly_problem_coalition_backs/",
+          "author": null,
+          "description": "submitted by    /u/s_y_s_t_e_m_i_c_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph4m3b/america_has_a_monopoly_problem_coalition_backs/",
+          "publishedOn": "2021-09-03T12:55:58.000Z",
+          "wordCount": 494,
+          "title": "'America Has a Monopoly Problem': Coalition Backs Legislation to Break Up Big Tech"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph3omn/paypal_introducing_20_inactivity_fee_for_canadian/",
+          "author": null,
+          "description": "submitted by    /u/WillOfTheLand  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph3omn/paypal_introducing_20_inactivity_fee_for_canadian/",
+          "publishedOn": "2021-09-03T11:55:43.000Z",
+          "wordCount": 571,
+          "title": "PayPal introducing $20 'inactivity fee' for Canadian users this fall"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph3nja/texas_website_for_snitching_on_abortion_abetters/",
+          "author": null,
+          "description": "submitted by    /u/Majnum  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph3nja/texas_website_for_snitching_on_abortion_abetters/",
+          "publishedOn": "2021-09-03T11:53:37.000Z",
+          "wordCount": 514,
+          "title": "Texas Website for Snitching on Abortion 'Abetters' May Violate Web Company's Privacy Rules"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph3epd/misinformation_on_facebook_beats_factual_news/",
+          "author": null,
+          "description": "submitted by    /u/Pessimist2020  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph3epd/misinformation_on_facebook_beats_factual_news/",
+          "publishedOn": "2021-09-03T11:36:04.000Z",
+          "wordCount": 657,
+          "title": "Misinformation on Facebook beats factual news when it comes to clicks, study finds"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/ph355a/apple_faces_probe_from_us_labor_board_over/",
+          "author": null,
+          "description": "submitted by    /u/miso25  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/ph355a/apple_faces_probe_from_us_labor_board_over/",
+          "publishedOn": "2021-09-03T11:16:57.000Z",
+          "wordCount": 214,
+          "title": "Apple faces probe from US labor board over complaints of hostile working conditions"
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/pgx5x4/better_than_batteries_a_startup_thats_storing/",
+          "author": null,
+          "description": "submitted by    /u/upyoars  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/pgx5x4/better_than_batteries_a_startup_thats_storing/",
+          "publishedOn": "2021-09-03T03:31:58.000Z",
+          "wordCount": 1073,
+          "title": "Better Than Batteries? A Startup That’s Storing Energy in Concrete Blocks Just Raised $100 Million"
+        },
+        {
           "id": "https://www.reddit.com/r/technology/comments/pgu417/a_lyft_ride_to_evacuate_lake_tahoe_during_a/",
           "author": null,
           "description": "submitted by    /u/nedryerson48  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/pgu417/a_lyft_ride_to_evacuate_lake_tahoe_during_a/",
           "publishedOn": "2021-09-03T00:19:03.000Z",
-          "wordCount": 205,
+          "wordCount": 556,
           "title": "A Lyft Ride to Evacuate Lake Tahoe During a Wildfire Cost $1500"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgsdww/black_and_lgbtq_streamers_on_twitch_boycotted_the/",
-          "author": null,
-          "description": "submitted by    /u/Drew_Pinsky  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgsdww/black_and_lgbtq_streamers_on_twitch_boycotted_the/",
-          "publishedOn": "2021-09-02T22:38:31.000Z",
-          "wordCount": 227,
-          "title": "Black and LGBTQ streamers on Twitch boycotted the platform after repeated 'hate raids'"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgrs1o/reddit_hires_bankers_and_lawyers_as_it_aims_for/",
-          "author": null,
-          "description": "submitted by    /u/altmorty  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgrs1o/reddit_hires_bankers_and_lawyers_as_it_aims_for/",
-          "publishedOn": "2021-09-02T22:06:15.000Z",
-          "wordCount": 578,
-          "title": "Reddit hires bankers and lawyers as it aims for $15bn IPO"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgrfe7/mccarthy_warns_telecoms_against_cooperating_with/",
-          "author": null,
-          "description": "submitted by    /u/esporx  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgrfe7/mccarthy_warns_telecoms_against_cooperating_with/",
-          "publishedOn": "2021-09-02T21:46:37.000Z",
-          "wordCount": 676,
-          "title": "McCarthy warns telecoms against cooperating with Jan. 6 probe"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgqehu/new_texas_abortion_law_likely_to_unleash_a/",
-          "author": null,
-          "description": "submitted by    /u/A-EFF-this  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgqehu/new_texas_abortion_law_likely_to_unleash_a/",
-          "publishedOn": "2021-09-02T20:46:52.000Z",
-          "wordCount": 647,
-          "title": "New Texas Abortion Law Likely to Unleash a Torrent of Lawsuits Against Online Education, Advocacy, and Other Speech"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgpkge/where_texas_social_media_law_abortion_law_collide/",
-          "author": null,
-          "description": "submitted by    /u/pWasHere  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgpkge/where_texas_social_media_law_abortion_law_collide/",
-          "publishedOn": "2021-09-02T20:04:03.000Z",
-          "wordCount": 216,
-          "title": "Where Texas' Social Media Law & Abortion Law Collide: Facebook Must Keep Up AND Take Down Info On Abortion"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgowdx/experimental_chlorine_battery_holds_6_times_more/",
-          "author": null,
-          "description": "submitted by    /u/Flabby-Lobster  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgowdx/experimental_chlorine_battery_holds_6_times_more/",
-          "publishedOn": "2021-09-02T19:29:27.000Z",
-          "wordCount": 203,
-          "title": "Experimental chlorine battery holds 6 times more charge than lithium-ion"
         },
         {
           "id": "https://www.reddit.com/r/technology/comments/pgkfzb/disinformation_influencers_for_hire_only_15_a_day/",
@@ -74,7 +218,7 @@
           "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/pgkfzb/disinformation_influencers_for_hire_only_15_a_day/",
           "publishedOn": "2021-09-02T15:43:25.000Z",
-          "wordCount": 929,
+          "wordCount": 936,
           "title": "“Disinformation influencers” for hire, only $15 a day"
         },
         {
@@ -83,17 +227,8 @@
           "description": "submitted by    /u/depressedloserxd  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/pgk0w5/nasa_launches_its_first_spacemining_company_in/",
           "publishedOn": "2021-09-02T15:21:22.000Z",
-          "wordCount": 471,
+          "wordCount": 429,
           "title": "NASA launches its first space-mining company in hunt for valuable Moondust"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgj4m9/amid_teslas_autopilot_probe_nearly_half_the/",
-          "author": null,
-          "description": "submitted by    /u/speckz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgj4m9/amid_teslas_autopilot_probe_nearly_half_the/",
-          "publishedOn": "2021-09-02T14:35:19.000Z",
-          "wordCount": 1401,
-          "title": "Amid Tesla’s Autopilot Probe, Nearly Half the Public Thinks Autonomous Vehicles Are Less Safe Than Normal Cars - 23% of adults say they would ride in a self-driving car, up 4 points from three years ago"
         },
         {
           "id": "https://www.reddit.com/r/technology/comments/pgiw3r/security_researcher_develops_lightning_cable_with/",
@@ -101,152 +236,8 @@
           "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/technology/comments/pgiw3r/security_researcher_develops_lightning_cable_with/",
           "publishedOn": "2021-09-02T14:22:30.000Z",
-          "wordCount": 681,
+          "wordCount": 654,
           "title": "Security Researcher Develops Lightning Cable With Hidden Chip to Steal Passwords"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgio1o/feds_are_increasing_use_of_facial_recognition/",
-          "author": null,
-          "description": "submitted by    /u/Sorin61  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgio1o/feds_are_increasing_use_of_facial_recognition/",
-          "publishedOn": "2021-09-02T14:10:41.000Z",
-          "wordCount": 492,
-          "title": "Feds are increasing use of facial recognition systems despite calls for a moratorium"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pginw0/indias_antivpn_plan_a_threat_to_privacy_internet/",
-          "author": null,
-          "description": "submitted by    /u/Brazz_Kings  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pginw0/indias_antivpn_plan_a_threat_to_privacy_internet/",
-          "publishedOn": "2021-09-02T14:10:27.000Z",
-          "wordCount": 465,
-          "title": "India's Anti-VPN Plan a Threat to Privacy, Internet Freedom: Experts"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgifxg/nasa_to_upgrade_deep_space_network_improve/",
-          "author": null,
-          "description": "submitted by    /u/depressedloserxd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgifxg/nasa_to_upgrade_deep_space_network_improve/",
-          "publishedOn": "2021-09-02T13:59:19.000Z",
-          "wordCount": 424,
-          "title": "NASA to upgrade Deep Space Network, improve linkages with probes beyond our solar system"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgif2j/the_dream_of_carbon_air_capture_edges_toward/",
-          "author": null,
-          "description": "submitted by    /u/brefromsc  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgif2j/the_dream_of_carbon_air_capture_edges_toward/",
-          "publishedOn": "2021-09-02T13:58:04.000Z",
-          "wordCount": 761,
-          "title": "The Dream of Carbon Air Capture Edges Toward Reality"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pghmyw/divorce_is_not_possible_with_us_over_space/",
-          "author": null,
-          "description": "submitted by    /u/depressedloserxd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pghmyw/divorce_is_not_possible_with_us_over_space/",
-          "publishedOn": "2021-09-02T13:13:27.000Z",
-          "wordCount": 368,
-          "title": "'Divorce is not possible' with US over space station, says Russian space chief who threatened to pull out"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pggwbo/apple_concedes_to_let_apps_like_netflix_spotify/",
-          "author": null,
-          "description": "submitted by    /u/a_Ninja_b0y  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pggwbo/apple_concedes_to_let_apps_like_netflix_spotify/",
-          "publishedOn": "2021-09-02T12:29:17.000Z",
-          "wordCount": 1043,
-          "title": "Apple concedes to let apps like Netflix, Spotify, and Kindle link to the web to sign up"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgg2hm/whatsapp_issued_secondlargest_gdpr_fine_of_225m/",
-          "author": null,
-          "description": "submitted by    /u/thewyldfire  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgg2hm/whatsapp_issued_secondlargest_gdpr_fine_of_225m/",
-          "publishedOn": "2021-09-02T11:36:06.000Z",
-          "wordCount": 522,
-          "title": "WhatsApp issued second-largest GDPR fine of €225m"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgfvy7/uk_isp_sky_feeds_realtime_customer_bandwidth_data/",
-          "author": null,
-          "description": "submitted by    /u/nixass  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgfvy7/uk_isp_sky_feeds_realtime_customer_bandwidth_data/",
-          "publishedOn": "2021-09-02T11:23:11.000Z",
-          "wordCount": 570,
-          "title": "UK ISP Sky feeds realtime customer bandwidth data to litigous anti-piracy firm"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgffdi/record_225m_fine_for_whatsapp_ireland_over_data/",
-          "author": null,
-          "description": "submitted by    /u/veritanuda  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgffdi/record_225m_fine_for_whatsapp_ireland_over_data/",
-          "publishedOn": "2021-09-02T10:50:23.000Z",
-          "wordCount": 421,
-          "title": "Record €225m fine for WhatsApp Ireland over data protection breaches"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgf1l6/international_space_station_facing_irreparable/",
-          "author": null,
-          "description": "submitted by    /u/AreebahAbedin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgf1l6/international_space_station_facing_irreparable/",
-          "publishedOn": "2021-09-02T10:21:58.000Z",
-          "wordCount": 536,
-          "title": "International Space Station facing irreparable failures, Russia warns"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pgey5u/whatsapp_fined_225m_by_irish_data_regulator_after/",
-          "author": null,
-          "description": "submitted by    /u/Mahony0509  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pgey5u/whatsapp_fined_225m_by_irish_data_regulator_after/",
-          "publishedOn": "2021-09-02T10:14:55.000Z",
-          "wordCount": 299,
-          "title": "WhatsApp fined €225m by Irish data regulator after EU ordered Dixon to raise penalty"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pg2u92/reddit_bans_antivaccine_subreddit_rnonewnormal/",
-          "author": null,
-          "description": "submitted by    /u/tyw7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pg2u92/reddit_bans_antivaccine_subreddit_rnonewnormal/",
-          "publishedOn": "2021-09-01T20:52:42.000Z",
-          "wordCount": 635,
-          "title": "Reddit bans anti-vaccine subreddit r/NoNewNormal after site-wide protest"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pg2bwa/amazon_asked_fcc_to_reject_starlink_plan_because/",
-          "author": null,
-          "description": "submitted by    /u/westphall  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pg2bwa/amazon_asked_fcc_to_reject_starlink_plan_because/",
-          "publishedOn": "2021-09-01T20:27:18.000Z",
-          "wordCount": 757,
-          "title": "Amazon asked FCC to reject Starlink plan because it can’t compete, SpaceX says"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/pg1t5g/fired_ny_credit_union_employee_nukes_21gb_of_data/",
-          "author": null,
-          "description": "submitted by    /u/badger707_XXL  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/pg1t5g/fired_ny_credit_union_employee_nukes_21gb_of_data/",
-          "publishedOn": "2021-09-01T20:01:34.000Z",
-          "wordCount": 984,
-          "title": "Fired NY credit union employee nukes 21GB of data in revenge"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/parx35/were_brandi_geurkink_senior_manager_for_advocacy/",
-          "author": null,
-          "description": "submitted by    /u/Mozilla-Foundation  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/parx35/were_brandi_geurkink_senior_manager_for_advocacy/",
-          "publishedOn": "2021-08-24T17:26:05.000Z",
-          "wordCount": 437,
-          "title": "We’re Brandi Geurkink, Senior Manager for Advocacy at Mozilla Foundation, and Guillaume Chaslot, a former Google Engineer who worked on the YouTube recommendation algorithm. Ask us anything about YouTube’s recommendation algorithm!"
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/p9xk88/got_a_tech_question_or_want_to_discuss_tech/",
-          "author": null,
-          "description": "Greetings Good People of /r/Technology,\n Welcome to the /r/Technology Tech Support / General Discussion Thread.\n All questions must be submitted as top comments (direct replies to this post).\n As always, we ask that you keep it civil, abide by the rules of reddit and mind your reddiquette. Please hit the report button on any activity that you feel may be in violation of any of the guidelines listed above.\n Click here to review past iterations of these support discussions.\n cheers, /r/technology moderators.\n    submitted by    /u/veritanuda  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/p9xk88/got_a_tech_question_or_want_to_discuss_tech/",
-          "publishedOn": "2021-08-23T11:07:01.000Z",
-          "wordCount": 1393,
-          "title": "Got a tech question or want to discuss tech? Bi-Weekly /r/Technology Tech Support / General Discussion Thread"
         }
       ]
     },
@@ -255,6 +246,15 @@
       "feedUrl": "https://www.reddit.com/r/Cloud/.rss",
       "siteUrl": "https://www.reddit.com/r/Cloud/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/Cloud/comments/pgwfzr/application_security_kanban/",
+          "author": null,
+          "description": "How are you going to create awareness and outreach for your SDLC to ensure the appropriate stakeholders know what the roles and responsibilities are towards application security?\n To visualize the Application Security work and manage it, I’m working on a Application Security Kanban board that is broken down into Work Items that are prioritized into their Workflows (link in comments).\n    submitted by    /u/blokdijkg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/Cloud/comments/pgwfzr/application_security_kanban/",
+          "publishedOn": "2021-09-03T02:46:22.000Z",
+          "wordCount": 159,
+          "title": "Application Security Kanban"
+        },
         {
           "id": "https://www.reddit.com/r/Cloud/comments/pgq1ap/how_to_think_like_a_cloudnative_engineer/",
           "author": null,
@@ -450,7 +450,7 @@
           "description": "submitted by    /u/connectsteven  \n [link]   [comments]",
           "link": "https://www.reddit.com/r/Cloud/comments/pcldrb/cloud_security_is_a_vital_need_for_all_businesses/",
           "publishedOn": "2021-08-27T11:22:41.000Z",
-          "wordCount": 169,
+          "wordCount": 174,
           "title": "Cloud security is a vital need for all businesses. Let's look at what cloud security is, as well as the difficulties, advantages, and best practices associated with it."
         },
         {
@@ -461,15 +461,6 @@
           "publishedOn": "2021-08-27T08:42:50.000Z",
           "wordCount": 203,
           "title": "New Compute Solution, alternative to VDI"
-        },
-        {
-          "id": "https://www.reddit.com/r/Cloud/comments/pcbaph/microsoft_azure_data_engineer_certification_dp_203/",
-          "author": null,
-          "description": "submitted by    /u/Successful-Aide3077  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/Cloud/comments/pcbaph/microsoft_azure_data_engineer_certification_dp_203/",
-          "publishedOn": "2021-08-26T23:33:09.000Z",
-          "wordCount": 134,
-          "title": "Microsoft Azure Data Engineer Certification DP 203"
         },
         {
           "id": "https://www.reddit.com/r/Cloud/comments/pca5hf/beginner_question_about_running_programs_in_the/",
@@ -488,12 +479,219 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348651.html",
+          "author": null,
+          "description": "株式会社電算システムは9月1日、Google Meet上で音声認識による字幕送信機能などを使えるようになる「こえもじ」を公開した。Google Chrome向けの拡張機能で、無料で利用できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348651.html",
+          "publishedOn": "2021-09-03T12:08:25.000Z",
+          "wordCount": 102,
+          "title": "Google Meetで文字起こしやチャット保存を実現する無償のChrome拡張 - PC Watch"
+        },
+        {
+          "id": "https://b.hatena.ne.jp/entry/4707818856993564514/comment/mukudori69",
+          "author": null,
+          "description": "このブックマークは合計 {{ #hasPurple }}Purple Star {{ purpleCount }}{{ /hasPurple }} {{ #hasBlue }}Blue Star {{ blueCount }}{{ /hasBlue }} {{ #hasRed }}Red Star {{ redCount }}{{ /hasRed }} {{ #hasGreen }}Green Star {{ greenCount }}{{ /hasGreen }} {{ #hasYellow }}Normal Star {{ yellowCount }}{{ /h...",
+          "link": "https://b.hatena.ne.jp/entry/4707818856993564514/comment/mukudori69",
+          "publishedOn": "2021-09-03T11:46:17.000Z",
+          "wordCount": 288,
+          "title": "固執と言いますが、あなたは「並列してない」と主張するのみで論理的な説明をしていません。ご自身の言っていることさえ理解していないだけでは？あなたを異常とは思いませんが、論理的思考力に欠けた方とは思います - mukudori69 のブックマーク / はてなブックマーク"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348534.html",
+          "author": null,
+          "description": "FFF SMART LIFE CONNECTED株式会社は、Android 11を搭載した10.1型タブレット「FFF-TAB10A3」を9月4日より出荷開始する。価格は2万9,800円だが、100台限定で1万9,800円で販売する。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348534.html",
+          "publishedOn": "2021-09-03T11:26:10.000Z",
+          "wordCount": 107,
+          "title": "Android 11搭載10.1型WUXGAタブレット。100台限定19,800円 - PC Watch"
+        },
+        {
+          "id": "https://photoshopvip.net/130989",
+          "author": null,
+          "description": "この記事では、Webデザインの引き出しを増やす、コピペで使える最新HTML／CSSスニペットをまとめてご紹介します。 Codepenで話題となっているものを中心に、今後のデザイン制作に活用したいアイデアがずらり揃った今回。新しいウェブデザインの可能性を感じるものばかりとなっています。 https://photoshopvip.net/12989...",
+          "link": "https://photoshopvip.net/130989",
+          "publishedOn": "2021-09-03T10:52:06.000Z",
+          "wordCount": 564,
+          "title": "Webデザインの種明かし、コピペできる最新HTML／CSSスニペット30個まとめ - PhotoshopVIP"
+        },
+        {
+          "id": "https://speakerdeck.com/k0kubun/cd-conference-2021",
+          "author": null,
+          "description": "Transcript 数時間かかる週一リリースを 毎日何度も爆速で できるようにするまで @k0kubun / Takashi Kokubun - CI/CD Conference 2021 自己紹介 • GitHub, Twitter: @k0kubun • Treasure Data ◦ API: プラットフォーム 1年 ◦ SRE: デプロイ 1年 ◦ Backend: ストレージ 2年半 None 今日話すこと • なぜ継続的にリリース...",
+          "link": "https://speakerdeck.com/k0kubun/cd-conference-2021",
+          "publishedOn": "2021-09-03T09:46:45.000Z",
+          "wordCount": 648,
+          "title": "数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/09/singapore-gives-up-goal-of-covid-zero.html",
+          "author": null,
+          "description": "豪に続いてワクチン接種率8割のシンガポールもゼロコロナ断念2021.09.03 17:005,331 Matt Novak - Gizmodo US ［原文］ （ satomi ） Image: Ore Huiying/Getty Images News ゼロはムリ。 デルタ株でゲームのルールが変わるなか、ベトナム、オーストラリアに続いてシンガポールもゼロコロナの夢を捨て、ウィズコロナに方...",
+          "link": "https://www.gizmodo.jp/2021/09/singapore-gives-up-goal-of-covid-zero.html",
+          "publishedOn": "2021-09-03T08:26:20.000Z",
+          "wordCount": 87,
+          "title": "豪に続いてワクチン接種率8割のシンガポールもゼロコロナ断念 | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://zenn.dev/lotz/articles/b0188c41d56786290897",
+          "author": null,
+          "description": "Haskellは関数型プログラミング言語と呼ばれますが、関数だけでなく型も重要な役割を担っています。アルゴリズムを考える時、手続きの最適化だけでなく、正しいデータ型を選択することがシンプルなアルゴリズムを導き、実装をコンパクトにできるというのはよくある話です。今回は非常に単純な型でありながら幅優先探索と...",
+          "link": "https://zenn.dev/lotz/articles/b0188c41d56786290897",
+          "publishedOn": "2021-09-03T07:51:27.000Z",
+          "wordCount": 1017,
+          "title": "Levelsモナドを使った幅優先探索の仕組み"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348439.html",
+          "author": null,
+          "description": "ASUSは9月2日(台湾時間)、13.3型/15.6型モバイル有機ELなどディスプレイ製品を複数発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348439.html",
+          "publishedOn": "2021-09-03T07:50:14.000Z",
+          "wordCount": 151,
+          "title": "ASUS、世界初を謳う13.3型有機ELモバイルディスプレイ。プロ向け31.5型4Kも - PC Watch"
+        },
+        {
+          "id": "https://note.com/tadaki/n/n1f3354db38f7",
+          "author": null,
+          "description": "こんにちは！アルプのデザイナーの大澤 (@Tadaki) です。 先日デジタル庁でデザインシステム勉強会の記事が公開されましたね。活用事例として私が所属するアルプでのデザインシステムについて紹介できればと思います。 アルプではサブスクリプションビジネスを行う企業向けに、今まで手作業や自社開発がスタンダードだっ...",
+          "link": "https://note.com/tadaki/n/n1f3354db38f7",
+          "publishedOn": "2021-09-03T07:02:52.000Z",
+          "wordCount": 141,
+          "title": "業務を効率化させるデザインシステム｜Tadaki｜note"
+        },
+        {
+          "id": "https://speakerdeck.com/ytaka23/cicd-conference-2021",
+          "author": null,
+          "description": "Transcript 君のセキュリティは デプロイするまでもなく 間違っている。 #CICD2021 #CICD2021_B チェシャ猫 (@y_taka_23) CI/CD Conference 2021 (3rd Sep. 2021) この設定、デプロイして大丈夫…？ Semantic-based Automated Reasoning for AWS Access Policies using SMT J. Backes et al. (2018) https://d1.awsstatic...",
+          "link": "https://speakerdeck.com/ytaka23/cicd-conference-2021",
+          "publishedOn": "2021-09-03T06:38:38.000Z",
+          "wordCount": 1174,
+          "title": "君のセキュリティはデプロイするまでもなく間違っている #CICD2021 / CICD Conference 2021 - Speaker Deck"
+        },
+        {
+          "id": "https://tech-blog.rakus.co.jp/entry/20210903/youtube",
+          "author": null,
+          "description": "技術広報のyayawowoです。 エンジニアの皆さん、プログラミングの勉強は捗っていますか？ 効率的な学習ができていますか？ 本記事では、昨今盛り上がり続けているYoutube市場で、 プログラミング学習をメインで配信している国内・国外のチャンネルをご紹介します。 動画を見ながらコーディング学習もできるので、一石二...",
+          "link": "https://tech-blog.rakus.co.jp/entry/20210903/youtube",
+          "publishedOn": "2021-09-03T06:08:10.000Z",
+          "wordCount": 1164,
+          "title": "【2021年版】国内外Tech系YouTubeチャンネル10選 - 登録者数順まとめ！ - - RAKUS Developers Blog | ラクス エンジニアブログ"
+        },
+        {
+          "id": "https://twitter.com/y_taka_23/status/1433664888899977216",
+          "author": null,
+          "description": "本日の発表資料です。AWS IAM の意味論を SMT ソルバに解かせることで、デプロイ前にセキュリティ上の問題を検出するエンジン Zelkova の論文について解説します。 #CICD2021 #CICD2021B 君のセキ… https://t.co/RwhQyMY7Rh",
+          "link": "https://twitter.com/y_taka_23/status/1433664888899977216",
+          "publishedOn": "2021-09-03T06:00:52.000Z",
+          "wordCount": 196,
+          "title": "チェシャ猫 on Twitter: \"本日の発表資料です。AWS IAM の意味論を SMT ソルバに解かせることで、デプロイ前にセキュリティ上の問題を検出するエンジン Zelkova の論文について解説します。 #CICD2021 #CICD2021B 君のセキ… https://t.co/RwhQyMY7Rh\""
+        },
+        {
+          "id": "https://japan.googleblog.com/2021/09/15trendtips.html",
+          "author": null,
+          "description": "メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。",
+          "link": "https://japan.googleblog.com/2021/09/15trendtips.html",
+          "publishedOn": "2021-09-03T05:51:26.000Z",
+          "wordCount": 831,
+          "title": "Google Japan Blog: Google トレンドを活用するための 15 のヒント"
+        },
+        {
+          "id": "https://www.praha-inc.com/lab/posts/commit-message",
+          "author": null,
+          "description": "Gitを用いた開発作業を行う際、意図がわからないメッセージのコミットを積み重ねていくと、コミットログを見る人の負担が増えたり、コミットログを活用する習慣がなくなっていき、開発効率の低下を招きます。このような課題を未然に防ぐために、読み手を意識した「いいコミットメッセージ」を書いていく必要がありますが...",
+          "link": "https://www.praha-inc.com/lab/posts/commit-message",
+          "publishedOn": "2021-09-03T05:24:08.000Z",
+          "wordCount": 10,
+          "title": "いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB"
+        },
+        {
+          "id": "https://speakerdeck.com/kesin11/cdfalsebotorunetukuwoba-wo-dekiteimasuka-bigquerydebirudoqing-bao-datusiyubodowogou-zhu-sitahua",
+          "author": null,
+          "description": "Transcript CI/CDͷϘτϧωοΫΛ೺ѲͰ͖͍ͯ·͔͢ʁ BigQueryͰϏϧυ৘ใμογϡϘʔυΛ   ߏஙͨ͠࿩ CI/CD Conference 2021ʢ2021/09/03ʣ Ճ੉݈ଠ @Kesin11 ࣗݾ঺հ • ॴଐɿDeNAͷSWETάϧʔϓʢSoftWare Engineer in Testʣ • Twitterɿ@Kesin11ɺGitHubɿKesin11 • CI/CDαʔϏεͷϚχΞͳͷͰ༗໊ͳαʔϏε͸େମνϣοτϫΧϧ • ͜͜2೥΄ͲओʹϞόΠϧήʔϜͷJenkinsͷߏஙɺӡ༻ɺύΠϓϥΠϯߏங • CEDEC2020ʮϞ バ Πϧ ゲ ʔϜ։ൃʹ͓͚ΔJenkins...",
+          "link": "https://speakerdeck.com/kesin11/cdfalsebotorunetukuwoba-wo-dekiteimasuka-bigquerydebirudoqing-bao-datusiyubodowogou-zhu-sitahua",
+          "publishedOn": "2021-09-03T04:49:44.000Z",
+          "wordCount": 549,
+          "title": "CI/CDのボトルネックを把握できていますか？BigQueryでビルド情報ダッシュボードを構築した話 - Speaker Deck"
+        },
+        {
+          "id": "https://opensourcerails.org/",
+          "author": null,
+          "description": "Open-Source Ruby on Rails Applications A curated list of great open-source Ruby on Rails applications.",
+          "link": "https://opensourcerails.org/",
+          "publishedOn": "2021-09-03T04:35:25.000Z",
+          "wordCount": 1278,
+          "title": "OpenSourceRails.org"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/directconnect-redundantize/",
+          "author": null,
+          "description": "こんにちは。 ご機嫌いかがでしょうか。 \"No human labor is no human error\" が大好きな ネクストモード株式会社 の吉井です。 2021年9月2日に東京リージョンで Direct Connect 接続が失われるトラブルが発生しました。 Direct Connect は AWS VPC とオンプレミスデータセンターや拠点を専用線で結ぶサービスです。 高...",
+          "link": "https://dev.classmethod.jp/articles/directconnect-redundantize/",
+          "publishedOn": "2021-09-03T04:23:59.000Z",
+          "wordCount": 751,
+          "title": "トラブルに学ぶ Direct Connect 冗長化 | DevelopersIO"
+        },
+        {
+          "id": "https://gigazine.net/news/20210903-o-mg-cable-leak-key-type/",
+          "author": null,
+          "description": "一見すると普通のUSBケーブルですが、実際にPCに挿すと悪意のある挙動をしてハッキングの手助けをするというのが「O.MGケーブル」です。これまでも通常のUSBケーブルと見分けがつかないO.MGケーブルが発表されていたのですが、新たにPCのキーボードに打ち込んだ内容を保存するキーロガーを内蔵し、Wi-Fi経由で入力内容を...",
+          "link": "https://gigazine.net/news/20210903-o-mg-cable-leak-key-type/",
+          "publishedOn": "2021-09-03T03:28:47.000Z",
+          "wordCount": 233,
+          "title": "一見普通のUSBケーブルなのにキーボードで打ち込んだ内容をすべてWi-Fi経由で外部に送信してしまう「O.MGケーブル」が登場 - GIGAZINE"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2021-release/",
+          "author": null,
+          "description": "We are pleased to announce that the September 2021 release of the Python Extension for Visual Studio Code is now available. You can download the Python extension from the Marketplace, or install it directly from the extension gallery in Visual Studio Code. If you already have the Python extension...",
+          "link": "https://devblogs.microsoft.com/python/python-in-visual-studio-code-september-2021-release/",
+          "publishedOn": "2021-09-03T03:26:54.000Z",
+          "wordCount": 2376,
+          "title": "Python in Visual Studio Code – September 2021 Release | Python"
+        },
+        {
+          "id": "https://hachibeechan.hateblo.jp/entry/domain-driven-deskwork",
+          "author": null,
+          "description": "DDD失敗パターン集 DDDという方法論それ自体に対する僕の立場はあんま好きじゃない寄りのフラット（といいつつほぼ忘れかけている）なんですが、過去何度もDDDでプロジェクトが爆死するのをみたり、爆破してしまったり……というのを見てきたので供養したいとおもいます。 メンバーの大半がDDDを知らない 「えっ!? ドメイ...",
+          "link": "https://hachibeechan.hateblo.jp/entry/domain-driven-deskwork",
+          "publishedOn": "2021-09-03T02:37:47.000Z",
+          "wordCount": 285,
+          "title": "実はDDDってしっくりこないんです - タオルケット体操"
+        },
+        {
+          "id": "https://tech.classi.jp/entry/2021/09/03/070000",
+          "author": null,
+          "description": "こんにちは、サイバーセキュリティ推進部の野溝(@nomizooone)です。普段はClassiサービスの脆弱性診断や顧客対応などを担当しています。 先日、Hardening Projectにより開催された/dev/hardening – Hardening Drivers Conference 2021 のセッション「CSIRTの受援力」にて、私を含むClassiサイバーセキュリティ推進部の3...",
+          "link": "https://tech.classi.jp/entry/2021/09/03/070000",
+          "publishedOn": "2021-09-03T02:19:33.000Z",
+          "wordCount": 163,
+          "title": "Hardening Drivers Conference 2021でCSIRTの受援力についてパネルディスカッションをしました - Classi開発者ブログ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/03/news083.html",
+          "author": null,
+          "description": "ZOZOテクノロジーズが10年分のファッションのデータセットをオープンソース化。流行が変化してもAIの認識精度を高く保つ研究への活用を見込む。 ZOZOテクノロジーズは9月2日、服のコーディネート約255万件とアイテム約200万件などを含むデータセット「Shift15M」をオープンソースとしてGitHubで公開したと発表した。服の...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/03/news083.html",
+          "publishedOn": "2021-09-03T01:58:27.000Z",
+          "wordCount": 146,
+          "title": "ZOZO、10年分のファッションデータをオープンソース化　流行に左右されないAI研究に期待 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/03/news053.html",
+          "author": null,
+          "description": "Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 独カールスルーエ工科大学と英ランカスター大学の研究チームが開発した「EarRumble」は、耳鳴りを発生させる筋肉収縮を利用してモ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/03/news053.html",
+          "publishedOn": "2021-09-03T00:16:33.000Z",
+          "wordCount": 145,
+          "title": "耳鳴りでスマホを操作するイヤフォン「EarRumble」　でも使える人は4割だけ：Innovative Tech - ITmedia NEWS"
+        },
+        {
           "id": "https://ymotongpoo.hatenablog.com/entry/seeking-sre",
           "author": null,
           "description": "はじめに こんにちは、Cloud Operations担当者です。このたび私が監訳者として関わった「SREの探求―様々な企業におけるサイトリライアビリティエンジニアリングの導入と実践」という本がオライリー・ジャパン社より出版されました。本日より書店ならびに各社オンラインストアでご購入いただけます。 SREの探求 ―様々な企...",
           "link": "https://ymotongpoo.hatenablog.com/entry/seeking-sre",
           "publishedOn": "2021-09-03T00:03:25.000Z",
-          "wordCount": 399,
+          "wordCount": 413,
           "title": "「SREの探求」という本が出版されました #seekingsre - YAMAGUCHI::weblog"
         },
         {
@@ -506,238 +704,22 @@
           "title": "次世代の監視技術 - Telemetry技術のご紹介 - NTT Communications Engineers' Blog"
         },
         {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1348400.html",
+          "id": "https://news.mynavi.jp/article/20210903-wadai7/",
           "author": null,
-          "description": "米Microsoftは9月2日（現地時間）、「Windows 11」と「Windows 10 バージョン 21H2」のコマーシャルプレビューを開始した。職場で多数のデバイスを集中管理している管理者が、正式リリース前に新しいOSと機能アップデートの機能を調査・検証できるように配慮したものだ。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1348400.html",
-          "publishedOn": "2021-09-02T21:09:55.000Z",
-          "wordCount": 188,
-          "title": "「Windows 11」「Windows 10 バージョン 21H1」の商用プレビューが開始 - 窓の杜"
+          "description": "【神業!】Excleショートカットキー「Ctrl+E」が便利すぎると感動の声多数! - 関数もカンマ区切りも不要の驚きテクニック 日々仕事で使う方も多いであろう「Excel」。キーボードを使って操作する「ショートカットキー」を覚えることで、仕事のスピードがさらに上がります。「Ctrl+C」のコピーや「Ctrl+V」のペーストと言...",
+          "link": "https://news.mynavi.jp/article/20210903-wadai7/",
+          "publishedOn": "2021-09-02T22:52:38.000Z",
+          "wordCount": 365,
+          "title": "【神業!】Excleショートカットキー「Ctrl+E」が便利すぎると感動の声多数! - 関数もカンマ区切りも不要の驚きテクニック | マイナビニュース"
         },
         {
-          "id": "https://togetter.com/li/1768559",
+          "id": "https://blog.animereview.jp/2021ipa-zero-trust/",
           "author": null,
-          "description": "かなかわ @kanakawa12 管理者AI「人間は愚かだ。その上弱い。だからそれぞれの適性にあった職をこちらで用意し、栄養素を管理した食事を与え、病気もさせずに管理されている方が幸せなのだ」 主人公「それは違う！人間はどんな困難も乗り越えるべきなんだ！管理される幸せなど偽りだ！」 大衆「えっ？いや……？」 2021-09...",
-          "link": "https://togetter.com/li/1768559",
-          "publishedOn": "2021-09-02T16:38:53.000Z",
-          "wordCount": 1330,
-          "title": "AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter"
-        },
-        {
-          "id": "https://ics.media/entry/210902/",
-          "author": null,
-          "description": "いずれもMITライセンスで公開されていますので、個人・商用問わず利用可能です。 Slick.js Slickスリック.jsは簡潔なコードで実装できるのが特徴のモバイルフレンドリーなカルーセルライブラリです。機能は少なめですが、ナビゲーションや表示するスライド数を変更するといった基本的な機能は備わっています。jQueryプラ...",
-          "link": "https://ics.media/entry/210902/",
-          "publishedOn": "2021-09-02T13:42:20.000Z",
-          "wordCount": 550,
-          "title": "カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介 - ICS MEDIA"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
-          "author": null,
-          "description": "デジタル庁の事務方トップ「デジタル監」に就任した石倉洋子氏の発足式での発言が物議を呼んでいる。石倉デジタル監は報道陣との質疑応答で何を言っていたのか。一問一答形式でまとめた。石倉デジタル監はPythonに挑戦した経験もあるという。 菅政権の肝いり政策として、9月1日に発足したデジタル庁。その事務方トップ「...",
-          "link": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
-          "publishedOn": "2021-09-02T12:24:22.000Z",
-          "wordCount": 156,
-          "title": "「私はデジタルの専門家でもエンジニアでもない」――石倉洋子デジタル監の発言が話題に　質疑での発言全文 - ITmedia NEWS"
-        },
-        {
-          "id": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
-          "author": null,
-          "description": "JestでTypeScriptを高速化するJestでテストの高速化させる方法を紹介します。トランスフォーマーとしてesbuildやswcを紹介し、TypeScriptで遅くなりがちなトランスパイルを高速化させることで、テストを自体を高速化します。 はじめにesbuild の登場により、フロントエンドの世界は、開発環境により速度を求めるようにな...",
-          "link": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
-          "publishedOn": "2021-09-02T11:58:21.000Z",
-          "wordCount": 440,
-          "title": "JestでTypeScriptを高速化する | miyauci.me"
-        },
-        {
-          "id": "https://bizble.asahi.com/articles/2021083100028.html",
-          "author": null,
-          "description": "若い世代の「価値観」は新たな環境の変化でどんどん進化を繰り返すといわれます。「おひとりさま」や「草食系男子」「年の差婚」などの言葉を世に広めたマーケティングライターの牛窪恵さんが、「さとり世代」や「Z世代」の考え方、ものの見方について読み解きます。 みなさん、こんにちは。 マーケティングライターで、...",
-          "link": "https://bizble.asahi.com/articles/2021083100028.html",
-          "publishedOn": "2021-09-02T11:46:25.000Z",
-          "wordCount": 293,
-          "title": "ゆとり世代は「コスパ」、Z世代は「タムパ」若者の「価値観」は進化する！ | bizble（ビズブル）"
-        },
-        {
-          "id": "https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722",
-          "author": null,
-          "description": "hiboma.hatenadiary.jp こちらのアンサー記事を書いてみますw なぜ CoW の話が出てきたのか なぜCoWを気にしたのかを話すとまず社内で動かしているAPIサーバがメモリ利用過多となってアラートがなったのが話のスタートでした。サービス自体はUnicornを使って動いています。 メモリ利用過多となったときに調べる手法は言...",
-          "link": "https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722",
-          "publishedOn": "2021-09-02T11:26:47.000Z",
-          "wordCount": 211,
-          "title": "【Ruby】LinuxとRubyとCoW - 地方エンジニアの学習日記"
-        },
-        {
-          "id": "https://codebook.machinarecord.com/9917/",
-          "author": null,
-          "description": "2020年12月、ネットワーク管理製品の SolarWinds Orion プラットフォームを狙ったサプライチェーン攻撃が発覚しました(*1)。 国内外で大きく報道されたこの攻撃では、多くの米国の政府機関や民間企業のネットワークが被害を受けたとされています。 先月ニュースで話題となったメルカリのデータ流出に影響を与えたとされ...",
-          "link": "https://codebook.machinarecord.com/9917/",
-          "publishedOn": "2021-09-02T11:11:24.000Z",
-          "wordCount": 462,
-          "title": "ソフトウェアサプライチェーン攻撃とは何か【ユーザーの対策編】| Codebook | Machina Record"
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/09/chrome-short-cut-7.html",
-          "author": null,
-          "description": "Google Chromeには、ページ閲覧や仕事で使えるさまざまなショートカットが用意されています。今回は、あまり知られていないけれど、活用すれば仕事効率アップに大きく貢献してくれる7つのショートカットをご紹介します。",
-          "link": "https://www.lifehacker.jp/2021/09/chrome-short-cut-7.html",
-          "publishedOn": "2021-09-02T11:03:56.000Z",
-          "wordCount": 47,
-          "title": "仕事効率が向上！Chromeの知られざるショートカット7選 | ライフハッカー［日本版］"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/128071",
-          "author": null,
-          "description": "みずほフィナンシャルグループ（ＦＧ）が、基幹システムの開発などを担当する人員を、システムの本格稼働後に約６割削減したことが３１日、分かった。今年６回の障害を起こしたみずほのシステムは全体像を把握するのが難しいほど規模が大きく、システムに習熟した人員を削減したことが障害の多発に影響した可能性もある...",
-          "link": "https://www.tokyo-np.co.jp/article/128071",
-          "publishedOn": "2021-09-02T11:02:24.000Z",
-          "wordCount": 292,
-          "title": "システム担当者を６割削減　みずほ、障害多発に影響か：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://nazology.net/archives/95733",
-          "author": null,
-          "description": "Credit:Yuhang Li（Guangdong University of Technology）_Design of a Flying Humanoid Robot Based on Thrust Vector Control（2021） 全ての画像を見る 「空を飛ぶ人型ロボット」には、それが実用的かどうかはさておき、ロマンがあります。 そんな夢の実現に一歩近づいたのは、中国・広東工業大学（Guangdong Univers...",
-          "link": "https://nazology.net/archives/95733",
-          "publishedOn": "2021-09-02T10:25:10.000Z",
-          "wordCount": 420,
-          "title": "ついに飛行する二足歩行ロボットが誕生！ - ナゾロジー"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
-          "author": null,
-          "description": "米Adobeは9月1日（現地時間）、コードエディター「Brackets」のサポートを終了した。同社は、パートナー関係にあるMicrosoftが開発を主導する「Visual Studio Code」への移行を呼び掛けている。「Brackets」の利用や保守、改善を継続したい場合は、「GitHub」のプロジェクトサイトからソースコードをフォークすることも可能。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
-          "publishedOn": "2021-09-02T10:23:35.000Z",
-          "wordCount": 138,
-          "title": "Adobe、「Brackets」のサポートを終了 ～「Visual Studio Code」への移行を - 窓の杜"
-        },
-        {
-          "id": "https://zenn.dev/koduki/articles/ba54daaba28f93",
-          "author": null,
-          "description": "はじめに 新方針でDocker Desktopが大企業での利用の場合は商用ライセンスの使用が必要になるようです。新料金体系は8/31から実施ですが、2022年1月31日まで猶予期間があります。 個人やスモールビジネス、あるいは教育やOSSプロダクトなどは継続して無料版のPersonalを利用できるようですが、従業員数250人以上/年間売...",
-          "link": "https://zenn.dev/koduki/articles/ba54daaba28f93",
-          "publishedOn": "2021-09-02T09:28:01.000Z",
-          "wordCount": 368,
-          "title": "Docker Desktopの代替方法 - Windows and Mac編"
-        },
-        {
-          "id": "https://note.com/hal_sk/n/n916a422caafd",
-          "author": null,
-          "description": "行政文章のMarkdown化、進めていきたい。公開時だけでなく、普段からMarkdownでやりとりできるといいんだけどな。Wordを使って文章作ってる人をターゲットにしたMarkdownエディタを作ってみたい。 HackMDでもまだ難しいイメージ。実務に寄せていく必要がある。https://t.co/3iVDjXVHcQ — Hal Seki (@hal_sk) August 31, ...",
-          "link": "https://note.com/hal_sk/n/n916a422caafd",
-          "publishedOn": "2021-09-02T08:10:47.000Z",
-          "wordCount": 184,
-          "title": "行政文章はMarkdownで管理できるか｜Hal Seki｜note"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1348231.html",
-          "author": null,
-          "description": "Microsoftは1日(現地時間)、iOS向けのOffice Mobileアプリに、リアルタイム文字起こし機能を追加したと発表した。iPhoneといったiOSデバイスのマイクで拾った音声を即座に文字化できる。 バージョン2.53(21083001)より提供されるが、日本語に対応しているかは不明。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1348231.html",
-          "publishedOn": "2021-09-02T07:30:15.000Z",
-          "wordCount": 94,
-          "title": "iPhone用Officeにリアルタイム文字起こし機能 - PC Watch"
-        },
-        {
-          "id": "https://bookmark.hatenastaff.com/entry/2021/09/02/160546",
-          "author": null,
-          "description": "いつもはてなブックマークをご利用いただきありがとうございます。 本日より、自分のブックマークした記事を検索できる機能「マイブックマーク検索」を強化し、検索結果をカスタマイズできるようになりました。 マイブックマークの検索結果を「保存した日の新しい（古い）順」もしくは「ブックマーク数の多い（少ない）...",
-          "link": "https://bookmark.hatenastaff.com/entry/2021/09/02/160546",
-          "publishedOn": "2021-09-02T07:17:00.000Z",
-          "wordCount": 97,
-          "title": "マイブックマーク検索の機能を強化し、検索結果の並び替えや絞り込みができるようになりました（PC版ブラウザ） - はてなブックマーク開発ブログ"
-        },
-        {
-          "id": "https://blog.studio.design/ja/posts/20210901",
-          "author": null,
-          "description": "2021年9月1日 13:33~17:30頃においてSTUDIOサービス全体の接続が不安定な状態となっていた障害についての詳細",
-          "link": "https://blog.studio.design/ja/posts/20210901",
-          "publishedOn": "2021-09-02T06:34:38.000Z",
-          "wordCount": 6,
-          "title": "2021/9/1に発生したSTUDIOサービス全体における障害の経緯について"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/review/minireview/1348230.html",
-          "author": null,
-          "description": "スカパー! が、50チャンネルの番組に一発で飛ぶことができる 「スカパー オリジナルのテレビリモコン」を抽選で50人にプレゼントするという情報が編集部に寄せられた。「50チャンネルに一発で飛べる」という意味がよくわからなかったので問い合わせてみると、「触ってみてください」というメッセージと共に、“全長50cmのリモコン”が編集部に届いた。自分でも何を言っているのかよくわからない。",
-          "link": "https://av.watch.impress.co.jp/docs/review/minireview/1348230.html",
-          "publishedOn": "2021-09-02T06:29:32.000Z",
-          "wordCount": 103,
-          "title": "【ミニレビュー】“50チャンネルに一発で飛べるリモコン”借りたら、長すぎた - AV Watch"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1348214.html",
-          "author": null,
-          "description": "Twitterは、スパムや不快と思われる返信を自動でブロックする機能「安全モード」を小規模グループに向けベータ実装すると発表した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1348214.html",
-          "publishedOn": "2021-09-02T06:23:12.000Z",
-          "wordCount": 90,
-          "title": "Twitter、不快なユーザーを自動ブロックする機能を実装へ。収益が得られるスーパーフォローも - PC Watch"
-        },
-        {
-          "id": "https://techblog.gaudiy.com/entry/2021/09/02/110026",
-          "author": null,
-          "description": "こんにちは。エンタメ業界のDXを進めるブロックチェーンスタートアップ、Gaudiyで主にバックエンドを担当しているkei(@kei32bit)です。 自分がブロックチェーン技術をキャッチアップし始めたのは1年ほど前です。最初の半年間くらいは趣味として、その後はブロックチェーン企業に入って仕事でもブロックチェーンに触れる...",
-          "link": "https://techblog.gaudiy.com/entry/2021/09/02/110026",
-          "publishedOn": "2021-09-02T03:23:56.000Z",
-          "wordCount": 326,
-          "title": "未経験から1年でキャッチアップしたブロックチェーンの学習法をまとめてみた - Gaudiy Tech Blog"
-        },
-        {
-          "id": "https://speakerdeck.com/knagano1020/how-to-collect-and-utilize-information-by-notion",
-          "author": null,
-          "description": "Transcript Notionによる情報収集 と 活かし方 Katuya Nagano(@chitose_ng) 情報収集ハック 超LT会 vol4 自己紹介 2/100 % TVISION INSIGHTS株式会社 Company Writing Other Work テレビの視聴態度データを提供する会社 シニアデータサイエンティスト - 新規ソリューション開発 - クライアントワーク - R&D - マネジメン...",
-          "link": "https://speakerdeck.com/knagano1020/how-to-collect-and-utilize-information-by-notion",
-          "publishedOn": "2021-09-02T00:01:30.000Z",
-          "wordCount": 546,
-          "title": "Notionによる情報収集と活かし方 / How to collect and utilize information by Notion - Speaker Deck"
-        },
-        {
-          "id": "https://aws.amazon.com/jp/builders-flash/202109/learning-patterns-interview/",
-          "author": null,
-          "description": "builders.flash 読者の皆さん ! こんにちは ! シニアテクニカルトレーナーの吉田慶章です。 私は builders.flash で「学び」に関する記事を書いています。前回の記事では、自律的で創造的に学ぶ方法として「ラーニング・パターン」を紹介しました。 今回の記事では builders.flash で一緒に「How to be a Developer」カ...",
-          "link": "https://aws.amazon.com/jp/builders-flash/202109/learning-patterns-interview/",
-          "publishedOn": "2021-09-01T23:28:42.000Z",
-          "wordCount": 522,
-          "title": "ラーニング・パターン・インタビュー : AWS の同僚に入社してからの学習スタイルを聞いてみた - 変化を求めるデベロッパーを応援するウェブマガジン | AWS"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
-          "author": null,
-          "description": "8月の大雨は各地でさまざまな被害をもたらしたが、これから秋にかけて日本は台風シーズンとなり、引き続き大雨などへの警戒が求められる。そこで今回は、防災の日に合わせ、防災関連で定番となっているウェブサイトやアプリを紹介しよう。",
-          "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
-          "publishedOn": "2021-09-01T22:50:21.000Z",
-          "wordCount": 141,
-          "title": "知っておきたい「防災・災害対策の定番サイト＆アプリ」【地図と位置情報】 - INTERNET Watch"
-        },
-        {
-          "id": "https://www.pixiv.net/novel/show.php?id=15932690",
-          "author": null,
-          "description": "こんにちは。 ユーザーが自由に入力したテキストに対し、AIが話の展開を自動生成してくれるADV「AIダンジョン」に最近ドハマリしているので、布教をかねてリプレイを和訳してみました。 AIダンジョンとGPT-3について少し説明します。AIダンジョンは基本無料ですが、ゴールド、プラチ...",
-          "link": "https://www.pixiv.net/novel/show.php?id=15932690",
-          "publishedOn": "2021-09-01T17:00:54.000Z",
-          "wordCount": 14,
-          "title": "#1 AIダンジョンが面白いのでゾンビシナリオリプレイを掲載 | ＡＩダンジョン - あぶぶの小説シリー - pixiv"
-        },
-        {
-          "id": "https://qiita.com/baby-degu/items/d9e530ec574683bf6f24",
-          "author": null,
-          "description": "便利なツール、参考になる例など... はじめに GitHubは、最近の（ウェブ）開発に関連するすべてのワンストップショップです。フレームワーク、デモ、あらゆる種類のコレクションなど、GitHubで見つけられないものはないでしょう。しかし、この膨大な量が問題です。あまりにも多くのレポジトリがあるので、おそらく聞いた...",
-          "link": "https://qiita.com/baby-degu/items/d9e530ec574683bf6f24",
-          "publishedOn": "2021-09-01T12:31:58.000Z",
-          "wordCount": 371,
-          "title": "すべての開発者へ。人気GitHubリポジトリ9選 - Qiita"
-        },
-        {
-          "id": "https://techblog.yahoo.co.jp/entry/2021083130180585/",
-          "author": null,
-          "description": "こんにちは。ヤフーでデータエンジニア兼マネージャーをしている安藤です。 社内で利用しているAIプラットフォームの構築、提供を担当しています。 ヤフーには100を超えるサービスがあり、各サービスのデータ＊1が蓄積されています。ヤフーではこれらのデータをマルチビッグデータと呼んでいます。マルチビッグデータを...",
-          "link": "https://techblog.yahoo.co.jp/entry/2021083130180585/",
-          "publishedOn": "2021-08-31T23:17:44.000Z",
-          "wordCount": 437,
-          "title": "ヤフーのAIプラットフォーム紹介 〜 AI開発をより手軽に - Yahoo! JAPAN Tech Blog"
+          "description": "シンジです。情報セキュリティの方針として参考にされることの多い「情報セキュリティ10大脅威2021」がIPAから発表されました。情報セキュリティの脅威や被害は時代背景をうつしたものが多く、パンデミックによる影響も見て取れます。そんな時代に最適解のゼロトラストアーキテクチャで、ランキングの大半がゼロトラスト...",
+          "link": "https://blog.animereview.jp/2021ipa-zero-trust/",
+          "publishedOn": "2021-09-02T16:46:25.000Z",
+          "wordCount": 380,
+          "title": "2021年IPA10大脅威とゼロトラスト | ロードバランスすだちくん"
         }
       ]
     },
@@ -747,274 +729,265 @@
       "siteUrl": "https://b.hatena.ne.jp/entrylist/it",
       "articles": [
         {
-          "id": "https://ymotongpoo.hatenablog.com/entry/seeking-sre",
+          "id": "https://www.itmedia.co.jp/news/articles/2109/04/news028.html",
           "author": null,
-          "description": "はじめに こんにちは、Cloud Operations担当者です。このたび私が監訳者として関わった「SREの探求―様々な企業におけるサイトリライアビリティエンジニアリングの導入と実践」という本がオライリー・ジャパン社より出版されました。本日より書店ならびに各社オンラインストアでご購入いただけます。 SREの探求 ―様々な企...",
-          "link": "https://ymotongpoo.hatenablog.com/entry/seeking-sre",
-          "publishedOn": "2021-09-03T00:03:25.000Z",
-          "wordCount": 399,
-          "title": "「SREの探求」という本が出版されました #seekingsre - YAMAGUCHI::weblog"
-        },
-        {
-          "id": "https://engineers.ntt.com/entry/2021/09/02/162022",
-          "author": null,
-          "description": "こんにちは、イノベーションセンターの三島です。 本記事では、次世代の監視技術として期待されるTelemetry技術についてご紹介します。 この記事について 本記事では下記の3点を共有します。 従来の監視技術が抱える課題とTelemetryの可能性 Telemetryの技術概要と、各社の実装状況 NTT Comのネットワーク上で検証し得ら...",
-          "link": "https://engineers.ntt.com/entry/2021/09/02/162022",
-          "publishedOn": "2021-09-02T23:11:50.000Z",
-          "wordCount": 753,
-          "title": "次世代の監視技術 - Telemetry技術のご紹介 - NTT Communications Engineers' Blog"
-        },
-        {
-          "id": "https://togetter.com/li/1768559",
-          "author": null,
-          "description": "かなかわ @kanakawa12 管理者AI「人間は愚かだ。その上弱い。だからそれぞれの適性にあった職をこちらで用意し、栄養素を管理した食事を与え、病気もさせずに管理されている方が幸せなのだ」 主人公「それは違う！人間はどんな困難も乗り越えるべきなんだ！管理される幸せなど偽りだ！」 大衆「えっ？いや……？」 2021-09...",
-          "link": "https://togetter.com/li/1768559",
-          "publishedOn": "2021-09-02T16:38:53.000Z",
-          "wordCount": 1330,
-          "title": "AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter"
-        },
-        {
-          "id": "https://ics.media/entry/210902/",
-          "author": null,
-          "description": "いずれもMITライセンスで公開されていますので、個人・商用問わず利用可能です。 Slick.js Slickスリック.jsは簡潔なコードで実装できるのが特徴のモバイルフレンドリーなカルーセルライブラリです。機能は少なめですが、ナビゲーションや表示するスライド数を変更するといった基本的な機能は備わっています。jQueryプラ...",
-          "link": "https://ics.media/entry/210902/",
-          "publishedOn": "2021-09-02T13:42:20.000Z",
-          "wordCount": 550,
-          "title": "カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介 - ICS MEDIA"
-        },
-        {
-          "id": "https://arxiv.org/abs/2109.00162",
-          "author": null,
-          "description": "Generative adversary network (GAN) generated high-realistic human faces have been used as profile images for fake social media accounts and are visually challenging to discern from real ones. In this work, we show that GAN-generated faces can be exposed via irregular pupil shapes. This phenomenon...",
-          "link": "https://arxiv.org/abs/2109.00162",
-          "publishedOn": "2021-09-02T13:17:22.000Z",
-          "wordCount": 555,
-          "title": "Eyes Tell All: Irregular Pupil Shapes Reveal GAN-generated Faces"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
-          "author": null,
-          "description": "デジタル庁の事務方トップ「デジタル監」に就任した石倉洋子氏の発足式での発言が物議を呼んでいる。石倉デジタル監は報道陣との質疑応答で何を言っていたのか。一問一答形式でまとめた。石倉デジタル監はPythonに挑戦した経験もあるという。 菅政権の肝いり政策として、9月1日に発足したデジタル庁。その事務方トップ「...",
-          "link": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
-          "publishedOn": "2021-09-02T12:24:22.000Z",
+          "description": "Appleは、8月に発表した児童の性的虐待対策機能のiCloudとiMessageへの追加を延期すると発表した。ユーザーやプライバシー保護団体からのフィードバックを受けての決定。当初は米国で年内追加の予定だった。 米Appleは9月3日（現地時間）、8月5日に発表した児童の性的虐待対策の実施を延期すると発表した。ユーザー、プ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/04/news028.html",
+          "publishedOn": "2021-09-03T23:03:16.000Z",
           "wordCount": 156,
-          "title": "「私はデジタルの専門家でもエンジニアでもない」――石倉洋子デジタル監の発言が話題に　質疑での発言全文 - ITmedia NEWS"
+          "title": "Apple、児童ポルノ検知機能追加を延期　プライバシー抗議受け - ITmedia NEWS"
         },
         {
-          "id": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348651.html",
           "author": null,
-          "description": "JestでTypeScriptを高速化するJestでテストの高速化させる方法を紹介します。トランスフォーマーとしてesbuildやswcを紹介し、TypeScriptで遅くなりがちなトランスパイルを高速化させることで、テストを自体を高速化します。 はじめにesbuild の登場により、フロントエンドの世界は、開発環境により速度を求めるようにな...",
-          "link": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
-          "publishedOn": "2021-09-02T11:58:21.000Z",
-          "wordCount": 440,
-          "title": "JestでTypeScriptを高速化する | miyauci.me"
+          "description": "株式会社電算システムは9月1日、Google Meet上で音声認識による字幕送信機能などを使えるようになる「こえもじ」を公開した。Google Chrome向けの拡張機能で、無料で利用できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348651.html",
+          "publishedOn": "2021-09-03T12:08:25.000Z",
+          "wordCount": 102,
+          "title": "Google Meetで文字起こしやチャット保存を実現する無償のChrome拡張 - PC Watch"
         },
         {
-          "id": "https://bizble.asahi.com/articles/2021083100028.html",
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348534.html",
           "author": null,
-          "description": "若い世代の「価値観」は新たな環境の変化でどんどん進化を繰り返すといわれます。「おひとりさま」や「草食系男子」「年の差婚」などの言葉を世に広めたマーケティングライターの牛窪恵さんが、「さとり世代」や「Z世代」の考え方、ものの見方について読み解きます。 みなさん、こんにちは。 マーケティングライターで、...",
-          "link": "https://bizble.asahi.com/articles/2021083100028.html",
-          "publishedOn": "2021-09-02T11:46:25.000Z",
-          "wordCount": 293,
-          "title": "ゆとり世代は「コスパ」、Z世代は「タムパ」若者の「価値観」は進化する！ | bizble（ビズブル）"
+          "description": "FFF SMART LIFE CONNECTED株式会社は、Android 11を搭載した10.1型タブレット「FFF-TAB10A3」を9月4日より出荷開始する。価格は2万9,800円だが、100台限定で1万9,800円で販売する。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348534.html",
+          "publishedOn": "2021-09-03T11:26:10.000Z",
+          "wordCount": 107,
+          "title": "Android 11搭載10.1型WUXGAタブレット。100台限定19,800円 - PC Watch"
         },
         {
-          "id": "https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722",
+          "id": "https://photoshopvip.net/130989",
           "author": null,
-          "description": "hiboma.hatenadiary.jp こちらのアンサー記事を書いてみますw なぜ CoW の話が出てきたのか なぜCoWを気にしたのかを話すとまず社内で動かしているAPIサーバがメモリ利用過多となってアラートがなったのが話のスタートでした。サービス自体はUnicornを使って動いています。 メモリ利用過多となったときに調べる手法は言...",
-          "link": "https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722",
-          "publishedOn": "2021-09-02T11:26:47.000Z",
-          "wordCount": 211,
-          "title": "【Ruby】LinuxとRubyとCoW - 地方エンジニアの学習日記"
+          "description": "この記事では、Webデザインの引き出しを増やす、コピペで使える最新HTML／CSSスニペットをまとめてご紹介します。 Codepenで話題となっているものを中心に、今後のデザイン制作に活用したいアイデアがずらり揃った今回。新しいウェブデザインの可能性を感じるものばかりとなっています。 https://photoshopvip.net/12989...",
+          "link": "https://photoshopvip.net/130989",
+          "publishedOn": "2021-09-03T10:52:06.000Z",
+          "wordCount": 564,
+          "title": "Webデザインの種明かし、コピペできる最新HTML／CSSスニペット30個まとめ - PhotoshopVIP"
         },
         {
-          "id": "https://codebook.machinarecord.com/9917/",
+          "id": "https://speakerdeck.com/k0kubun/cd-conference-2021",
           "author": null,
-          "description": "2020年12月、ネットワーク管理製品の SolarWinds Orion プラットフォームを狙ったサプライチェーン攻撃が発覚しました(*1)。 国内外で大きく報道されたこの攻撃では、多くの米国の政府機関や民間企業のネットワークが被害を受けたとされています。 先月ニュースで話題となったメルカリのデータ流出に影響を与えたとされ...",
-          "link": "https://codebook.machinarecord.com/9917/",
-          "publishedOn": "2021-09-02T11:11:24.000Z",
-          "wordCount": 462,
-          "title": "ソフトウェアサプライチェーン攻撃とは何か【ユーザーの対策編】| Codebook | Machina Record"
+          "description": "Transcript 数時間かかる週一リリースを 毎日何度も爆速で できるようにするまで @k0kubun / Takashi Kokubun - CI/CD Conference 2021 自己紹介 • GitHub, Twitter: @k0kubun • Treasure Data ◦ API: プラットフォーム 1年 ◦ SRE: デプロイ 1年 ◦ Backend: ストレージ 2年半 None 今日話すこと • なぜ継続的にリリース...",
+          "link": "https://speakerdeck.com/k0kubun/cd-conference-2021",
+          "publishedOn": "2021-09-03T09:46:45.000Z",
+          "wordCount": 651,
+          "title": "数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck"
         },
         {
-          "id": "https://www.lifehacker.jp/2021/09/chrome-short-cut-7.html",
+          "id": "https://www.gizmodo.jp/2021/09/singapore-gives-up-goal-of-covid-zero.html",
           "author": null,
-          "description": "Google Chromeには、ページ閲覧や仕事で使えるさまざまなショートカットが用意されています。今回は、あまり知られていないけれど、活用すれば仕事効率アップに大きく貢献してくれる7つのショートカットをご紹介します。",
-          "link": "https://www.lifehacker.jp/2021/09/chrome-short-cut-7.html",
-          "publishedOn": "2021-09-02T11:03:56.000Z",
-          "wordCount": 47,
-          "title": "仕事効率が向上！Chromeの知られざるショートカット7選 | ライフハッカー［日本版］"
+          "description": "豪に続いてワクチン接種率8割のシンガポールもゼロコロナ断念2021.09.03 17:005,331 Matt Novak - Gizmodo US ［原文］ （ satomi ） Image: Ore Huiying/Getty Images News ゼロはムリ。 デルタ株でゲームのルールが変わるなか、ベトナム、オーストラリアに続いてシンガポールもゼロコロナの夢を捨て、ウィズコロナに方...",
+          "link": "https://www.gizmodo.jp/2021/09/singapore-gives-up-goal-of-covid-zero.html",
+          "publishedOn": "2021-09-03T08:26:20.000Z",
+          "wordCount": 87,
+          "title": "豪に続いてワクチン接種率8割のシンガポールもゼロコロナ断念 | ギズモード・ジャパン"
         },
         {
-          "id": "https://www.tokyo-np.co.jp/article/128071",
+          "id": "https://zenn.dev/lotz/articles/b0188c41d56786290897",
           "author": null,
-          "description": "みずほフィナンシャルグループ（ＦＧ）が、基幹システムの開発などを担当する人員を、システムの本格稼働後に約６割削減したことが３１日、分かった。今年６回の障害を起こしたみずほのシステムは全体像を把握するのが難しいほど規模が大きく、システムに習熟した人員を削減したことが障害の多発に影響した可能性もある...",
-          "link": "https://www.tokyo-np.co.jp/article/128071",
-          "publishedOn": "2021-09-02T11:02:24.000Z",
-          "wordCount": 292,
-          "title": "システム担当者を６割削減　みずほ、障害多発に影響か：東京新聞 TOKYO Web"
+          "description": "Haskellは関数型プログラミング言語と呼ばれますが、関数だけでなく型も重要な役割を担っています。アルゴリズムを考える時、手続きの最適化だけでなく、正しいデータ型を選択することがシンプルなアルゴリズムを導き、実装をコンパクトにできるというのはよくある話です。今回は非常に単純な型でありながら幅優先探索と...",
+          "link": "https://zenn.dev/lotz/articles/b0188c41d56786290897",
+          "publishedOn": "2021-09-03T07:51:27.000Z",
+          "wordCount": 1017,
+          "title": "Levelsモナドを使った幅優先探索の仕組み"
         },
         {
-          "id": "https://nazology.net/archives/95733",
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348439.html",
           "author": null,
-          "description": "Credit:Yuhang Li（Guangdong University of Technology）_Design of a Flying Humanoid Robot Based on Thrust Vector Control（2021） 全ての画像を見る 「空を飛ぶ人型ロボット」には、それが実用的かどうかはさておき、ロマンがあります。 そんな夢の実現に一歩近づいたのは、中国・広東工業大学（Guangdong Univers...",
-          "link": "https://nazology.net/archives/95733",
-          "publishedOn": "2021-09-02T10:25:10.000Z",
-          "wordCount": 420,
-          "title": "ついに飛行する二足歩行ロボットが誕生！ - ナゾロジー"
+          "description": "ASUSは9月2日(台湾時間)、13.3型/15.6型モバイル有機ELなどディスプレイ製品を複数発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348439.html",
+          "publishedOn": "2021-09-03T07:50:14.000Z",
+          "wordCount": 151,
+          "title": "ASUS、世界初を謳う13.3型有機ELモバイルディスプレイ。プロ向け31.5型4Kも - PC Watch"
         },
         {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
+          "id": "https://note.com/tadaki/n/n1f3354db38f7",
           "author": null,
-          "description": "米Adobeは9月1日（現地時間）、コードエディター「Brackets」のサポートを終了した。同社は、パートナー関係にあるMicrosoftが開発を主導する「Visual Studio Code」への移行を呼び掛けている。「Brackets」の利用や保守、改善を継続したい場合は、「GitHub」のプロジェクトサイトからソースコードをフォークすることも可能。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
-          "publishedOn": "2021-09-02T10:23:35.000Z",
-          "wordCount": 138,
-          "title": "Adobe、「Brackets」のサポートを終了 ～「Visual Studio Code」への移行を - 窓の杜"
-        },
-        {
-          "id": "https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/",
-          "author": null,
-          "description": "Changelog 2021-09-01: Added note about socket bugfix PR 2021-09-01: Added troubleshooting section about port forwarding bug Docker has recently announced that Docker Desktop will soon require a subscription and, based on the size of your company, may require a paid subscription. (It remains free ...",
-          "link": "https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/",
-          "publishedOn": "2021-09-02T09:38:42.000Z",
-          "wordCount": 1346,
-          "title": "'Migrating from Docker to Podman' by Marcus Noble"
-        },
-        {
-          "id": "https://mag.osdn.jp/21/09/03/180400",
-          "author": null,
-          "description": "米CloudLinuxは9月1日（米国時間）、2021年内でサポート終了となるRed Hatの「CentOS 8」のアップデートとサポートを2025年12月31日まで提供することを発表した。「余裕を持ってマイグレーション先を決定できる」と説明している。 CloudLinuxはRed Hatが2020年末にCentOS 8のサポートを2021年末で終了するという方針変更...",
-          "link": "https://mag.osdn.jp/21/09/03/180400",
-          "publishedOn": "2021-09-02T09:35:34.000Z",
-          "wordCount": 100,
-          "title": "AlmaLinuxの米CloudLinux、「CentOS 8」を2025年までサポート | OSDN Magazine"
-        },
-        {
-          "id": "https://zenn.dev/koduki/articles/ba54daaba28f93",
-          "author": null,
-          "description": "はじめに 新方針でDocker Desktopが大企業での利用の場合は商用ライセンスの使用が必要になるようです。新料金体系は8/31から実施ですが、2022年1月31日まで猶予期間があります。 個人やスモールビジネス、あるいは教育やOSSプロダクトなどは継続して無料版のPersonalを利用できるようですが、従業員数250人以上/年間売...",
-          "link": "https://zenn.dev/koduki/articles/ba54daaba28f93",
-          "publishedOn": "2021-09-02T09:28:01.000Z",
-          "wordCount": 368,
-          "title": "Docker Desktopの代替方法 - Windows and Mac編"
-        },
-        {
-          "id": "https://toranoana-lab.hatenablog.com/entry/2021/09/02/170127",
-          "author": null,
-          "description": "こんにちは。虎の穴ラボのH.Kです。 社内で非エンジニア向け勉強会を実施したので、そのレポートとなります。 概要 社内の非エンジニア職のメンバーに対して、虎の穴ラボ（エンジニア部隊）がプログラミングの勉強会を開催しました。 内容としてはGASを用いて、スプレッドシートの読み取りを行い、最終的にはSlackに読み...",
-          "link": "https://toranoana-lab.hatenablog.com/entry/2021/09/02/170127",
-          "publishedOn": "2021-09-02T08:22:50.000Z",
-          "wordCount": 221,
-          "title": "非エンジニア向けの社内プログラミング勉強会で得られたもの - 虎の穴開発室ブログ"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1348231.html",
-          "author": null,
-          "description": "Microsoftは1日(現地時間)、iOS向けのOffice Mobileアプリに、リアルタイム文字起こし機能を追加したと発表した。iPhoneといったiOSデバイスのマイクで拾った音声を即座に文字化できる。 バージョン2.53(21083001)より提供されるが、日本語に対応しているかは不明。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1348231.html",
-          "publishedOn": "2021-09-02T07:30:15.000Z",
-          "wordCount": 94,
-          "title": "iPhone用Officeにリアルタイム文字起こし機能 - PC Watch"
-        },
-        {
-          "id": "https://github.com/akon47/ScreenRecorder",
-          "author": null,
-          "description": "🌏 한국어 Screen Recorder It is a simple recording program with the ability to record the screen. Default Settings Advanced Settings 📃 Usage Pressing the round button starts recording and stops when pressing the square button. Pressing the Cogwheel button in the lower right corner displays a pop...",
-          "link": "https://github.com/akon47/ScreenRecorder",
-          "publishedOn": "2021-09-02T06:32:15.000Z",
-          "wordCount": 879,
-          "title": "GitHub - akon47/ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer."
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1348214.html",
-          "author": null,
-          "description": "Twitterは、スパムや不快と思われる返信を自動でブロックする機能「安全モード」を小規模グループに向けベータ実装すると発表した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1348214.html",
-          "publishedOn": "2021-09-02T06:23:12.000Z",
-          "wordCount": 90,
-          "title": "Twitter、不快なユーザーを自動ブロックする機能を実装へ。収益が得られるスーパーフォローも - PC Watch"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1348210.html",
-          "author": null,
-          "description": "Microsoftは、同社のイベントページを更新し、9月22日(米国東部時間、日本時間で9月23日深夜1時)に発表会を行なうとした。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1348210.html",
-          "publishedOn": "2021-09-02T05:21:33.000Z",
-          "wordCount": 100,
-          "title": "Microsoft、新Surfaceを9月23日に発表か - PC Watch"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35175976/",
-          "author": null,
-          "description": "スリーシェイクは9月2日、欧州のサイバーセキュリティ企業であるIntigritiと提携し、日本企業によるバグバウンティ（バグ報奨金制度）の運用を代行するサービス「Bugty（バグティ）」を開始すると発表した。料金は年間1000万円からで、ここにはプラットフォーム利用料、バグ報奨金のデポジット、代行手数料が含まれると...",
-          "link": "https://japan.cnet.com/article/35175976/",
-          "publishedOn": "2021-09-02T05:13:46.000Z",
-          "wordCount": 458,
-          "title": "バグ報奨金制度の運用代行サービス「Bugty」開始--スリーシェイクがIntigritiと提携 - CNET Japan"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/067/4067914/",
-          "author": null,
-          "description": "2000年代に入っていきなり電子工作のブームがやってくると予測できた人っているのだろうか？　「100個も売れれば」と考えて作られたというArduinoが、世界的にヒット商品になるとは！　Raspberry Piという小さな基板むきだしのコンピューターが、これも教育分野だけでなくIoTで世界を変えるほどのものになるとは！ 私が...",
-          "link": "https://ascii.jp/elem/000/004/067/4067914/",
-          "publishedOn": "2021-09-02T03:32:07.000Z",
-          "wordCount": 598,
-          "title": "ASCII.jp：Raspberry PiとArduinoがボクらにくれたものはなにか？"
-        },
-        {
-          "id": "https://gigazine.net/news/20210902-qualcomm-aptx-lossless/",
-          "author": null,
-          "description": "スマートフォン向けSoCのSnapdragonシリーズで知られるQualcommが、高音質コーデック「aptX Lossless」を発表しました。aptX LosslessはQualcommの次世代ワイヤレスオーディオ技術「Snapdragon Sound」の一環として提供され、対応した機器同士を接続することでCD音質の音楽を無劣化でワイヤレス再生することが可能になる...",
-          "link": "https://gigazine.net/news/20210902-qualcomm-aptx-lossless/",
-          "publishedOn": "2021-09-02T03:19:32.000Z",
-          "wordCount": 227,
-          "title": "Qualcommが高音質コーデック「aptX Lossless」を発表、CD音質の音楽を無劣化でワイヤレス再生可能に - GIGAZINE"
-        },
-        {
-          "id": "https://www.bloomberg.co.jp/news/articles/2021-09-01/QYRWYGT1UM1601",
-          "author": null,
-          "description": "米司法省反トラスト局はアルファベット傘下のグーグルによるデジタル広告ビジネスを巡り、同社を相手取った２件目の独占禁止法訴訟を準備している。事情に詳しい関係者１人が明らかにしたもので、グーグルが支配力を乱用しているとの米政府の主張を強める動きだ。 司法省はグーグルのデジタル広告慣行の調査を加速し、年...",
-          "link": "https://www.bloomberg.co.jp/news/articles/2021-09-01/QYRWYGT1UM1601",
-          "publishedOn": "2021-09-02T01:48:45.000Z",
-          "wordCount": 96,
-          "title": "米司法省がグーグルへの独禁法訴訟を準備－デジタル広告事業巡り - Bloomberg"
-        },
-        {
-          "id": "https://www.apple.com/jp/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/",
-          "author": null,
-          "description": "カリフォルニア州クパティーノ、ロンドン Appleは本日、有名なクラシック音楽ストリーミングサービスであるPrimephonicを買収したと発表しました。Primephonicは、クラシック音楽に最適化された検索およびブラウズ機能、最高品質のオーディオ、専門家が厳選したおすすめ、レパートリーと作品に関する豊富な関連情報を備...",
-          "link": "https://www.apple.com/jp/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/",
-          "publishedOn": "2021-09-02T01:27:09.000Z",
-          "wordCount": 316,
-          "title": "Apple、クラシック音楽ストリーミングサービスのPrimephonicを買収 - Apple (日本)"
-        },
-        {
-          "id": "https://speakerdeck.com/knagano1020/how-to-collect-and-utilize-information-by-notion",
-          "author": null,
-          "description": "Transcript Notionによる情報収集 と 活かし方 Katuya Nagano(@chitose_ng) 情報収集ハック 超LT会 vol4 自己紹介 2/100 % TVISION INSIGHTS株式会社 Company Writing Other Work テレビの視聴態度データを提供する会社 シニアデータサイエンティスト - 新規ソリューション開発 - クライアントワーク - R&D - マネジメン...",
-          "link": "https://speakerdeck.com/knagano1020/how-to-collect-and-utilize-information-by-notion",
-          "publishedOn": "2021-09-02T00:01:30.000Z",
-          "wordCount": 545,
-          "title": "Notionによる情報収集と活かし方 / How to collect and utilize information by Notion - Speaker Deck"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
-          "author": null,
-          "description": "8月の大雨は各地でさまざまな被害をもたらしたが、これから秋にかけて日本は台風シーズンとなり、引き続き大雨などへの警戒が求められる。そこで今回は、防災の日に合わせ、防災関連で定番となっているウェブサイトやアプリを紹介しよう。",
-          "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
-          "publishedOn": "2021-09-01T22:50:21.000Z",
+          "description": "こんにちは！アルプのデザイナーの大澤 (@Tadaki) です。 先日デジタル庁でデザインシステム勉強会の記事が公開されましたね。活用事例として私が所属するアルプでのデザインシステムについて紹介できればと思います。 アルプではサブスクリプションビジネスを行う企業向けに、今まで手作業や自社開発がスタンダードだっ...",
+          "link": "https://note.com/tadaki/n/n1f3354db38f7",
+          "publishedOn": "2021-09-03T07:02:52.000Z",
           "wordCount": 141,
-          "title": "知っておきたい「防災・災害対策の定番サイト＆アプリ」【地図と位置情報】 - INTERNET Watch"
+          "title": "業務を効率化させるデザインシステム｜Tadaki｜note"
         },
         {
-          "id": "https://www.pixiv.net/novel/show.php?id=15932690",
+          "id": "https://speakerdeck.com/ytaka23/cicd-conference-2021",
           "author": null,
-          "description": "こんにちは。 ユーザーが自由に入力したテキストに対し、AIが話の展開を自動生成してくれるADV「AIダンジョン」に最近ドハマリしているので、布教をかねてリプレイを和訳してみました。 AIダンジョンとGPT-3について少し説明します。AIダンジョンは基本無料ですが、ゴールド、プラチ...",
-          "link": "https://www.pixiv.net/novel/show.php?id=15932690",
-          "publishedOn": "2021-09-01T17:00:54.000Z",
-          "wordCount": 14,
-          "title": "#1 AIダンジョンが面白いのでゾンビシナリオリプレイを掲載 | ＡＩダンジョン - あぶぶの小説シリー - pixiv"
+          "description": "Transcript 君のセキュリティは デプロイするまでもなく 間違っている。 #CICD2021 #CICD2021_B チェシャ猫 (@y_taka_23) CI/CD Conference 2021 (3rd Sep. 2021) この設定、デプロイして大丈夫…？ Semantic-based Automated Reasoning for AWS Access Policies using SMT J. Backes et al. (2018) https://d1.awsstatic...",
+          "link": "https://speakerdeck.com/ytaka23/cicd-conference-2021",
+          "publishedOn": "2021-09-03T06:38:38.000Z",
+          "wordCount": 1176,
+          "title": "君のセキュリティはデプロイするまでもなく間違っている #CICD2021 / CICD Conference 2021 - Speaker Deck"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/03/news123.html",
+          "author": null,
+          "description": "石倉デジタル監、有料素材のサンプル画像を無断転載で謝罪　個人サイトを一時閉鎖、Twitterアカウントも一時非公開に デジタル庁の石倉洋子デジタル監が、画像素材サイト「PIXTA」の画像を自身の公式サイトに無断転載していた可能性があることが分かった。同サイトを運営するピクスタの執行役員が石倉デジタル監の公式Tw...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/03/news123.html",
+          "publishedOn": "2021-09-03T06:30:06.000Z",
+          "wordCount": 140,
+          "title": "石倉デジタル監、有料素材のサンプル画像を無断転載で謝罪　個人サイトを一時閉鎖、Twitterアカウントも一時非公開に - ITmedia NEWS"
+        },
+        {
+          "id": "https://tech-blog.rakus.co.jp/entry/20210903/youtube",
+          "author": null,
+          "description": "技術広報のyayawowoです。 エンジニアの皆さん、プログラミングの勉強は捗っていますか？ 効率的な学習ができていますか？ 本記事では、昨今盛り上がり続けているYoutube市場で、 プログラミング学習をメインで配信している国内・国外のチャンネルをご紹介します。 動画を見ながらコーディング学習もできるので、一石二...",
+          "link": "https://tech-blog.rakus.co.jp/entry/20210903/youtube",
+          "publishedOn": "2021-09-03T06:08:10.000Z",
+          "wordCount": 1164,
+          "title": "【2021年版】国内外Tech系YouTubeチャンネル10選 - 登録者数順まとめ！ - - RAKUS Developers Blog | ラクス エンジニアブログ"
+        },
+        {
+          "id": "https://twitter.com/y_taka_23/status/1433664888899977216",
+          "author": null,
+          "description": "本日の発表資料です。AWS IAM の意味論を SMT ソルバに解かせることで、デプロイ前にセキュリティ上の問題を検出するエンジン Zelkova の論文について解説します。 #CICD2021 #CICD2021B 君のセキ… https://t.co/RwhQyMY7Rh",
+          "link": "https://twitter.com/y_taka_23/status/1433664888899977216",
+          "publishedOn": "2021-09-03T06:00:52.000Z",
+          "wordCount": 196,
+          "title": "チェシャ猫 on Twitter: \"本日の発表資料です。AWS IAM の意味論を SMT ソルバに解かせることで、デプロイ前にセキュリティ上の問題を検出するエンジン Zelkova の論文について解説します。 #CICD2021 #CICD2021B 君のセキ… https://t.co/RwhQyMY7Rh\""
+        },
+        {
+          "id": "https://japan.googleblog.com/2021/09/15trendtips.html",
+          "author": null,
+          "description": "メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。",
+          "link": "https://japan.googleblog.com/2021/09/15trendtips.html",
+          "publishedOn": "2021-09-03T05:51:26.000Z",
+          "wordCount": 831,
+          "title": "Google Japan Blog: Google トレンドを活用するための 15 のヒント"
+        },
+        {
+          "id": "https://www.praha-inc.com/lab/posts/commit-message",
+          "author": null,
+          "description": "Gitを用いた開発作業を行う際、意図がわからないメッセージのコミットを積み重ねていくと、コミットログを見る人の負担が増えたり、コミットログを活用する習慣がなくなっていき、開発効率の低下を招きます。このような課題を未然に防ぐために、読み手を意識した「いいコミットメッセージ」を書いていく必要がありますが...",
+          "link": "https://www.praha-inc.com/lab/posts/commit-message",
+          "publishedOn": "2021-09-03T05:24:08.000Z",
+          "wordCount": 10,
+          "title": "いいコミットメッセージの共通点と書き方〜便利なテンプレートやチーム開発時のお作法まで詳しく解説〜   | PrAhaENGINEERLAB"
+        },
+        {
+          "id": "https://iphone-mania.jp/manual/trick-395214/",
+          "author": null,
+          "description": "iPhone13（iPhone12s）を予約！ソフトバンク、au、ドコモでいち早く購入する方法＆メリット！",
+          "link": "https://iphone-mania.jp/manual/trick-395214/",
+          "publishedOn": "2021-09-03T05:07:32.000Z",
+          "wordCount": 701,
+          "title": "【Tips】iPhoneのバッテリーを長持ちさせる10の方法 - iPhone Mania"
+        },
+        {
+          "id": "https://speakerdeck.com/kesin11/cdfalsebotorunetukuwoba-wo-dekiteimasuka-bigquerydebirudoqing-bao-datusiyubodowogou-zhu-sitahua",
+          "author": null,
+          "description": "Transcript CI/CDͷϘτϧωοΫΛ೺ѲͰ͖͍ͯ·͔͢ʁ BigQueryͰϏϧυ৘ใμογϡϘʔυΛ   ߏஙͨ͠࿩ CI/CD Conference 2021ʢ2021/09/03ʣ Ճ੉݈ଠ @Kesin11 ࣗݾ঺հ • ॴଐɿDeNAͷSWETάϧʔϓʢSoftWare Engineer in Testʣ • Twitterɿ@Kesin11ɺGitHubɿKesin11 • CI/CDαʔϏεͷϚχΞͳͷͰ༗໊ͳαʔϏε͸େମνϣοτϫΧϧ • ͜͜2೥΄ͲओʹϞόΠϧήʔϜͷJenkinsͷߏஙɺӡ༻ɺύΠϓϥΠϯߏங • CEDEC2020ʮϞ バ Πϧ ゲ ʔϜ։ൃʹ͓͚ΔJenkins...",
+          "link": "https://speakerdeck.com/kesin11/cdfalsebotorunetukuwoba-wo-dekiteimasuka-bigquerydebirudoqing-bao-datusiyubodowogou-zhu-sitahua",
+          "publishedOn": "2021-09-03T04:49:44.000Z",
+          "wordCount": 550,
+          "title": "CI/CDのボトルネックを把握できていますか？BigQueryでビルド情報ダッシュボードを構築した話 - Speaker Deck"
+        },
+        {
+          "id": "https://opensourcerails.org/",
+          "author": null,
+          "description": "Open-Source Ruby on Rails Applications A curated list of great open-source Ruby on Rails applications.",
+          "link": "https://opensourcerails.org/",
+          "publishedOn": "2021-09-03T04:35:25.000Z",
+          "wordCount": 1278,
+          "title": "OpenSourceRails.org"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1348449.html",
+          "author": null,
+          "description": "楽天モバイルは、メッセージアプリ「＋メッセージ」について、「MNO回線で対応予定はない」ことを明らかにした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1348449.html",
+          "publishedOn": "2021-09-03T04:26:57.000Z",
+          "wordCount": 98,
+          "title": "楽天モバイル、MNO回線で「＋メッセージ」は対応予定なし - ケータイ Watch"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/directconnect-redundantize/",
+          "author": null,
+          "description": "こんにちは。 ご機嫌いかがでしょうか。 \"No human labor is no human error\" が大好きな ネクストモード株式会社 の吉井です。 2021年9月2日に東京リージョンで Direct Connect 接続が失われるトラブルが発生しました。 Direct Connect は AWS VPC とオンプレミスデータセンターや拠点を専用線で結ぶサービスです。 高...",
+          "link": "https://dev.classmethod.jp/articles/directconnect-redundantize/",
+          "publishedOn": "2021-09-03T04:23:59.000Z",
+          "wordCount": 751,
+          "title": "トラブルに学ぶ Direct Connect 冗長化 | DevelopersIO"
+        },
+        {
+          "id": "https://japanese.engadget.com/apple-watch-series7-more-pixel-030037938.html",
+          "author": null,
+          "description": "次期Apple Watch Series 7(仮)にまつわる様々な噂が飛びかうなか、「ディスプレイが大きくなる」「新たな文字盤が用意される」ことはほぼ確実視されています。その続報として、より具体的な観測が伝えられています。 今回の発信源は、アップルのインサイダー情報でおなじみのBloomberg記者・Mark Gurman氏の記事です。Gu...",
+          "link": "https://japanese.engadget.com/apple-watch-series7-more-pixel-030037938.html",
+          "publishedOn": "2021-09-03T03:24:18.000Z",
+          "wordCount": 243,
+          "title": "Apple Watch Series 7(仮)、ピクセル数が16%増えて専用文字盤も追加の噂 - Engadget 日本版"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-395206/",
+          "author": null,
+          "description": "Patently Appleが、Apple Watch Series 7にはフルラミネーションディスプレイが搭載されると伝えています。 反射を抑え、薄型化に有利なフルラミネーションディスプレイ 同メディアは、Apple Watch Series 7は新しいラミネーション加工によるディスプレイを搭載、ディスプレイとカバーガラスの間隔が現行モデルよりも近...",
+          "link": "https://iphone-mania.jp/news-395206/",
+          "publishedOn": "2021-09-03T03:19:10.000Z",
+          "wordCount": 235,
+          "title": "Apple Watch Series 7がフルラミネーションディスプレイ搭載？ - iPhone Mania"
+        },
+        {
+          "id": "https://hachibeechan.hateblo.jp/entry/domain-driven-deskwork",
+          "author": null,
+          "description": "DDD失敗パターン集 DDDという方法論それ自体に対する僕の立場はあんま好きじゃない寄りのフラット（といいつつほぼ忘れかけている）なんですが、過去何度もDDDでプロジェクトが爆死するのをみたり、爆破してしまったり……というのを見てきたので供養したいとおもいます。 メンバーの大半がDDDを知らない 「えっ!? ドメイ...",
+          "link": "https://hachibeechan.hateblo.jp/entry/domain-driven-deskwork",
+          "publishedOn": "2021-09-03T02:37:47.000Z",
+          "wordCount": 285,
+          "title": "実はDDDってしっくりこないんです - タオルケット体操"
+        },
+        {
+          "id": "https://tech.classi.jp/entry/2021/09/03/070000",
+          "author": null,
+          "description": "こんにちは、サイバーセキュリティ推進部の野溝(@nomizooone)です。普段はClassiサービスの脆弱性診断や顧客対応などを担当しています。 先日、Hardening Projectにより開催された/dev/hardening – Hardening Drivers Conference 2021 のセッション「CSIRTの受援力」にて、私を含むClassiサイバーセキュリティ推進部の3...",
+          "link": "https://tech.classi.jp/entry/2021/09/03/070000",
+          "publishedOn": "2021-09-03T02:19:33.000Z",
+          "wordCount": 163,
+          "title": "Hardening Drivers Conference 2021でCSIRTの受援力についてパネルディスカッションをしました - Classi開発者ブログ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/03/news083.html",
+          "author": null,
+          "description": "ZOZOテクノロジーズが10年分のファッションのデータセットをオープンソース化。流行が変化してもAIの認識精度を高く保つ研究への活用を見込む。 ZOZOテクノロジーズは9月2日、服のコーディネート約255万件とアイテム約200万件などを含むデータセット「Shift15M」をオープンソースとしてGitHubで公開したと発表した。服の...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/03/news083.html",
+          "publishedOn": "2021-09-03T01:58:27.000Z",
+          "wordCount": 146,
+          "title": "ZOZO、10年分のファッションデータをオープンソース化　流行に左右されないAI研究に期待 - ITmedia NEWS"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/review/review/1344087.html",
+          "author": null,
+          "description": "完全ワイヤレスが“イヤフォンの定番”になりつつある昨今。多くのメーカーが参入し、まさに玉石混淆状態で「どれを選べばいいのやら」状態の人も多いだろう。そんな市場に、要注目の“大物”が登場した。オーディオスピーカーにおける人気メーカー、あの英Bowers & Wilkinsが参入したのだ。",
+          "link": "https://av.watch.impress.co.jp/docs/review/review/1344087.html",
+          "publishedOn": "2021-09-03T01:11:37.000Z",
+          "wordCount": 187,
+          "title": "【レビュー】B&W、ついに完全ワイヤレス参入。音質・デザイン・強力なNCを体験する - AV Watch"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/dlis/1347894.html",
+          "author": null,
+          "description": "2021年7月7日、株式会社ニップンはグループ企業で利用している複数のシステムで障害が起きていることに気が付きました。すぐにネットワークを遮断して、外部のセキュリティ専門家に調査を依頼したところ、サイバー攻撃を受けたことが判明しました。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/dlis/1347894.html",
+          "publishedOn": "2021-09-02T22:22:13.000Z",
+          "wordCount": 101,
+          "title": "国内の製粉大手がサイバー攻撃の被害に、ランサムウェア対策にはオフラインバックアップが有効【被害事例に学ぶ、高齢者のためのデジタルリテラシー】 - INTERNET Watch"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/save-google-spreadsheet-table-as-json-to-s3/",
+          "author": null,
+          "description": "Guten Tag、伊藤です。 弊社で管理しているいくつかの AWS アカウントについて、それぞれの利用費を取得して、対象の通貨ごとに計算したいと思いました。 ということで、AWSアカウント一覧表をスプレッドシートで管理し、それをJSONファイルとしてS3に格納、Lambdaで処理してSlackのスラッシュコマンドで計算結果を出力...",
+          "link": "https://dev.classmethod.jp/articles/save-google-spreadsheet-table-as-json-to-s3/",
+          "publishedOn": "2021-09-02T18:06:54.000Z",
+          "wordCount": 845,
+          "title": "Google スプレッドシートの表をS3へJSONファイルとして保存する | DevelopersIO"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/spv/2109/02/news166_0.html",
+          "author": null,
+          "description": "デジタル庁事務方トップに就任した石倉洋子氏の発言が話題に質疑での発言を一問一答形式でまとめた石倉デジタル監はPythonに挑戦した経験もあるという",
+          "link": "https://www.itmedia.co.jp/news/spv/2109/02/news166_0.html",
+          "publishedOn": "2021-09-02T15:15:13.000Z",
+          "wordCount": 28,
+          "title": "「私はデジタルの専門家でもエンジニアでもない」――石倉洋子デジタル監の発言が話題に　質疑での発言全文（要約） - ITmedia NEWS"
         }
       ]
     },
@@ -1030,6 +1003,24 @@
       "siteUrl": "https://www.infoworld.com",
       "articles": [
         {
+          "id": "https://www.infoworld.com/article/3632113/visual-studio-code-editor-moves-forward-on-language-detection.html#tk.rss_all",
+          "author": "Paul Krill",
+          "description": "With the latest release of its Visual Studio Code editor, Microsoft is highlighting capabilities such as automatic language detection, now enabled by default.\nVisual Studio Code 1.60, also known as the August 2021 version of the editor, was published September 2, and it can be downloaded from the project website. In this release, machine learning-based automatic language detection sets the language mode for untitled files based on contents. Previewed in Visual Studio Code 1.59 last month, the capability now moves to a default mode. Also, language detection has been expanded to include files that do not have a file extension. Elsewhere in the 1.60 release:\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3632113/visual-studio-code-editor-moves-forward-on-language-detection.html#tk.rss_all",
+          "publishedOn": "2021-09-03T18:39:00.000Z",
+          "wordCount": 644,
+          "title": "Visual Studio Code editor moves forward on language detection"
+        },
+        {
+          "id": "https://www.infoworld.com/article/3632349/cloud-security-and-architecture-teams-need-to-communicate-better.html#tk.rss_all",
+          "author": "David Linthicum",
+          "description": "In doing postmortems on breaches of applications and data sets in the cloud, problems are often traced back to communication. Frequently, it’s not issues with computer-to-computer communication, but communications with the humans designing the cloud-based systems and those who are charged with its security.\nThe applications using modern mechanisms such as containers, Kubernetes, and microservices are often missing security vulnerabilities that they are exposing. The analogy I like to use is that architects are designing the best smart building known to the world but not installing locks. The locks needed to be engineered into the building during the design and not be an afterthought, as they often are in the world of cloud system security.\nTo read this article in full, please click here",
+          "link": "https://www.infoworld.com/article/3632349/cloud-security-and-architecture-teams-need-to-communicate-better.html#tk.rss_all",
+          "publishedOn": "2021-09-03T10:00:00.000Z",
+          "wordCount": 801,
+          "title": "Cloud security and architecture teams need to communicate better"
+        },
+        {
           "id": "https://www.infoworld.com/article/3632108/microsoft-offers-productivity-power-tools-for-visual-studio-2022-ide.html#tk.rss_all",
           "author": "Paul Krill",
           "description": "Microsoft has made available its Productivity Power Tools extensions for its upcoming Visual Studio 2022 IDE, providing capabilities ranging from HTML copying to error message viewing.\nAvailable for download from the Visual Studio Marketplace, the Productivity Power Tools (PPT) for Visual Studio 2022 pack is a suite of extensions intended to improve overall productivity. Visual Studio 2022, now in a preview stage, is a planned 64-bit version of the IDE. The suite was unveiled on August 31 and includes the following extensions:\nTo read this article in full, please click here",
@@ -1044,7 +1035,7 @@
           "description": "Securing web applications is an inherently complex proposition. Spring Security offers Java developers a powerful framework for addressing this need, but that power comes with a steep learning curve.\nThis article offers a concise survey of the essential components behind securing a REST API with Spring Security. We’ll build a simple app that uses a JSON Web Token (JWT) to store the user’s information.\n\n[ Also on InfoWorld: How Kubernetes works ]\nJWT is fast becoming the standard approach to holding auth information because of its simplicity and compactness.\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-security.html#tk.rss_all",
           "publishedOn": "2021-09-02T10:00:00.000Z",
-          "wordCount": 1871,
+          "wordCount": 1831,
           "title": "How to secure REST with Spring Security"
         },
         {
@@ -1062,7 +1053,7 @@
           "description": "Looking to advance Python performance, data science platform provider Anaconda has hired the lead developers of the Pyston alternative Python runtime.\nThe developers, Kevin Modzelewski and Marius Wachtler, will focus on building an open source community of users, contributors, and maintainers, with the goal of ensuring Pyston’s long-term sustainability. Support from Anaconda will enable the developers to spread usage of Pyston, Modzelewski said in a statement. Another goal is improving Python performance across a variety of applications.\n\n[ Also on InfoWorld: 5 great libraries for profiling Python code ]\nSupport from Anaconda will further accelerate Pyston’s development and adoption among software engineers, Anaconda said on August 30. As the project goes forward, areas of interest for Pyston development include enhanced compatibility with existing binary Python packages and expanding Pyston to additional hardware platforms.\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3631545/pyston-the-python-alternative-gets-backing-from-anaconda.html#tk.rss_all",
           "publishedOn": "2021-09-01T10:00:00.000Z",
-          "wordCount": 517,
+          "wordCount": 559,
           "title": "Pyston, the Python alternative, gets backing from Anaconda"
         },
         {
@@ -1134,7 +1125,7 @@
           "description": "Are you planning an application migration? Perhaps you are moving your on-premises application to the cloud, or perhaps you are moving your monolithic application to a service-oriented or microservice architecture.\nMigrations such as these are commitments. Commitments of time. Commitments of resources. Commitments of mind-set and corporate energy.\nMigrations are not easy to pull off.\n\n[ Also on InfoWorld: How enterprises are bringing pandemic-driven cloud costs under control ]\nMigrations can involve long and evolved transitions, and usually, the effort expended does not directly align to a realized benefit. Often the benefit comes much later than the investment. Sometimes things even get worse before they get better.\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3630388/dont-stop-your-migration.html#tk.rss_all",
           "publishedOn": "2021-08-30T10:00:00.000Z",
-          "wordCount": 1544,
+          "wordCount": 1591,
           "title": "Don’t stop your migration!"
         },
         {
@@ -1161,7 +1152,7 @@
           "description": "Kubernetes is hard, and so is getting certified on the container orchestration technology, but there are some surefire resources, tips, and tricks that will help you pass the tough exams.\n\n[ Also on InfoWorld: 4 reasons to get Kubernetes-certified, and 4 reasons not to ]\nFirst launched in 2017, there are three primary Kubernetes certfications under the Cloud Native Computing Foundation (CNCF) and Linux Foundation banners:\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3631108/how-to-nail-the-kubernetes-certification-exams.html#tk.rss_all",
           "publishedOn": "2021-08-26T10:00:00.000Z",
-          "wordCount": 1125,
+          "wordCount": 1166,
           "title": "How to nail the Kubernetes certification exams"
         },
         {
@@ -1179,7 +1170,7 @@
           "description": "Today’s web applications are nowhere near as fast and responsive as native desktop applications, but what if they could be? That’s the promise of WebAssembly.\nWebAssembly is a low-level, assembly-like language with a compact binary format that runs with near-native performance in web browsers. At the same time, WebAssembly provides a portable compilation target for C/C++, C#, Rust, Go, Kotlin, Swift, and other programming languages.\n\n[ Also on InfoWorld: 7 tools transforming JavaScript development ]\nHailed as a way to both improve web application performance and allow languages other than JavaScript to be used in the development of browser apps, WebAssembly is championed by Google, Mozilla, Apple, and Microsoft, all of which support the technology in their browser engines.\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3619608/12-hot-language-projects-riding-webassembly.html#tk.rss_all",
           "publishedOn": "2021-08-26T10:00:00.000Z",
-          "wordCount": 1835,
+          "wordCount": 1795,
           "title": "12 hot language projects riding WebAssembly"
         },
         {
@@ -1206,7 +1197,7 @@
           "description": "Devops has become common in software-development organizations around the world, but many companies are still struggling with cultural issues that are dampening security practitioners’ influence in the devsecops practices crucial for next-generation cloud application development.\nWhen it’s done well, devops is driving dramatic change—with GitLab’s recently released 2021 devsecops survey of nearly 4,300 respondents finding that the COVID-19 pandemic had “energized teams to focus on embracing cutting-edge devops technologies” including Kubernetes, artificial intelligence, machine learning, and cloud computing.\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3630656/security-blind-spots-persist-as-companies-cross-breed-security-with-devops.html#tk.rss_all",
           "publishedOn": "2021-08-25T10:00:00.000Z",
-          "wordCount": 1066,
+          "wordCount": 1119,
           "title": "Security blind spots persist as companies cross-breed security with devops"
         },
         {
@@ -1233,7 +1224,7 @@
           "description": "Companies including Microsoft, Google, and Facebook are backing an initiative to promote the extended Berkley Packet Filter (eBPF), technology that enables developers to safely embed programs in any piece of software including operating system kernels.\nHosted by the Linux Foundation, the new eBPF Foundation, which was unveiled August 12, plans to expand eBPF and extend it beyond Linux. The eBPF Foundation will be the home for eBPF open source projects and drive adoption of eBPF and participation in the eBPF community. Other founding members include Netflix and Isovalent.\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3630771/microsoft-google-partner-on-ebpf.html#tk.rss_all",
           "publishedOn": "2021-08-24T10:00:00.000Z",
-          "wordCount": 594,
+          "wordCount": 552,
           "title": "Microsoft, Google partner on eBPF"
         },
         {
@@ -1278,26 +1269,8 @@
           "description": "Container orchestration with Kubernetes is one of the most in-demand skills in technology today, but it is also hard, with many IT professionals deciding to pursue certifications to prove their chops. But are these certifications worth the time and money?\nTo read this article in full, please click here",
           "link": "https://www.infoworld.com/article/3629750/4-reasons-to-get-kubernetes-certified-and-4-reasons-not-to.html#tk.rss_all",
           "publishedOn": "2021-08-23T10:00:00.000Z",
-          "wordCount": 1941,
+          "wordCount": 1982,
           "title": "4 reasons to get Kubernetes-certified, and 4 reasons not to"
-        },
-        {
-          "id": "https://www.infoworld.com/article/3629454/tips-for-agile-and-devops-teams-in-a-hybrid-work-model.html#tk.rss_all",
-          "author": "Isaac Sacolick",
-          "description": "Many leaders are hoping that the worst of COVID-19 is behind us, and leaders are now considering their return-to-work policies, flexible working practices, and ongoing adoption of collaborating technologies. Will leaders support hybrid work, or will they require employees to return to the office full time?\nAccording to one recent survey, 73% of employees seek hybrid-work environments where they have some flexibility in where and when they work. Another survey suggests that 39% of employees will consider quitting if organizational leaders force them back to the office full time. In a recent internal survey at Apple, 90% of respondents said they “strongly agree” with the statement “location-flexible working options are a very important issue to me.”\nTo read this article in full, please click here",
-          "link": "https://www.infoworld.com/article/3629454/tips-for-agile-and-devops-teams-in-a-hybrid-work-model.html#tk.rss_all",
-          "publishedOn": "2021-08-23T10:00:00.000Z",
-          "wordCount": 1626,
-          "title": "Tips for agile and devops teams in a hybrid work model"
-        },
-        {
-          "id": "https://www.infoworld.com/article/3630389/jetbrains-go-language-ide-prepares-for-generics.html#tk.rss_all",
-          "author": "Paul Krill",
-          "description": "GoLand, JetBrains’ cross-platform IDE for Go programmers, is set to add accommodations for the generics capabilities eyed for the Google-developed language.\nA roadmap published for GoLand 2021.3 on August 12 cites the planned addition of code inspections, refactorings, and intention actions for working with generics under the sub-heading of “Go 1.18.” A language feature that boosts code sharing and makes it easier to build programs, generics has been cited for possible inclusion in Go 1.18 beta releases by the end of this year.\n\n[ Also on InfoWorld: How Kubernetes works ]\nAlso in support of Go 1.18, JetBrains plans a new workspace mode for GoLand, making it possible to implement changes across multiple modules from a single place. Other capabilities on the GoLand 2021.3 roadmap include:\nTo read this article in full, please click here",
-          "link": "https://www.infoworld.com/article/3630389/jetbrains-go-language-ide-prepares-for-generics.html#tk.rss_all",
-          "publishedOn": "2021-08-21T10:00:00.000Z",
-          "wordCount": 551,
-          "title": "JetBrains’ Go language IDE prepares for generics"
         }
       ]
     }
